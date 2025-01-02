@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: json files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-11-05 12:47+0000\n"
+"PO-Revision-Date: 2024-11-01 23:24+0000\n"
+"Last-Translator: Kizito Birabwa <kbirabwa@yahoo.co.uk>\n"
+"Language-Team: Luganda <kde-i18n-doc@kde.org>\n"
+"Language: lg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2\n"
+
+#: src/ioslaves/trash/trash.json
+msgctxt "trash ExtraNames"
+msgid "Original Path;Deletion Date"
+msgstr "Obwali obusangiro;Amagyawo"
+
+#: src/kioworkers/http/kcookiejar/kcookiejar.json
+msgctxt "Name"
+msgid "Cookie Jar"
+msgstr "Kikongojjakajjukiza"
+
+#: src/kioworkers/remote/kdedmodule/remotedirnotify.json
+msgctxt "Name"
+msgid "Remote URL Change Notifier"
+msgstr "Kitemya ku nkyuuka mu ndagiriro ey'ebunaayira"
+
+#: src/kpac/proxyscout.json
+msgctxt "Name"
+msgid "Network Proxy Configuration"
+msgstr "Nteekateeka za masanganzira etuuka ku mutimbagano"
+
+#: src/kioworkers/http/kcookiejar/kcookiejar.json
+msgctxt "Description"
+msgid "Stores network cookies"
+msgstr "Kitereka obujjukiza obuvudde ku mutimbagano"
+
+#: src/kioworkers/remote/kdedmodule/remotedirnotify.json
+msgctxt "Description"
+msgid "Provides change notification for network folders"
+msgstr "Kikumanyisa nga wazzewo enkyuuka ku kisangibwa ku kayungirizi"
+
+#: src/kpac/proxyscout.json
+msgctxt "Description"
+msgid "Automatic proxy configuration"
+msgstr "Kunoonya n'okuteekateeka masanganzira etuuka ku mutimbagano"
+
