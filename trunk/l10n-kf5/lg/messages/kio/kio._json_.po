@@ -47,4 +47,3 @@ msgstr "Kikumanyisa nga wazzewo enkyuuka ku kisangibwa ku kayungirizi"
 msgctxt "Description"
 msgid "Automatic proxy configuration"
 msgstr "Kunoonya n'okuteekateeka masanganzira etuuka ku mutimbagano"
-

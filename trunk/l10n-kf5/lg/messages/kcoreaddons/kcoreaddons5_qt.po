@@ -60,10 +60,12 @@ msgstr "Kika kitategeerese"
 
 #: lib/kaboutdata.cpp:265
 msgctxt "KAboutLicense|"
-msgid "No licensing terms for this program have been specified.\n"
+msgid ""
+"No licensing terms for this program have been specified.\n"
 "Please check the documentation or the source for any\n"
 "licensing terms.\n"
-msgstr "Tewali kiraga layisensi efuga okusaasaanya n'okukozesa puloguramu eno.\n"
+msgstr ""
+"Tewali kiraga layisensi efuga okusaasaanya n'okukozesa puloguramu eno.\n"
 "Osobola okukebera mu biwandiko ebigijjirako oba mu bulambe bw'ekiwandike\n"
 "kya yo eky'ennono okulaba oba waliwo eky'ogera ku bya layisensi.\n"
 
@@ -91,7 +93,9 @@ msgstr "LGPL v2"
 #: lib/kaboutdata.cpp:326
 msgctxt "KAboutLicense|@item license"
 msgid "GNU Lesser General Public License Version 2"
-msgstr "Layisinsi eya Bonna eya GNU ekkiriza okuyungako sofutiweya owa layisinsi endala Luwandika 2"
+msgstr ""
+"Layisinsi eya Bonna eya GNU ekkiriza okuyungako sofutiweya owa layisinsi "
+"endala Luwandika 2"
 
 #: lib/kaboutdata.cpp:329
 msgctxt "KAboutLicense|@item license (short name)"
@@ -106,12 +110,16 @@ msgstr "Layisensi ya BSD"
 #: lib/kaboutdata.cpp:333
 msgctxt "KAboutLicense|@item license (short name)"
 msgid "Artistic License"
-msgstr "Layisensi ekukkiriza ebipya eby'esigamizidwa ku by'efuga okubisaasaanyiza ku layisensi ey'ebyasofuti ebitaliiko bukugire endala"
+msgstr ""
+"Layisensi ekukkiriza ebipya eby'esigamizidwa ku by'efuga okubisaasaanyiza ku "
+"layisensi ey'ebyasofuti ebitaliiko bukugire endala"
 
 #: lib/kaboutdata.cpp:334
 msgctxt "KAboutLicense|@item license"
 msgid "Artistic License"
-msgstr "Layisensi ekukkiriza ebipya eby'esigamizidwa ku by'efuga okubisaasaanyiza ku layisensi ey'ebyasofuti ebitaliiko bukugire endala"
+msgstr ""
+"Layisensi ekukkiriza ebipya eby'esigamizidwa ku by'efuga okubisaasaanyiza ku "
+"layisensi ey'ebyasofuti ebitaliiko bukugire endala"
 
 #: lib/kaboutdata.cpp:337
 msgctxt "KAboutLicense|@item license (short name)"
@@ -141,7 +149,9 @@ msgstr "LGPL v3"
 #: lib/kaboutdata.cpp:346
 msgctxt "KAboutLicense|@item license"
 msgid "GNU Lesser General Public License Version 3"
-msgstr "Layisinsi eya Bonna eya GNU ekkiriza okuyungako sofutiweya owa layisinsi endala Luwandika 3"
+msgstr ""
+"Layisinsi eya Bonna eya GNU ekkiriza okuyungako sofutiweya owa layisinsi "
+"endala Luwandika 3"
 
 #: lib/kaboutdata.cpp:349
 msgctxt "KAboutLicense|@item license (short name)"
@@ -151,7 +161,9 @@ msgstr "LGPL v2.1"
 #: lib/kaboutdata.cpp:350
 msgctxt "KAboutLicense|@item license"
 msgid "GNU Lesser General Public License Version 2.1"
-msgstr "Layisinsi eya Bonna eya GNU ekkiriza okuyungako sofutiweya owa layisinsi endala Luwandika 2.1"
+msgstr ""
+"Layisinsi eya Bonna eya GNU ekkiriza okuyungako sofutiweya owa layisinsi "
+"endala Luwandika 2.1"
 
 #: lib/kaboutdata.cpp:354
 msgctxt "KAboutLicense|@item license"
@@ -165,8 +177,16 @@ msgstr "Tewali kitegekedwa"
 
 #: lib/kaboutdata.cpp:972
 msgctxt "KAboutData|replace this with information about your translation team"
-msgid "<p>KDE is translated into many languages thanks to the work of the translation teams all over the world.</p><p>For more information on KDE internationalization visit <a href=\"https://l10n.kde.org\">https://l10n.kde.org</a></p>"
-msgstr "<p>KDE esobola okukolera mu nnimi nyingi nyo olwa kawefube wa ttiimu ez'abakyuusa ezisangibwa mu nsonda zonna ez'ensi.</p><p>Okuyiga ebisingawo ku kusobozesa KDE okukolera wonna genda ku <a href=\"https://l10n.kde.org\">https://l10n.kde.org</a></p>"
+msgid ""
+"<p>KDE is translated into many languages thanks to the work of the "
+"translation teams all over the world.</p><p>For more information on KDE "
+"internationalization visit <a href=\"https://l10n.kde.org\">https://l10n.kde."
+"org</a></p>"
+msgstr ""
+"<p>KDE esobola okukolera mu nnimi nyingi nyo olwa kawefube wa ttiimu "
+"ez'abakyuusa ezisangibwa mu nsonda zonna ez'ensi.</p><p>Okuyiga ebisingawo "
+"ku kusobozesa KDE okukolera wonna genda ku <a href=\"https://l10n.kde.org"
+"\">https://l10n.kde.org</a></p>"
 
 #: lib/kaboutdata.cpp:1232
 msgctxt "KAboutData CLI|"
@@ -181,7 +201,8 @@ msgstr "Ndaga ebifa ku layisensi."
 #: lib/kaboutdata.cpp:1235
 msgctxt "KAboutData CLI|"
 msgid "The base file name of the desktop entry for this application."
-msgstr "Linnya lya fayiro ekola nyunzi ey'ekika kya 'freedesktop' eya puloguramu eno."
+msgstr ""
+"Linnya lya fayiro ekola nyunzi ey'ekika kya 'freedesktop' eya puloguramu eno."
 
 #: lib/kaboutdata.cpp:1236
 msgctxt "KAboutData CLI|"
@@ -202,7 +223,9 @@ msgstr "%1 yawandikibwa:"
 #: lib/kaboutdata.cpp:1259
 msgctxt "KAboutData CLI|"
 msgid "Please use https://bugs.kde.org to report bugs."
-msgstr "Obubaka obutemya ku mpulunguse ezizuulidwa osobola okubuleka ku https://bugs.kde.org."
+msgstr ""
+"Obubaka obutemya ku mpulunguse ezizuulidwa osobola okubuleka ku https://bugs."
+"kde.org."
 
 #: lib/kaboutdata.cpp:1261
 #, qt-format
@@ -734,7 +757,9 @@ msgid "%1 and %2"
 msgstr "%1 ne %2"
 
 #: lib/util/kformatprivate.cpp:478
-msgctxt "KFormat|used when a relative date string can't be generated because the date is invalid"
+msgctxt ""
+"KFormat|used when a relative date string can't be generated because the date "
+"is invalid"
 msgid "Invalid date"
 msgstr "Ennaku tezitegeerese"
 
@@ -805,4 +830,3 @@ msgstr "Nnemedwa okutandika `lsof'. Namba ya kiremya eri %1"
 msgctxt "QObject|"
 msgid "KListOpenFilesJob is not supported on Windows"
 msgstr "Windows tetegeera KListOpenFilesJob"
-
