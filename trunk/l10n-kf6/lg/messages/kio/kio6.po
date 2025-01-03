@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kio\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-12-01 00:37+0000\n"
+"POT-Creation-Date: 2024-12-15 00:38+0000\n"
 "PO-Revision-Date: 2024-12-21 00:27+0000\n"
 "Last-Translator: Kizito Birabwa <kbirabwa@yahoo.co.uk>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -35,8 +35,12 @@ msgstr "Tekisobose okukyusamu obwanannyini bwa fayiro %1"
 
 #: core/chmodjob.cpp:235
 #, kde-kuit-format
-msgid "Could not modify the ownership of file <filename>%1</filename>. You have insufficient access to the file to perform the change."
-msgstr "Tekisobose okukyusamu obwanannyini bwa fayiro <filename>%1</filename>. Endukusa z'olina ku sisitemu eno tezikumala okutuukiriza kino."
+msgid ""
+"Could not modify the ownership of file <filename>%1</filename>. You have "
+"insufficient access to the file to perform the change."
+msgstr ""
+"Tekisobose okukyusamu obwanannyini bwa fayiro <filename>%1</filename>. "
+"Endukusa z'olina ku sisitemu eno tezikumala okutuukiriza kino."
 
 #: core/connectionbackend.cpp:107
 #, kde-format
@@ -45,29 +49,45 @@ msgstr "Nnemedwa okukolawo puloguramu eyeyazikibwa eya KIO: %1"
 
 #: core/copyjob.cpp:167 kioworkers/file/file_unix.cpp:1142
 #, kde-format
-msgctxt "The first arg is the path to the symlink that couldn't be created, the secondarg is the filesystem type (e.g. vfat, exfat)"
-msgid "Could not create symlink \"%1\".\n"
+msgctxt ""
+"The first arg is the path to the symlink that couldn't be created, the "
+"secondarg is the filesystem type (e.g. vfat, exfat)"
+msgid ""
+"Could not create symlink \"%1\".\n"
 "The destination filesystem (%2) doesn't support symlinks."
-msgstr "Nnemedwa okukolawo enyunzi eyeyawudde \"%1\".\n"
+msgstr ""
+"Nnemedwa okukolawo enyunzi eyeyawudde \"%1\".\n"
 "Sisitemu kweyandigguse (%2) tesobola eby'enyunzi ezeyawudde."
 
 #: core/copyjob.cpp:179
 #, kde-format
-msgid "Could not create \"%1\".\n"
-"The destination filesystem (%2) disallows the following characters in folder names: %3\n"
-"Selecting Replace will replace any invalid characters (in the destination folder name) with an underscore \"_\"."
-msgstr "Nnemedwa okukolawo  \"%1\".\n"
-"Sistemu kweyandikoledwa (%2)  tekkiriza mannya ga materekero kubaamu obubonero buno obuddako: %3\n"
-"Bw'olonda \"Kyusa Ekiriwo\" awali obubonero obutakkirizibwa (mu linnya lya tterekero erikolebwawo) wajja okuddawo ka \"_\"."
+msgid ""
+"Could not create \"%1\".\n"
+"The destination filesystem (%2) disallows the following characters in folder "
+"names: %3\n"
+"Selecting Replace will replace any invalid characters (in the destination "
+"folder name) with an underscore \"_\"."
+msgstr ""
+"Nnemedwa okukolawo  \"%1\".\n"
+"Sistemu kweyandikoledwa (%2)  tekkiriza mannya ga materekero kubaamu "
+"obubonero buno obuddako: %3\n"
+"Bw'olonda \"Kyusa Ekiriwo\" awali obubonero obutakkirizibwa (mu linnya lya "
+"tterekero erikolebwawo) wajja okuddawo ka \"_\"."
 
 #: core/copyjob.cpp:187
 #, kde-format
-msgid "Could not create \"%1\".\n"
-"The destination filesystem (%2) disallows the following characters in file names: %3\n"
-"Selecting Replace will replace any invalid characters (in the destination file name) with an underscore \"_\"."
-msgstr "Nnemedwa okukolawo  \"%1\".\n"
-"Sistemu kweyandikoledwa (%2)  tekkiriza mannya ga fayiro kubaamu obubonero buno obuddako: %3\n"
-"Bw'olonda \"Kyusa Ekiriwo\" awali obubonero obutakkirizibwa (mu linnya lya fayiro ekolebwawo) wajja okuddawo ka \"_\"."
+msgid ""
+"Could not create \"%1\".\n"
+"The destination filesystem (%2) disallows the following characters in file "
+"names: %3\n"
+"Selecting Replace will replace any invalid characters (in the destination "
+"file name) with an underscore \"_\"."
+msgstr ""
+"Nnemedwa okukolawo  \"%1\".\n"
+"Sistemu kweyandikoledwa (%2)  tekkiriza mannya ga fayiro kubaamu obubonero "
+"buno obuddako: %3\n"
+"Bw'olonda \"Kyusa Ekiriwo\" awali obubonero obutakkirizibwa (mu linnya lya "
+"fayiro ekolebwawo) wajja okuddawo ka \"_\"."
 
 #: core/copyjob.cpp:1395 core/job_error.cpp:585
 #, kde-format
@@ -102,8 +122,11 @@ msgstr "Puloguramu '%1' embuze"
 
 #: core/desktopexecparser.cpp:363
 #, kde-format
-msgid "The program '%1' was found at '%2' but it is missing executable permissions."
-msgstr "Puloguramu '%1' ku '%2' kweri naye ebulako ndukusa ezigikkiriza okutandikibwa."
+msgid ""
+"The program '%1' was found at '%2' but it is missing executable permissions."
+msgstr ""
+"Puloguramu '%1' ku '%2' kweri naye ebulako ndukusa ezigikkiriza "
+"okutandikibwa."
 
 #: core/desktopexecparser.cpp:365
 #, kde-format
@@ -274,8 +297,12 @@ msgstr "Kyusa Atiributo"
 
 #: core/job.cpp:266
 #, kde-format
-msgid "Root privileges are required to change file attributes. Do you want to continue?"
-msgstr "Okukyusa atiributo za fayiro kyetaagisa buyinza bwa muteesiteesi. Oyagala okugenda mu maaso?"
+msgid ""
+"Root privileges are required to change file attributes. Do you want to "
+"continue?"
+msgstr ""
+"Okukyusa atiributo za fayiro kyetaagisa buyinza bwa muteesiteesi. Oyagala "
+"okugenda mu maaso?"
 
 #: core/job.cpp:270
 #, kde-format
@@ -284,8 +311,12 @@ msgstr "Kola Koppi mu Fayiro"
 
 #: core/job.cpp:272
 #, kde-format
-msgid "Root privileges are required to complete the copy operation. Do you want to continue?"
-msgstr "Okukola koppi mu fayiro kyetaagisa buyinza bwa muteesiteesi. Oyagala okugenda mu maaso?"
+msgid ""
+"Root privileges are required to complete the copy operation. Do you want to "
+"continue?"
+msgstr ""
+"Okukola koppi mu fayiro kyetaagisa buyinza bwa muteesiteesi. Oyagala "
+"okugenda mu maaso?"
 
 #: core/job.cpp:276
 #, kde-format
@@ -294,8 +325,12 @@ msgstr "Gyawo fayiro"
 
 #: core/job.cpp:278
 #, kde-format
-msgid "Root privileges are required to complete the delete operation. However, doing so may damage your system. Do you want to continue?"
-msgstr "Okugyawo fayiro kyetaagisa buyinza bwa muteesiteesi. Oyagala okugenda mu maaso?"
+msgid ""
+"Root privileges are required to complete the delete operation. However, "
+"doing so may damage your system. Do you want to continue?"
+msgstr ""
+"Okugyawo fayiro kyetaagisa buyinza bwa muteesiteesi. Oyagala okugenda mu "
+"maaso?"
 
 #: core/job.cpp:282
 #, kde-format
@@ -304,8 +339,11 @@ msgstr "Kolawo tterekero"
 
 #: core/job.cpp:284
 #, kde-format
-msgid "Root privileges are required to create this folder. Do you want to continue?"
-msgstr "Okukolawo tterekero lino kyetaagisa buyinza bwa muteesiteesi. Oyagala okugenda mu maaso?"
+msgid ""
+"Root privileges are required to create this folder. Do you want to continue?"
+msgstr ""
+"Okukolawo tterekero lino kyetaagisa buyinza bwa muteesiteesi. Oyagala "
+"okugenda mu maaso?"
 
 #: core/job.cpp:288
 #, kde-format
@@ -314,8 +352,11 @@ msgstr "Simbuliza Bintu"
 
 #: core/job.cpp:290
 #, kde-format
-msgid "Root privileges are required to complete the move operation. Do you want to continue?"
-msgstr "Okusimbuliza kyetaagisa buyinza bwa muteesiteesi. Oyagala okugenda mu maaso?"
+msgid ""
+"Root privileges are required to complete the move operation. Do you want to "
+"continue?"
+msgstr ""
+"Okusimbuliza kyetaagisa buyinza bwa muteesiteesi. Oyagala okugenda mu maaso?"
 
 #: core/job.cpp:294 kioworkers/file/file_unix.cpp:122
 #, kde-format
@@ -324,8 +365,11 @@ msgstr "Kyusa erinnya"
 
 #: core/job.cpp:296
 #, kde-format
-msgid "Root privileges are required to complete renaming. Do you want to continue?"
-msgstr "Okukyusa erinnya kyetaagisa buyinza bwa muteesiteesi. Oyagala okugenda mu maaso?"
+msgid ""
+"Root privileges are required to complete renaming. Do you want to continue?"
+msgstr ""
+"Okukyusa erinnya kyetaagisa buyinza bwa muteesiteesi. Oyagala okugenda mu "
+"maaso?"
 
 #: core/job.cpp:300 filewidgets/knewfilemenu.cpp:640
 #: kioworkers/file/file_unix.cpp:126
@@ -335,8 +379,11 @@ msgstr "Kolawo nyunzi"
 
 #: core/job.cpp:302
 #, kde-format
-msgid "Root privileges are required to create a symlink. Do you want to continue?"
-msgstr "Okukolawo enyunzi kyetaagisa buyinza bwa muteesiteesi. Oyagala okugenda mu maaso?"
+msgid ""
+"Root privileges are required to create a symlink. Do you want to continue?"
+msgstr ""
+"Okukolawo enyunzi kyetaagisa buyinza bwa muteesiteesi. Oyagala okugenda mu "
+"maaso?"
 
 #: core/job.cpp:306
 #, kde-format
@@ -345,8 +392,12 @@ msgstr "Simbuliza data"
 
 #: core/job.cpp:308
 #, kde-format
-msgid "Root privileges are required to complete transferring data. Do you want to continue?"
-msgstr "Okusimbuliza data kyetaagisa buyinza bwa muteesiteesi. Oyagala okugenda mu maaso?"
+msgid ""
+"Root privileges are required to complete transferring data. Do you want to "
+"continue?"
+msgstr ""
+"Okusimbuliza data kyetaagisa buyinza bwa muteesiteesi. Oyagala okugenda mu "
+"maaso?"
 
 #: core/job_error.cpp:37
 #, kde-format
@@ -365,11 +416,14 @@ msgstr "Nnemedwa okutandika omulimu %1."
 
 #: core/job_error.cpp:46
 #, kde-format
-msgid "Internal Error\n"
+msgid ""
+"Internal Error\n"
 "Please send a full bug report at https://bugs.kde.org\n"
 "%1"
-msgstr "Puloguramu Ezzemu Kiremya\n"
-"Sindika obubaka obutottola mu bujjuvu ebiguddewo mu mplunguse eno ku https://bugs.kde.org\n"
+msgstr ""
+"Puloguramu Ezzemu Kiremya\n"
+"Sindika obubaka obutottola mu bujjuvu ebiguddewo mu mplunguse eno ku https://"
+"bugs.kde.org\n"
 "%1"
 
 #: core/job_error.cpp:49
@@ -429,9 +483,11 @@ msgstr "Tokkirizidwa okutuuka ku %1."
 
 #: core/job_error.cpp:83
 #, kde-format
-msgid "Access denied.\n"
+msgid ""
+"Access denied.\n"
 "Could not write to %1."
-msgstr "Tokkirizidwa.\n"
+msgstr ""
+"Tokkirizidwa.\n"
 "Nnemedwa okuwandika mu %1."
 
 #: core/job_error.cpp:86
@@ -476,19 +532,23 @@ msgstr "Amateeka %1 si masunsuzi."
 
 #: core/job_error.cpp:110
 #, kde-format
-msgid "Could not mount device.\n"
+msgid ""
+"Could not mount device.\n"
 "The reported error was:\n"
 "%1"
-msgstr "Nnemedwa okuwanga ekyuma.\n"
+msgstr ""
+"Nnemedwa okuwanga ekyuma.\n"
 "Kiremya yeraze nga:\n"
 "%1"
 
 #: core/job_error.cpp:113
 #, kde-format
-msgid "Could not unmount device.\n"
+msgid ""
+"Could not unmount device.\n"
 "The reported error was:\n"
 "%1"
-msgstr "Nnemedwa okuwangula kyuma.\n"
+msgstr ""
+"Nnemedwa okuwangula kyuma.\n"
 "Kiremya yeraze nga:\n"
 "%1"
 
@@ -569,16 +629,20 @@ msgstr "Omulimu ogw'empulizagana ey'ekika kya %1 gukomye nga ssi kigenderere."
 
 #: core/job_error.cpp:164
 #, kde-format
-msgid "Error. Out of memory.\n"
+msgid ""
+"Error. Out of memory.\n"
 "%1"
-msgstr "Wazzewo kiremya. Eggwanika lijjudde.\n"
+msgstr ""
+"Wazzewo kiremya. Eggwanika lijjudde.\n"
 "%1"
 
 #: core/job_error.cpp:167
 #, kde-format
-msgid "Unknown proxy host\n"
+msgid ""
+"Unknown proxy host\n"
 "%1"
-msgstr "Kompyuta enyunge kalaani temanyidwa\n"
+msgstr ""
+"Kompyuta enyunge kalaani temanyidwa\n"
 "%1"
 
 #: core/job_error.cpp:170
@@ -588,79 +652,101 @@ msgstr "Okuwa buyinza kulemye, sisitemu tekozesa enkakasa eya %1"
 
 #: core/job_error.cpp:176
 #, kde-format
-msgid "User canceled action\n"
+msgid ""
+"User canceled action\n"
 "%1"
-msgstr "Omukozesa ekikolwa akisazizaamu\n"
+msgstr ""
+"Omukozesa ekikolwa akisazizaamu\n"
 "%1"
 
 #: core/job_error.cpp:179
 #, kde-format
-msgid "Internal error in server\n"
+msgid ""
+"Internal error in server\n"
 "%1"
-msgstr "Puloguramu ey'oku kompyuta ewereza efunye kiremya\n"
+msgstr ""
+"Puloguramu ey'oku kompyuta ewereza efunye kiremya\n"
 "%1"
 
 #: core/job_error.cpp:182
 #, kde-format
-msgid "Timeout on server\n"
+msgid ""
+"Timeout on server\n"
 "%1"
-msgstr "Kompyuta ewereza etuuse ku kkomo lya yo ery'okulindirira\n"
+msgstr ""
+"Kompyuta ewereza etuuse ku kkomo lya yo ery'okulindirira\n"
 "%1"
 
 #: core/job_error.cpp:185
 #, kde-format
-msgid "Unknown error\n"
+msgid ""
+"Unknown error\n"
 "%1"
-msgstr "Wazzewo kiremya atategeereka\n"
+msgstr ""
+"Wazzewo kiremya atategeereka\n"
 "%1"
 
 #: core/job_error.cpp:188
 #, kde-format
-msgid "Unknown interrupt\n"
+msgid ""
+"Unknown interrupt\n"
 "%1"
-msgstr "Wafunidwawo ekiyimirizaamu omulimu ekitategeerese\n"
+msgstr ""
+"Wafunidwawo ekiyimirizaamu omulimu ekitategeerese\n"
 "%1"
 
 #: core/job_error.cpp:199
 #, kde-format
-msgid "Could not delete original file %1.\n"
+msgid ""
+"Could not delete original file %1.\n"
 "Please check permissions."
-msgstr "Nnemedwa okugyawo fayiro eyasingidwawo %1.\n"
+msgstr ""
+"Nnemedwa okugyawo fayiro eyasingidwawo %1.\n"
 "Kebera endukusa ezigiriko."
 
 #: core/job_error.cpp:202
 #, kde-format
-msgid "Could not delete partial file %1.\n"
+msgid ""
+"Could not delete partial file %1.\n"
 "Please check permissions."
-msgstr "Nnemedwa okugyawo fayiro ey'ekitundu %1.\n"
+msgstr ""
+"Nnemedwa okugyawo fayiro ey'ekitundu %1.\n"
 "Kebera endukusa ezigiriko."
 
 #: core/job_error.cpp:205
 #, kde-format
-msgid "Could not rename original file %1.\n"
+msgid ""
+"Could not rename original file %1.\n"
 "Please check permissions."
-msgstr "Nnemedwa okukyusa erinnya lya fayiro eyasangidwawo %1.\n"
+msgstr ""
+"Nnemedwa okukyusa erinnya lya fayiro eyasangidwawo %1.\n"
 "Kebera endukusa ezigiriko."
 
 #: core/job_error.cpp:208
 #, kde-format
-msgid "Could not rename partial file %1.\n"
+msgid ""
+"Could not rename partial file %1.\n"
 "Please check permissions."
-msgstr "Nnemedwa okukyusa erinnya lya fayiro ey'ekitundu %1.\n"
+msgstr ""
+"Nnemedwa okukyusa erinnya lya fayiro ey'ekitundu %1.\n"
 "Kebera endukusa ezigiriko."
 
 #: core/job_error.cpp:211
 #, kde-format
-msgid "Could not create symlink %1.\n"
+msgid ""
+"Could not create symlink %1.\n"
 "Please check permissions."
-msgstr "Nnemedwa okukolawo enyunzi eyeyawudde %1.\n"
+msgstr ""
+"Nnemedwa okukolawo enyunzi eyeyawudde %1.\n"
 "Kebera endukusa eziri ku kifo ky'oyagala ebeere mu."
 
 #: core/job_error.cpp:214
 #, kde-format
-msgid "Cannot create symlinks at %1.\n"
+msgid ""
+"Cannot create symlinks at %1.\n"
 "The destination filesystem doesn't support symlinks."
-msgstr "Nnemedwa okukolawo nyunzi ku %1.\n"
+msgstr ""
+"Nnemedwa okukolawo nyunzi ku %1.\n"
 "Sisitemu ya fayiro kwe zandibadde tekolagana na nyunzi."
 
 #: core/job_error.cpp:220
@@ -670,9 +756,11 @@ msgstr "Ebbanga erisigadde mu disiki terimala okuwandika mu %1."
 
 #: core/job_error.cpp:223
 #, kde-format
-msgid "The source and destination are the same file.\n"
+msgid ""
+"The source and destination are the same file.\n"
 "%1"
-msgstr "Ennono n'ekigenderwa bye bimu.\n"
+msgstr ""
+"Ennono n'ekigenderwa bye bimu.\n"
 "%1"
 
 #: core/job_error.cpp:231
@@ -683,12 +771,16 @@ msgstr "%1 eyetaagibwa puloguramu eweereza teriwo."
 #: core/job_error.cpp:234
 #, kde-format
 msgid "Access to restricted port in POST denied."
-msgstr "Pooti eyetaagibwa omukolo gwa POST eriko obukugire. Okugikozesa kugaanidwa."
+msgstr ""
+"Pooti eyetaagibwa omukolo gwa POST eriko obukugire. Okugikozesa kugaanidwa."
 
 #: core/job_error.cpp:237
 #, kde-format
-msgid "The required content size information was not provided for a POST operation."
-msgstr "Ekiragiro ekitandika omukolo gwa POST tekiraga obunene bw'ebisindikibwa, sso nga bwetaagibwa."
+msgid ""
+"The required content size information was not provided for a POST operation."
+msgstr ""
+"Ekiragiro ekitandika omukolo gwa POST tekiraga obunene bw'ebisindikibwa, sso "
+"nga bwetaagibwa."
 
 #: core/job_error.cpp:240
 #, kde-format
@@ -703,7 +795,8 @@ msgstr "Tekisoboka okujjulula tterekero ligende mu eririri munda ate"
 #: core/job_error.cpp:246
 #, kde-format
 msgid "Communication with the local password server failed"
-msgstr "Empulizagana ne puloguramu eya ku sisitemu eno egaba busumuluzo egaanye"
+msgstr ""
+"Empulizagana ne puloguramu eya ku sisitemu eno egaba busumuluzo egaanye"
 
 #: core/job_error.cpp:249
 #, kde-format
@@ -713,15 +806,21 @@ msgstr "Nnemedwa okukolawo puloguramu eyeyazikibwa eya KIO. %1"
 #: core/job_error.cpp:253
 #, kde-kuit-format
 msgctxt "@info"
-msgid "Cannot transfer <filename>%1</filename> because it is too large. The destination filesystem only supports files up to 4GiB"
-msgstr "Sisobola okusimbuliza <filename>%1</filename> kubanga eyitiridde obunene. Sisitemu eya fayiro gyeyandigenze tesobola fayiro nnene okusukka GiB 4"
+msgid ""
+"Cannot transfer <filename>%1</filename> because it is too large. The "
+"destination filesystem only supports files up to 4GiB"
+msgstr ""
+"Sisobola okusimbuliza <filename>%1</filename> kubanga eyitiridde obunene. "
+"Sisitemu eya fayiro gyeyandigenze tesobola fayiro nnene okusukka GiB 4"
 
 #: core/job_error.cpp:258
 #, kde-format
-msgid "Privilege escalation is not necessary because \n"
+msgid ""
+"Privilege escalation is not necessary because \n"
 "'%1' is owned by the current user.\n"
 "Please retry after changing permissions."
-msgstr "Tekyetaagisa kwongeza buyinza kubanga \n"
+msgstr ""
+"Tekyetaagisa kwongeza buyinza kubanga \n"
 "ayisa ebiragiro kakano era ye nanyini '%1'.\n"
 "Sooka okyuse endukusa ezigiriko olyoke oddemu."
 
@@ -732,12 +831,15 @@ msgstr "Fayiro tesobola kutwalibwa mu bisuulidwa kubanga eyitiridde obunene."
 
 #: core/job_error.cpp:264
 #, kde-format
-msgid "Unknown error code %1\n"
+msgid ""
+"Unknown error code %1\n"
 "%2\n"
 "Please send a full bug report at https://bugs.kde.org."
-msgstr "Puloguramu ereese ennamba ya kiremya atalabwangako %1\n"
+msgstr ""
+"Puloguramu ereese ennamba ya kiremya atalabwangako %1\n"
 "%2\n"
-"Sindika obubaka obutottola mu bujjuvu ebiguddewo mu mplunguse eno ku https://bugs.kde.org."
+"Sindika obubaka obutottola mu bujjuvu ebiguddewo mu mplunguse eno ku https://"
+"bugs.kde.org."
 
 #: core/job_error.cpp:295
 #, kde-format
@@ -799,13 +901,19 @@ msgstr "(embulakunyonyola)"
 
 #: core/job_error.cpp:374
 #, kde-format
-msgid "Contact your appropriate computer support system, whether the system administrator, or technical support group for further assistance."
-msgstr "Obuyambi obusingawo oyinza okubufuna okuva ewa muteesiteesi wa sisitemu yo oba, sinakindi, okuva ku kimeeza ky'abayambagana eky'oku mutimbagano."
+msgid ""
+"Contact your appropriate computer support system, whether the system "
+"administrator, or technical support group for further assistance."
+msgstr ""
+"Obuyambi obusingawo oyinza okubufuna okuva ewa muteesiteesi wa sisitemu yo "
+"oba, sinakindi, okuva ku kimeeza ky'abayambagana eky'oku mutimbagano."
 
 #: core/job_error.cpp:378
 #, kde-format
 msgid "Contact the administrator of the server for further assistance."
-msgstr "Obuyambi obusingawo oyinza okubufuna okuva ewa ateekateeka masanganzira ewereza."
+msgstr ""
+"Obuyambi obusingawo oyinza okubufuna okuva ewa ateekateeka masanganzira "
+"ewereza."
 
 #: core/job_error.cpp:381
 #, kde-format
@@ -814,23 +922,36 @@ msgstr "Kebera obuyinza endukusa eziri ku kifunibwa kino bwe zikuwa."
 
 #: core/job_error.cpp:383
 #, kde-format
-msgid "Your access permissions may be inadequate to perform the requested operation on this resource."
-msgstr "Endukusa eziri ku kifunibwa kino ziyinza okuba nga tezikuwa buyinza bumala okikolako ky'oyagala."
+msgid ""
+"Your access permissions may be inadequate to perform the requested operation "
+"on this resource."
+msgstr ""
+"Endukusa eziri ku kifunibwa kino ziyinza okuba nga tezikuwa buyinza bumala "
+"okikolako ky'oyagala."
 
 #: core/job_error.cpp:386
 #, kde-format
-msgid "The file may be in use (and thus locked) by another user or application."
-msgstr "Fayiro eno eyinza okubaako ekikugizo olw'okuba nga wali wo omulala oba puloguamu egikozesa."
+msgid ""
+"The file may be in use (and thus locked) by another user or application."
+msgstr ""
+"Fayiro eno eyinza okubaako ekikugizo olw'okuba nga wali wo omulala oba "
+"puloguamu egikozesa."
 
 #: core/job_error.cpp:389
 #, kde-format
-msgid "Check to make sure that no other application or user is using the file or has locked the file."
-msgstr "Kebera oba ddala waliwo omulala oba puloguramu ekozesa oba etadde ekikugizo ku fayiro."
+msgid ""
+"Check to make sure that no other application or user is using the file or "
+"has locked the file."
+msgstr ""
+"Kebera oba ddala waliwo omulala oba puloguramu ekozesa oba etadde ekikugizo "
+"ku fayiro."
 
 #: core/job_error.cpp:392
 #, kde-format
 msgid "Although unlikely, a hardware error may have occurred."
-msgstr "Tekirabwalabwa, naye ebyuma bya kompyuta biyinza okuba nga bye bifunye kiremya."
+msgstr ""
+"Tekirabwalabwa, naye ebyuma bya kompyuta biyinza okuba nga bye bifunye "
+"kiremya."
 
 #: core/job_error.cpp:394
 #, kde-format
@@ -839,18 +960,43 @@ msgstr "Oyinza okuba nga ogudde ku mpulunguse mu puloguramu."
 
 #: core/job_error.cpp:396
 #, kde-format
-msgid "This is most likely to be caused by a bug in the program. Please consider submitting a full bug report as detailed below."
-msgstr "Kino kyandba nga kivudde ku mpulunguse mu puloguramu. Sindika obubaka obutottola mu bujjuvu ebiguddewo mu mplunguse eno ng'ebiddako bwe binnyonyola."
+msgid ""
+"This is most likely to be caused by a bug in the program. Please consider "
+"submitting a full bug report as detailed below."
+msgstr ""
+"Kino kyandba nga kivudde ku mpulunguse mu puloguramu. Sindika obubaka "
+"obutottola mu bujjuvu ebiguddewo mu mplunguse eno ng'ebiddako bwe "
+"binnyonyola."
 
 #: core/job_error.cpp:399
 #, kde-format
-msgid "Update your software to the latest version. Your distribution should provide tools to update your software."
-msgstr "Puloguramu yo gitumbule edde ku luwandika olusingayo obuggya. Sisitemu yo ebeera n'ebiyamba ebikusobozesa okukola kino."
+msgid ""
+"Update your software to the latest version. Your distribution should provide "
+"tools to update your software."
+msgstr ""
+"Puloguramu yo gitumbule edde ku luwandika olusingayo obuggya. Sisitemu yo "
+"ebeera n'ebiyamba ebikusobozesa okukola kino."
 
 #: core/job_error.cpp:402
 #, kde-format
-msgid "When all else fails, please consider helping the KDE team or the third party maintainer of this software by submitting a high quality bug report. If the software is provided by a third party, please contact them directly. Otherwise, first look to see if the same bug has been submitted by someone else by searching at the <a href=\"https://bugs.kde.org/\">KDE bug reporting website</a>. If not, take note of the details given above, and include them in your bug report, along with as many other details as you think might help."
-msgstr "Obuyambi bwe bubulira ddala oyinza okusindikira aba mu tiimu ya KDE oba abalala abaddukanyi ebya sofutiweya ono obubaka obutottola mu bujjuvu ebiguddewo mu mplunguse gy'ozudde. Sofutiweya bw'aba nga yava mu batali ba KDE batuukirire butereevu. Bw'aba nga yava mu ba KDE bennyini, sooka okebere  ku <a href=\"https://bugs.kde.org/\">nfo ya KDE ekola ku nsonga za mpulunguse</a> olabe oba waliwo n'abalala abaali bagudde ku mpulunguse y'emu ne bakusooka okusindika alipoota. Bwe wataba, by'owadde mu foomubigatte mu bubaka bwo awamu n'okunnyonyola kwonna kw'olaba nti kuyinza okuyamba abanaanoonyereza ku mpulunguse gy'ozudde."
+msgid ""
+"When all else fails, please consider helping the KDE team or the third party "
+"maintainer of this software by submitting a high quality bug report. If the "
+"software is provided by a third party, please contact them directly. "
+"Otherwise, first look to see if the same bug has been submitted by someone "
+"else by searching at the <a href=\"https://bugs.kde.org/\">KDE bug reporting "
+"website</a>. If not, take note of the details given above, and include them "
+"in your bug report, along with as many other details as you think might help."
+msgstr ""
+"Obuyambi bwe bubulira ddala oyinza okusindikira aba mu tiimu ya KDE oba "
+"abalala abaddukanyi ebya sofutiweya ono obubaka obutottola mu bujjuvu "
+"ebiguddewo mu mplunguse gy'ozudde. Sofutiweya bw'aba nga yava mu batali ba "
+"KDE batuukirire butereevu. Bw'aba nga yava mu ba KDE bennyini, sooka "
+"okebere  ku <a href=\"https://bugs.kde.org/\">nfo ya KDE ekola ku nsonga za "
+"mpulunguse</a> olabe oba waliwo n'abalala abaali bagudde ku mpulunguse y'emu "
+"ne bakusooka okusindika alipoota. Bwe wataba, by'owadde mu foomubigatte mu "
+"bubaka bwo awamu n'okunnyonyola kwonna kw'olaba nti kuyinza okuyamba "
+"abanaanoonyereza ku mpulunguse gy'ozudde."
 
 #: core/job_error.cpp:411
 #, kde-format
@@ -859,13 +1005,22 @@ msgstr "Enkwatagana yo ku kayungirizi eyinza okuba nga yazzeeko kiremya."
 
 #: core/job_error.cpp:415
 #, kde-format
-msgid "There may have been a problem with your network configuration. If you have been accessing the Internet with no problems recently, this is unlikely."
-msgstr "Enkwatagana yo ku kayungirizi eyinza okuba nga yazzeeko kiremya. Bw'obanga mu biseera bino obadde otera okutuuka ku mutimbagano awatali bizibu kino kyandiba nga ssi kye kizibu ekiriwo."
+msgid ""
+"There may have been a problem with your network configuration. If you have "
+"been accessing the Internet with no problems recently, this is unlikely."
+msgstr ""
+"Enkwatagana yo ku kayungirizi eyinza okuba nga yazzeeko kiremya. Bw'obanga "
+"mu biseera bino obadde otera okutuuka ku mutimbagano awatali bizibu kino "
+"kyandiba nga ssi kye kizibu ekiriwo."
 
 #: core/job_error.cpp:419
 #, kde-format
-msgid "There may have been a problem at some point along the network path between the server and this computer."
-msgstr "Ekizibu kiyinza okubeera nga kyazzeewo awantu ku kayungirizi wakati wa kompyuta eno n'eweereza gy'ewulizagana nayo."
+msgid ""
+"There may have been a problem at some point along the network path between "
+"the server and this computer."
+msgstr ""
+"Ekizibu kiyinza okubeera nga kyazzeewo awantu ku kayungirizi wakati wa "
+"kompyuta eno n'eweereza gy'ewulizagana nayo."
 
 #: core/job_error.cpp:421
 #, kde-format
@@ -890,7 +1045,9 @@ msgstr "Ekifunibwa ky'onoonya kiyinza okuba nti tekiriwo."
 #: core/job_error.cpp:426
 #, kde-format
 msgid "Double-check that you have entered the correct location and try again."
-msgstr "Damu okebere okukakasa nti endagiriro gy'okozeseza ntuufu olyoke oddemu ogezeeko."
+msgstr ""
+"Damu okebere okukakasa nti endagiriro gy'okozeseza ntuufu olyoke oddemu "
+"ogezeeko."
 
 #: core/job_error.cpp:428
 #, kde-format
@@ -904,13 +1061,19 @@ msgstr "Sisobola Okubikkula Ekifunibwa Okukisomamu"
 
 #: core/job_error.cpp:434
 #, kde-format
-msgid "This means that the contents of the requested file or folder <strong>%1</strong> could not be retrieved, as read access could not be obtained."
-msgstr "Kino kitegeeza nti endukusa eziri ku fayiro oba tterekero <strong>%1</strong> ly'oyagala tezikukkiriza okulaba ebiriri mu."
+msgid ""
+"This means that the contents of the requested file or folder <strong>%1</"
+"strong> could not be retrieved, as read access could not be obtained."
+msgstr ""
+"Kino kitegeeza nti endukusa eziri ku fayiro oba tterekero <strong>%1</"
+"strong> ly'oyagala tezikukkiriza okulaba ebiriri mu."
 
 #: core/job_error.cpp:439
 #, kde-format
 msgid "You may not have permissions to read the file or open the folder."
-msgstr "Oyinza okuba nga tolina buyinza bukumala okusoma fayiro oba okuyingira tterekero."
+msgstr ""
+"Oyinza okuba nga tolina buyinza bukumala okusoma fayiro oba okuyingira "
+"tterekero."
 
 #: core/job_error.cpp:446
 #, kde-format
@@ -919,8 +1082,12 @@ msgstr "Sisobola Okubikkula Ekifunibwa Okukiwandikamu"
 
 #: core/job_error.cpp:448
 #, kde-format
-msgid "This means that the file, <strong>%1</strong>, could not be written to as requested, because access with permission to write could not be obtained."
-msgstr "Kino kitegeeza nti endukusa eziri ku fayiro <strong>%1</strong> gy'oyagala tezikukkiriza okugiwandika mu."
+msgid ""
+"This means that the file, <strong>%1</strong>, could not be written to as "
+"requested, because access with permission to write could not be obtained."
+msgstr ""
+"Kino kitegeeza nti endukusa eziri ku fayiro <strong>%1</strong> gy'oyagala "
+"tezikukkiriza okugiwandika mu."
 
 #: core/job_error.cpp:457
 #, kde-format
@@ -934,13 +1101,26 @@ msgstr "Sisobola Okutandika Mulimu"
 
 #: core/job_error.cpp:460
 #, kde-format
-msgid "The program on your computer which provides access to the <strong>%1</strong> protocol could not be found or started. This is usually due to technical reasons."
-msgstr "Puloguramu ey'okweyambisa empulizagana ey'ekika kya <strong>%1 </strong> tetandikika oba terabika ku kompyuta yo. Kino kitera okuva ku nteekateeka ya sisitemu."
+msgid ""
+"The program on your computer which provides access to the <strong>%1</"
+"strong> protocol could not be found or started. This is usually due to "
+"technical reasons."
+msgstr ""
+"Puloguramu ey'okweyambisa empulizagana ey'ekika kya <strong>%1 </strong> "
+"tetandikika oba terabika ku kompyuta yo. Kino kitera okuva ku nteekateeka ya "
+"sisitemu."
 
 #: core/job_error.cpp:465
 #, kde-format
-msgid "The program which provides compatibility with this protocol may not have been updated with your last update of KDE. This can cause the program to be incompatible with the current version and thus not start."
-msgstr "Puloguramu esobozesa zinnaayo okukozesa ekika kya mpulizagana kino eyinza okuba nga yo teyambulwa lwe wasemba okutumbula KDE. Kino kisobola okugireetera butakolagana n'oluwandika lwa kyo olwa kakano n'egaana n'okutandika."
+msgid ""
+"The program which provides compatibility with this protocol may not have "
+"been updated with your last update of KDE. This can cause the program to be "
+"incompatible with the current version and thus not start."
+msgstr ""
+"Puloguramu esobozesa zinnaayo okukozesa ekika kya mpulizagana kino eyinza "
+"okuba nga yo teyambulwa lwe wasemba okutumbula KDE. Kino kisobola "
+"okugireetera butakolagana n'oluwandika lwa kyo olwa kakano n'egaana "
+"n'okutandika."
 
 #: core/job_error.cpp:474
 #, kde-format
@@ -949,8 +1129,12 @@ msgstr "Puloguramu Efunye Kiremya"
 
 #: core/job_error.cpp:476
 #, kde-format
-msgid "The program on your computer which provides access to the <strong>%1</strong> protocol has reported an internal error."
-msgstr "Puloguramu ey'oku kompyuta yo esobozesa zinnaayo okukozesa empulizagana ey'ekika kya <strong>%1</strong> eraze nti efunye kiremya."
+msgid ""
+"The program on your computer which provides access to the <strong>%1</"
+"strong> protocol has reported an internal error."
+msgstr ""
+"Puloguramu ey'oku kompyuta yo esobozesa zinnaayo okukozesa empulizagana "
+"ey'ekika kya <strong>%1</strong> eraze nti efunye kiremya."
 
 #: core/job_error.cpp:484
 #, kde-format
@@ -959,8 +1143,19 @@ msgstr "Empandika ya Ndagiriro ya URL Erimu Ensobi"
 
 #: core/job_error.cpp:486
 #, kde-format
-msgid "The <strong>U</strong>niform <strong>R</strong>esource <strong>L</strong>ocator (URL) that you entered was not properly formatted. The format of a URL is generally as follows:<blockquote><strong>protocol://user:password@www.example.org:port/folder/filename.extension?query=value</strong></blockquote>"
-msgstr "Endagiriro ey'ekika kya URL (<strong>U</strong>niform <strong>R</strong>esource <strong>L</strong>ocator) gy'owandise yetaaga kugololwamu. Ziwandikibwa nga zirimu ebitundu bwebityi:<blockquote><strong>kikakyampulizagana://akawunti:kasumuluzo@www.kyakulabirako.org:port/tterekero/linnyalyafayiro.kafundikira?kubuuza=ekikongojje</strong></blockquote>"
+msgid ""
+"The <strong>U</strong>niform <strong>R</strong>esource <strong>L</"
+"strong>ocator (URL) that you entered was not properly formatted. The format "
+"of a URL is generally as follows:<blockquote><strong>protocol://user:"
+"password@www.example.org:port/folder/filename.extension?query=value</"
+"strong></blockquote>"
+msgstr ""
+"Endagiriro ey'ekika kya URL (<strong>U</strong>niform <strong>R</"
+"strong>esource <strong>L</strong>ocator) gy'owandise yetaaga kugololwamu. "
+"Ziwandikibwa nga zirimu ebitundu bwebityi:"
+"<blockquote><strong>kikakyampulizagana://akawunti:kasumuluzo@www."
+"kyakulabirako.org:port/tterekero/linnyalyafayiro.kafundikira?"
+"kubuuza=ekikongojje</strong></blockquote>"
 
 #: core/job_error.cpp:495
 #, kde-format
@@ -969,8 +1164,12 @@ msgstr "Sisitemu Tekozesa Mpulizagana ey'ekika ky %1"
 
 #: core/job_error.cpp:497
 #, kde-format
-msgid "The protocol <strong>%1</strong> is not supported by the KDE programs currently installed on this computer."
-msgstr "Puloguramu eza mu KDE eziri ku kompyuta eno kakano tezikolagana n'empulizagana ey'ekika kya <strong>%1</strong>."
+msgid ""
+"The protocol <strong>%1</strong> is not supported by the KDE programs "
+"currently installed on this computer."
+msgstr ""
+"Puloguramu eza mu KDE eziri ku kompyuta eno kakano tezikolagana "
+"n'empulizagana ey'ekika kya <strong>%1</strong>."
 
 #: core/job_error.cpp:500
 #, kde-format
@@ -979,13 +1178,23 @@ msgstr "Sisitemu eyinza okuba nga tekozesa kika kya mpulizagana kyoyagala."
 
 #: core/job_error.cpp:502
 #, kde-format
-msgid "The versions of the %1 protocol supported by this computer and the server may be incompatible."
-msgstr "Empandika ez'empulizagana ey'ekika kya %1 kompyuta eno z'ekozesa ziyinza okuba nga tezikolagana n'eziri ku kompyuta ewereza."
+msgid ""
+"The versions of the %1 protocol supported by this computer and the server "
+"may be incompatible."
+msgstr ""
+"Empandika ez'empulizagana ey'ekika kya %1 kompyuta eno z'ekozesa ziyinza "
+"okuba nga tezikolagana n'eziri ku kompyuta ewereza."
 
 #: core/job_error.cpp:506
 #, kde-format
-msgid "You may perform a search on the Internet for a software plugin (called a \"KIO worker\") which supports this protocol. Places to search include <a href=\"https://store.kde.org/\">https://store.kde.org</a>."
-msgstr "Oyinza okunoonya puloguramu eyeyazikibwa eya KIO (\"KIO worker\") ekola ku kika kya mpulizagana kino. Kimu ku bifo mw'oyinza okunoonyeza ye <a href=\"https://store.kde.org/\">https://store.kde.org</a>."
+msgid ""
+"You may perform a search on the Internet for a software plugin (called a "
+"\"KIO worker\") which supports this protocol. Places to search include <a "
+"href=\"https://store.kde.org/\">https://store.kde.org</a>."
+msgstr ""
+"Oyinza okunoonya puloguramu eyeyazikibwa eya KIO (\"KIO worker\") ekola ku "
+"kika kya mpulizagana kino. Kimu ku bifo mw'oyinza okunoonyeza ye <a href="
+"\"https://store.kde.org/\">https://store.kde.org</a>."
 
 #: core/job_error.cpp:514
 #, kde-format
@@ -999,13 +1208,25 @@ msgstr "Mateeka Masunsuzi"
 
 #: core/job_error.cpp:517
 #, kde-format
-msgid "The <strong>U</strong>niform <strong>R</strong>esource <strong>L</strong>ocator (URL) that you entered did not refer to a specific resource."
-msgstr "Endagiriro eya URL ('<strong>U</strong>niform <strong>R</strong>esource <strong>L</strong>ocator') gy'owandise teraga kifunibwa."
+msgid ""
+"The <strong>U</strong>niform <strong>R</strong>esource <strong>L</"
+"strong>ocator (URL) that you entered did not refer to a specific resource."
+msgstr ""
+"Endagiriro eya URL ('<strong>U</strong>niform <strong>R</strong>esource "
+"<strong>L</strong>ocator') gy'owandise teraga kifunibwa."
 
 #: core/job_error.cpp:521
 #, kde-format
-msgid "KDE is able to communicate through a protocol within a protocol; the protocol specified is only for use in such situations, however this is not one of these situations. This is a rare event, and is likely to indicate a programming error."
-msgstr "KDE esobola okukozesa ekika kya mpulizagana nga ky'ongedwako mateeka amalala agafuga enkola ya kyo; Amateeka ag'empulizagana agategekedwa ga kukozesebwa mu ngeri eyo, naye wano we gategekedwa ssi bwe kiri. Embeera eno tetera okugwa wo, era wandiba nga waliwo ensobi mu buwandike bwa puloguramu."
+msgid ""
+"KDE is able to communicate through a protocol within a protocol; the "
+"protocol specified is only for use in such situations, however this is not "
+"one of these situations. This is a rare event, and is likely to indicate a "
+"programming error."
+msgstr ""
+"KDE esobola okukozesa ekika kya mpulizagana nga ky'ongedwako mateeka amalala "
+"agafuga enkola ya kyo; Amateeka ag'empulizagana agategekedwa ga kukozesebwa "
+"mu ngeri eyo, naye wano we gategekedwa ssi bwe kiri. Embeera eno tetera "
+"okugwa wo, era wandiba nga waliwo ensobi mu buwandike bwa puloguramu."
 
 #: core/job_error.cpp:529
 #, kde-format
@@ -1014,13 +1235,23 @@ msgstr "Ekikolwa Kino Sisitemu Tekisobozesa: %1"
 
 #: core/job_error.cpp:531
 #, kde-format
-msgid "The requested action is not supported by the KDE program which is implementing the <strong>%1</strong> protocol."
-msgstr "Puloguramu eya mu KDE ekola ku mpulizagana ey'ekika kya <strong>%1</strong> tesobozesa ekikolwa ky'oyagala."
+msgid ""
+"The requested action is not supported by the KDE program which is "
+"implementing the <strong>%1</strong> protocol."
+msgstr ""
+"Puloguramu eya mu KDE ekola ku mpulizagana ey'ekika kya <strong>%1</strong> "
+"tesobozesa ekikolwa ky'oyagala."
 
 #: core/job_error.cpp:535
 #, kde-format
-msgid "This error is very much dependent on the KDE program. The additional information should give you more information than is available to the KDE input/output architecture."
-msgstr "Ensonga za kiremya ono zisinzira ku puloguramu ki eya mu KDE mwaggiridde. Obubaka obuvudde mu puloguramu ku bwa yo bwandikutangaaza okusinga ku obwo obuvudde mu sisitemu ekola ku biyingizibwa n'ebiva mu eya KDE."
+msgid ""
+"This error is very much dependent on the KDE program. The additional "
+"information should give you more information than is available to the KDE "
+"input/output architecture."
+msgstr ""
+"Ensonga za kiremya ono zisinzira ku puloguramu ki eya mu KDE mwaggiridde. "
+"Obubaka obuvudde mu puloguramu ku bwa yo bwandikutangaaza okusinga ku obwo "
+"obuvudde mu sisitemu ekola ku biyingizibwa n'ebiva mu eya KDE."
 
 #: core/job_error.cpp:539
 #, kde-format
@@ -1034,8 +1265,12 @@ msgstr "Fayiro Esuubirwa"
 
 #: core/job_error.cpp:546
 #, kde-format
-msgid "The request expected a file, however the folder <strong>%1</strong> was found instead."
-msgstr "Omulimu gubadde gusuubira fayiro, naye gufunyemu tterekero <strong>%1</strong>."
+msgid ""
+"The request expected a file, however the folder <strong>%1</strong> was "
+"found instead."
+msgstr ""
+"Omulimu gubadde gusuubira fayiro, naye gufunyemu tterekero <strong>%1</"
+"strong>."
 
 #: core/job_error.cpp:549
 #, kde-format
@@ -1049,8 +1284,12 @@ msgstr "Tterekero Lisuubirwa"
 
 #: core/job_error.cpp:556
 #, kde-format
-msgid "The request expected a folder, however the file <strong>%1</strong> was found instead."
-msgstr "Omulimu gubadde gusuubira tterekero, naye gufunyemu fayiro <strong>%1</strong>."
+msgid ""
+"The request expected a folder, however the file <strong>%1</strong> was "
+"found instead."
+msgstr ""
+"Omulimu gubadde gusuubira tterekero, naye gufunyemu fayiro <strong>%1</"
+"strong>."
 
 #: core/job_error.cpp:564
 #, kde-format
@@ -1064,8 +1303,12 @@ msgstr "Fayiro oba tterekero <strong>%1</strong> eriragidwa teririiwo."
 
 #: core/job_error.cpp:576
 #, kde-format
-msgid "The requested file could not be created because a file with the same name already exists."
-msgstr "Tekisobose okukolawo fayiro eragidwa kubanga wasangidwawo endala ey'erinnya lye limu."
+msgid ""
+"The requested file could not be created because a file with the same name "
+"already exists."
+msgstr ""
+"Tekisobose okukolawo fayiro eragidwa kubanga wasangidwawo endala ey'erinnya "
+"lye limu."
 
 #: core/job_error.cpp:579
 #, kde-format
@@ -1084,13 +1327,18 @@ msgstr "Fayiro empya gifunire erinnya ddala."
 
 #: core/job_error.cpp:587
 #, kde-format
-msgid "The requested folder could not be created because a folder with the same name already exists."
-msgstr "Tekisobose okukolawo tterekero eriragidwa kubanga wasangidwawo eddala ery'erinnya lye limu."
+msgid ""
+"The requested folder could not be created because a folder with the same "
+"name already exists."
+msgstr ""
+"Tekisobose okukolawo tterekero eriragidwa kubanga wasangidwawo eddala "
+"ery'erinnya lye limu."
 
 #: core/job_error.cpp:590
 #, kde-format
 msgid "Try moving the current folder out of the way first, and then try again."
-msgstr "Erisangidwawo sooka oliteeke awalala oba likyuse erinnya olyoke oddeemu."
+msgstr ""
+"Erisangidwawo sooka oliteeke awalala oba likyuse erinnya olyoke oddeemu."
 
 #: core/job_error.cpp:592
 #, kde-format
@@ -1109,13 +1357,20 @@ msgstr "Kompyuta Enyunge Temanyidwa"
 
 #: core/job_error.cpp:598
 #, kde-format
-msgid "An unknown host error indicates that the server with the requested name, <strong>%1</strong>, could not be located on the Internet."
-msgstr "Kiremya owa kompyuta enyunge eyitibwa <strong>%1</strong> butamanyibwa ava ku kulemwa kugizuula ku mutimbagano."
+msgid ""
+"An unknown host error indicates that the server with the requested name, "
+"<strong>%1</strong>, could not be located on the Internet."
+msgstr ""
+"Kiremya owa kompyuta enyunge eyitibwa <strong>%1</strong> butamanyibwa ava "
+"ku kulemwa kugizuula ku mutimbagano."
 
 #: core/job_error.cpp:603
 #, kde-format
-msgid "The name that you typed, %1, may not exist: it may be incorrectly typed."
-msgstr "Erinnya, %1, lye wawandise oyinza okuba nga walisobyeza oba nga teririiko ddala ku mutimbagano."
+msgid ""
+"The name that you typed, %1, may not exist: it may be incorrectly typed."
+msgstr ""
+"Erinnya, %1, lye wawandise oyinza okuba nga walisobyeza oba nga teririiko "
+"ddala ku mutimbagano."
 
 #: core/job_error.cpp:611
 #, kde-format
@@ -1130,16 +1385,21 @@ msgstr "Tokkirizidwa okutuuka ku kifunibwa ekiragidwa, <strong>%1</strong>."
 #: core/job_error.cpp:617 core/job_error.cpp:893
 #, kde-format
 msgid "You may have supplied incorrect authentication details or none at all."
-msgstr "Oyinza okuba nga eby'enkakasa bwe wawaddeyo birimu ensobi oba nga tewawaddeyo."
+msgstr ""
+"Oyinza okuba nga eby'enkakasa bwe wawaddeyo birimu ensobi oba nga "
+"tewawaddeyo."
 
 #: core/job_error.cpp:620 core/job_error.cpp:896
 #, kde-format
 msgid "Your account may not have permission to access the specified resource."
-msgstr "Akawunti yo eyinza okuba nga terina lukusa okutuuka ku kifunibwa ekiragidwa."
+msgstr ""
+"Akawunti yo eyinza okuba nga terina lukusa okutuuka ku kifunibwa ekiragidwa."
 
 #: core/job_error.cpp:623 core/job_error.cpp:900 core/job_error.cpp:918
 #, kde-format
-msgid "Retry the request and ensure your authentication details are entered correctly."
+msgid ""
+"Retry the request and ensure your authentication details are entered "
+"correctly."
 msgstr "Damu okusaba nga ogenderera eby'enkakasa by'owayo nti bye ebituufu."
 
 #: core/job_error.cpp:632
@@ -1149,8 +1409,12 @@ msgstr "Tokkirizibwa Okuwandika Wano"
 
 #: core/job_error.cpp:634
 #, kde-format
-msgid "This means that an attempt to write to the file <strong>%1</strong> was rejected."
-msgstr "Kino kitegeeza nti omulimu ogw'okuwandika mu fayiro <strong>%1</strong> gugaanidwa."
+msgid ""
+"This means that an attempt to write to the file <strong>%1</strong> was "
+"rejected."
+msgstr ""
+"Kino kitegeeza nti omulimu ogw'okuwandika mu fayiro <strong>%1</strong> "
+"gugaanidwa."
 
 #: core/job_error.cpp:642
 #, kde-format
@@ -1159,8 +1423,12 @@ msgstr "Sisobola Okuyingira Tterekero"
 
 #: core/job_error.cpp:644
 #, kde-format
-msgid "This means that an attempt to enter (in other words, to open) the requested folder <strong>%1</strong> was rejected."
-msgstr "Kino kitegeeza nti omulimu ogw'okuyingira etterekero eriragidwa, <strong>%1</strong>, gugaanidwa."
+msgid ""
+"This means that an attempt to enter (in other words, to open) the requested "
+"folder <strong>%1</strong> was rejected."
+msgstr ""
+"Kino kitegeeza nti omulimu ogw'okuyingira etterekero eriragidwa, <strong>%1</"
+"strong>, gugaanidwa."
 
 #: core/job_error.cpp:652
 #, kde-format
@@ -1174,8 +1442,14 @@ msgstr "Mateeka ga mpulizagana %1 ssi sistemu ya fayiro"
 
 #: core/job_error.cpp:655
 #, kde-format
-msgid "This means that a request was made which requires determining the contents of the folder, and the KDE program supporting this protocol is unable to do so."
-msgstr "Kino kitegeeza nti waliwo omulimu ogubadde gwetaagisa okutegeera ebiri mu tterekero, sso nga puloguramu eya mu KDE ekola ku kino ekika kya mpulizagana tekisobola."
+msgid ""
+"This means that a request was made which requires determining the contents "
+"of the folder, and the KDE program supporting this protocol is unable to do "
+"so."
+msgstr ""
+"Kino kitegeeza nti waliwo omulimu ogubadde gwetaagisa okutegeera ebiri mu "
+"tterekero, sso nga puloguramu eya mu KDE ekola ku kino ekika kya mpulizagana "
+"tekisobola."
 
 #: core/job_error.cpp:663
 #, kde-format
@@ -1184,12 +1458,23 @@ msgstr "Waliwo Enyunzi Eyeggukako"
 
 #: core/job_error.cpp:665
 #, kde-format
-msgid "UNIX environments are commonly able to link a file or folder to a separate name and/or location. KDE detected a link or series of links that results in an infinite loop - i.e. the file was (perhaps in a roundabout way) linked to itself."
-msgstr "Ku sisitemu ez'oluse lwa UNIX kya bulijjo okusobola okuyunga fayiro oba tterekero ku linnya eddala eriyinza n'okuba nga lisangibwa mu kifo kya njawulo. Erinnya eddala eryo y'enyunzi. KDE ezuddeyo enyunzi ekoledwa nga bw'ogeza okugibikkula okomawo ku yo mu kifo eky'okugguka ku fayiro oba mu tterekero."
+msgid ""
+"UNIX environments are commonly able to link a file or folder to a separate "
+"name and/or location. KDE detected a link or series of links that results in "
+"an infinite loop - i.e. the file was (perhaps in a roundabout way) linked to "
+"itself."
+msgstr ""
+"Ku sisitemu ez'oluse lwa UNIX kya bulijjo okusobola okuyunga fayiro oba "
+"tterekero ku linnya eddala eriyinza n'okuba nga lisangibwa mu kifo kya "
+"njawulo. Erinnya eddala eryo y'enyunzi. KDE ezuddeyo enyunzi ekoledwa nga "
+"bw'ogeza okugibikkula okomawo ku yo mu kifo eky'okugguka ku fayiro oba mu "
+"tterekero."
 
 #: core/job_error.cpp:670 core/job_error.cpp:696
 #, kde-format
-msgid "Delete one part of the loop in order that it does not cause an infinite loop, and try again."
+msgid ""
+"Delete one part of the loop in order that it does not cause an infinite "
+"loop, and try again."
 msgstr "Kyusa mu bifo enyunzi ezimu kwe zigguka olyoke oddeemu okugezaako."
 
 #: core/job_error.cpp:680
@@ -1214,8 +1499,17 @@ msgstr "Omulimu Ogw'okukoppa Guzudde Enyunzi Eyeggukako"
 
 #: core/job_error.cpp:690
 #, kde-format
-msgid "UNIX environments are commonly able to link a file or folder to a separate name and/or location. During the requested copy operation, KDE detected a link or series of links that results in an infinite loop - i.e. the file was (perhaps in a roundabout way) linked to itself."
-msgstr "Ku sisitemu ez'oluse lwa UNIX kya bulijjo okusobola okuyunga fayiro oba tterekero ku linnya eddala eriyinza n'okuba nga lisangibwa mu kifo kya njawulo. Erinnya eddala eryo y'enyunzi. Mu kukola omulimu ogw'okukoppa, KDE ezuddeyo enyunzi ekoledwa nga bw'ogeza okugibikkula okomawo ku yo mu kifo eky'okugguka ku fayiro oba mu tterekero."
+msgid ""
+"UNIX environments are commonly able to link a file or folder to a separate "
+"name and/or location. During the requested copy operation, KDE detected a "
+"link or series of links that results in an infinite loop - i.e. the file was "
+"(perhaps in a roundabout way) linked to itself."
+msgstr ""
+"Ku sisitemu ez'oluse lwa UNIX kya bulijjo okusobola okuyunga fayiro oba "
+"tterekero ku linnya eddala eriyinza n'okuba nga lisangibwa mu kifo kya "
+"njawulo. Erinnya eddala eryo y'enyunzi. Mu kukola omulimu ogw'okukoppa, KDE "
+"ezuddeyo enyunzi ekoledwa nga bw'ogeza okugibikkula okomawo ku yo mu kifo "
+"eky'okugguka ku fayiro oba mu tterekero."
 
 #: core/job_error.cpp:702
 #, kde-format
@@ -1229,14 +1523,22 @@ msgstr "Sisobodde Okukolawo Soketi"
 
 #: core/job_error.cpp:705
 #, kde-format
-msgid "This is a fairly technical error in which a required device for network communications (a socket) could not be created."
-msgstr "Ono kiremya wa mu nkola ya sisitemu nga ava ku butasobola okukolawo soketi eyetaagibwa mu kussaawo empulizagana ku kayungirizi."
+msgid ""
+"This is a fairly technical error in which a required device for network "
+"communications (a socket) could not be created."
+msgstr ""
+"Ono kiremya wa mu nkola ya sisitemu nga ava ku butasobola okukolawo soketi "
+"eyetaagibwa mu kussaawo empulizagana ku kayungirizi."
 
 #: core/job_error.cpp:708 core/job_error.cpp:857 core/job_error.cpp:870
 #: core/job_error.cpp:881
 #, kde-format
-msgid "The network connection may be incorrectly configured, or the network interface may not be enabled."
-msgstr "Enkwatagana eya ku kayungirizi eyinza okubeera nga enteekateeka erimu ensobi, oba ensisinkano eya ku kayingirizi tezuukusidwa."
+msgid ""
+"The network connection may be incorrectly configured, or the network "
+"interface may not be enabled."
+msgstr ""
+"Enkwatagana eya ku kayungirizi eyinza okubeera nga enteekateeka erimu "
+"ensobi, oba ensisinkano eya ku kayingirizi tezuukusidwa."
 
 #: core/job_error.cpp:714
 #, kde-format
@@ -1245,23 +1547,41 @@ msgstr "Masanganzira Egaanye Enkwatagana"
 
 #: core/job_error.cpp:716
 #, kde-format
-msgid "The server <strong>%1</strong> refused to allow this computer to make a connection."
-msgstr "Masanganzira <strong>%1</strong> egaanye kompyuta eno okuteekawo enkwatagana nayo."
+msgid ""
+"The server <strong>%1</strong> refused to allow this computer to make a "
+"connection."
+msgstr ""
+"Masanganzira <strong>%1</strong> egaanye kompyuta eno okuteekawo enkwatagana "
+"nayo."
 
 #: core/job_error.cpp:720
 #, kde-format
-msgid "The server, while currently connected to the Internet, may not be configured to allow requests."
-msgstr "Puloguramu ewereza, nandibadde nga ekwataganye ku mutimbagano, eyinza okuba nga ssi nteekateeke mu ngeri egisobozesa okutambuza bubaka."
+msgid ""
+"The server, while currently connected to the Internet, may not be configured "
+"to allow requests."
+msgstr ""
+"Puloguramu ewereza, nandibadde nga ekwataganye ku mutimbagano, eyinza okuba "
+"nga ssi nteekateeke mu ngeri egisobozesa okutambuza bubaka."
 
 #: core/job_error.cpp:723
 #, kde-format
-msgid "The server, while currently connected to the Internet, may not be running the requested service (%1)."
-msgstr "Puloguramu ewereza, nandibadde nga ekwataganye ku mutimbagano, eyinza okuba nga tetandise puloguramu empeereze eyetaagibwa (%1)."
+msgid ""
+"The server, while currently connected to the Internet, may not be running "
+"the requested service (%1)."
+msgstr ""
+"Puloguramu ewereza, nandibadde nga ekwataganye ku mutimbagano, eyinza okuba "
+"nga tetandise puloguramu empeereze eyetaagibwa (%1)."
 
 #: core/job_error.cpp:727
 #, kde-format
-msgid "A network firewall (a device which restricts Internet requests), either protecting your network or the network of the server, may have intervened, preventing this request."
-msgstr "Wayinza okuba wo sseŋenge (ekisunsula obubaka obuyitiŋana ku mutimbagano), wa ku kompyuta yo oba wa ku kompyuta ewereza, nga y'agaanye obubaka okutambula."
+msgid ""
+"A network firewall (a device which restricts Internet requests), either "
+"protecting your network or the network of the server, may have intervened, "
+"preventing this request."
+msgstr ""
+"Wayinza okuba wo sseŋenge (ekisunsula obubaka obuyitiŋana ku mutimbagano), "
+"wa ku kompyuta yo oba wa ku kompyuta ewereza, nga y'agaanye obubaka "
+"okutambula."
 
 #: core/job_error.cpp:734
 #, kde-format
@@ -1270,13 +1590,21 @@ msgstr "Omukutu Ogugguka Ku Kompyuta Ewereza Guzibidwa Nga Ssi Kisuubire"
 
 #: core/job_error.cpp:736
 #, kde-format
-msgid "Although a connection was established to <strong>%1</strong>, the connection was closed at an unexpected point in the communication."
-msgstr "Enkwatagana yateeredwawo ku <strong>%1</strong>, naye egyidwawo nga empulizagana tennaba okutuusa okukomezebwa."
+msgid ""
+"Although a connection was established to <strong>%1</strong>, the connection "
+"was closed at an unexpected point in the communication."
+msgstr ""
+"Enkwatagana yateeredwawo ku <strong>%1</strong>, naye egyidwawo nga "
+"empulizagana tennaba okutuusa okukomezebwa."
 
 #: core/job_error.cpp:742
 #, kde-format
-msgid "A protocol error may have occurred, causing the server to close the connection as a response to the error."
-msgstr "Wayinza okuba nga wazzewo kiremya ava ku mateeka ga mpulizagana, eyaleetedde kompyuta ewereza okugyawo enkwatagana."
+msgid ""
+"A protocol error may have occurred, causing the server to close the "
+"connection as a response to the error."
+msgstr ""
+"Wayinza okuba nga wazzewo kiremya ava ku mateeka ga mpulizagana, eyaleetedde "
+"kompyuta ewereza okugyawo enkwatagana."
 
 #: core/job_error.cpp:748
 #, kde-format
@@ -1290,13 +1618,28 @@ msgstr "Amateeka %1 si masunsuzi"
 
 #: core/job_error.cpp:751
 #, kde-format
-msgid "The <strong>U</strong>niform <strong>R</strong>esource <strong>L</strong>ocator (URL) that you entered did not refer to a valid mechanism of accessing the specific resource, <strong>%1%2</strong>."
-msgstr "Endagiriro eya URL ('<strong>U</strong>niform <strong>R</strong>esource <strong>L</strong>ocator (URL)') gy'owandise teraga ngeri ey'okutuuka ku kifunibwa ekiragidwa, <strong>%1%2</strong>."
+msgid ""
+"The <strong>U</strong>niform <strong>R</strong>esource <strong>L</"
+"strong>ocator (URL) that you entered did not refer to a valid mechanism of "
+"accessing the specific resource, <strong>%1%2</strong>."
+msgstr ""
+"Endagiriro eya URL ('<strong>U</strong>niform <strong>R</strong>esource "
+"<strong>L</strong>ocator (URL)') gy'owandise teraga ngeri ey'okutuuka ku "
+"kifunibwa ekiragidwa, <strong>%1%2</strong>."
 
 #: core/job_error.cpp:758
 #, kde-format
-msgid "KDE is able to communicate through a protocol within a protocol. This request specified a protocol be used as such, however this protocol is not capable of such an action. This is a rare event, and is likely to indicate a programming error."
-msgstr "KDE esobola okukozesa ekika kya mpulizagana nga ky'ongedwako mateeka amalala agafuga enkola ya kyo. Omulimu guno gulaze amateeka ag'empulizagana agakozesebwa mu ngeri eyo, naye agalagidwa tegasobola ekikolwa ekyetaagibwa. Embeera eno tetera okugwa wo, era wandiba nga waliwo ensobi mu buwandike bwa puloguramu."
+msgid ""
+"KDE is able to communicate through a protocol within a protocol. This "
+"request specified a protocol be used as such, however this protocol is not "
+"capable of such an action. This is a rare event, and is likely to indicate a "
+"programming error."
+msgstr ""
+"KDE esobola okukozesa ekika kya mpulizagana nga ky'ongedwako mateeka amalala "
+"agafuga enkola ya kyo. Omulimu guno gulaze amateeka ag'empulizagana "
+"agakozesebwa mu ngeri eyo, naye agalagidwa tegasobola ekikolwa ekyetaagibwa. "
+"Embeera eno tetera okugwa wo, era wandiba nga waliwo ensobi mu buwandike bwa "
+"puloguramu."
 
 #: core/job_error.cpp:766
 #, kde-format
@@ -1310,23 +1653,43 @@ msgstr "Nnemedwa okuwanga kyuma"
 
 #: core/job_error.cpp:769
 #, kde-format
-msgid "The requested device could not be initialized (\"mounted\"). The reported error was: <strong>%1</strong>"
-msgstr "Tekisobose kutandikawaza (\"okuwanga\") ekyuma ekyetaagibwa. Buno bwe bubaka bwa kiremya: <strong>%1</strong>"
+msgid ""
+"The requested device could not be initialized (\"mounted\"). The reported "
+"error was: <strong>%1</strong>"
+msgstr ""
+"Tekisobose kutandikawaza (\"okuwanga\") ekyuma ekyetaagibwa. Buno bwe bubaka "
+"bwa kiremya: <strong>%1</strong>"
 
 #: core/job_error.cpp:773
 #, kde-format
-msgid "The device may not be ready, for example there may be no media in a removable media device (i.e. no CD-ROM in a CD drive), or in the case of a peripheral/portable device, the device may not be correctly connected."
-msgstr "Ekyuma kiyinza okuba nga ssi kitegeke, okugeza tekiteeredwamu CD oba DVD, oba soketi ekiyunga ku kompyuta tenywedde."
+msgid ""
+"The device may not be ready, for example there may be no media in a "
+"removable media device (i.e. no CD-ROM in a CD drive), or in the case of a "
+"peripheral/portable device, the device may not be correctly connected."
+msgstr ""
+"Ekyuma kiyinza okuba nga ssi kitegeke, okugeza tekiteeredwamu CD oba DVD, "
+"oba soketi ekiyunga ku kompyuta tenywedde."
 
 #: core/job_error.cpp:778
 #, kde-format
-msgid "You may not have permissions to initialize (\"mount\") the device. On UNIX systems, often system administrator privileges are required to initialize a device."
-msgstr "Oyinza okubeera nga akawunti yo tekkirizibwa okutandikawaza (\"okuwanga\") ekyuma ekyo. Sisitemu eza UNIX zitera okutegekebwa nga okutandikawaza ebyuma kyetaagisa buyinza bwa muteesiteesi."
+msgid ""
+"You may not have permissions to initialize (\"mount\") the device. On UNIX "
+"systems, often system administrator privileges are required to initialize a "
+"device."
+msgstr ""
+"Oyinza okubeera nga akawunti yo tekkirizibwa okutandikawaza (\"okuwanga\") "
+"ekyuma ekyo. Sisitemu eza UNIX zitera okutegekebwa nga okutandikawaza ebyuma "
+"kyetaagisa buyinza bwa muteesiteesi."
 
 #: core/job_error.cpp:783
 #, kde-format
-msgid "Check that the device is ready; removable drives must contain media, and portable devices must be connected and powered on.; and try again."
-msgstr "Kebera okakase nti ekyema kitegeke; Ekiterekadata ekigyikamu laba nti mwekiri, ekyuma ekyetongole laba nti kiyungidwa ne kinyweera era nga masanyalaze kwegali; olyoke oddeemu ogezeeko."
+msgid ""
+"Check that the device is ready; removable drives must contain media, and "
+"portable devices must be connected and powered on.; and try again."
+msgstr ""
+"Kebera okakase nti ekyema kitegeke; Ekiterekadata ekigyikamu laba nti "
+"mwekiri, ekyuma ekyetongole laba nti kiyungidwa ne kinyweera era nga "
+"masanyalaze kwegali; olyoke oddeemu ogezeeko."
 
 #: core/job_error.cpp:790
 #, kde-format
@@ -1340,23 +1703,41 @@ msgstr "Nnemedwa okuwangula kyuma"
 
 #: core/job_error.cpp:793
 #, kde-format
-msgid "The requested device could not be uninitialized (\"unmounted\"). The reported error was: <strong>%1</strong>"
-msgstr "Tekisobose okuteggulula (\"kuwangula\") kyuma ekiragidwa. Buno bwe bubaka bwa kiremya: <strong>%1</strong>"
+msgid ""
+"The requested device could not be uninitialized (\"unmounted\"). The "
+"reported error was: <strong>%1</strong>"
+msgstr ""
+"Tekisobose okuteggulula (\"kuwangula\") kyuma ekiragidwa. Buno bwe bubaka "
+"bwa kiremya: <strong>%1</strong>"
 
 #: core/job_error.cpp:797
 #, kde-format
-msgid "The device may be busy, that is, still in use by another application or user. Even such things as having an open browser window on a location on this device may cause the device to remain in use."
-msgstr "Ekyuma kikozesebwa. Wayinza okuba wo puloguramu oba omukozesa omulala alina by'akolerako. Ne bw'obeera nga olina bubeezi ddirisa lya puloguramu nga bulawuza nga libikudde ekiri ku kyuma, ekyo kibalibwa nga ekyuma kikozesebwa."
+msgid ""
+"The device may be busy, that is, still in use by another application or "
+"user. Even such things as having an open browser window on a location on "
+"this device may cause the device to remain in use."
+msgstr ""
+"Ekyuma kikozesebwa. Wayinza okuba wo puloguramu oba omukozesa omulala alina "
+"by'akolerako. Ne bw'obeera nga olina bubeezi ddirisa lya puloguramu nga "
+"bulawuza nga libikudde ekiri ku kyuma, ekyo kibalibwa nga ekyuma kikozesebwa."
 
 #: core/job_error.cpp:802
 #, kde-format
-msgid "You may not have permissions to uninitialize (\"unmount\") the device. On UNIX systems, system administrator privileges are often required to uninitialize a device."
-msgstr "Oyinza okubeera nga akawunti yo tekkirizibwa okuteggulula (\"okuwangula\") ekyuma ekyo. Sisitemu eza UNIX zitera okutegekebwa nga okuteggulula ebyuma kyetaagisa buyinza bwa muteesiteesi."
+msgid ""
+"You may not have permissions to uninitialize (\"unmount\") the device. On "
+"UNIX systems, system administrator privileges are often required to "
+"uninitialize a device."
+msgstr ""
+"Oyinza okubeera nga akawunti yo tekkirizibwa okuteggulula (\"okuwangula\") "
+"ekyuma ekyo. Sisitemu eza UNIX zitera okutegekebwa nga okuteggulula ebyuma "
+"kyetaagisa buyinza bwa muteesiteesi."
 
 #: core/job_error.cpp:807
 #, kde-format
 msgid "Check that no applications are accessing the device, and try again."
-msgstr "Sooka okebere okakase nti tewali puloguramu ezikozesa ebiri ku kyuma, olyoke oddeemu ogezeeko."
+msgstr ""
+"Sooka okebere okakase nti tewali puloguramu ezikozesa ebiri ku kyuma, olyoke "
+"oddeemu ogezeeko."
 
 #: core/job_error.cpp:813
 #, kde-format
@@ -1365,8 +1746,12 @@ msgstr "Sisobola Okusoma Mu Kifunibwa"
 
 #: core/job_error.cpp:815
 #, kde-format
-msgid "This means that although the resource, <strong>%1</strong>, was able to be opened, an error occurred while reading the contents of the resource."
-msgstr "Kino kitegeeza nti ne wankubadde kisobose ekifunibwa, <strong>%1</strong>, okukibikkula, okusoma ebikirimu kwazzeemu kiremya."
+msgid ""
+"This means that although the resource, <strong>%1</strong>, was able to be "
+"opened, an error occurred while reading the contents of the resource."
+msgstr ""
+"Kino kitegeeza nti ne wankubadde kisobose ekifunibwa, <strong>%1</strong>, "
+"okukibikkula, okusoma ebikirimu kwazzeemu kiremya."
 
 #: core/job_error.cpp:819
 #, kde-format
@@ -1380,13 +1765,18 @@ msgstr "Sisobola Okuwandika mu Kifunibwa"
 
 #: core/job_error.cpp:834
 #, kde-format
-msgid "This means that although the resource, <strong>%1</strong>, was able to be opened, an error occurred while writing to the resource."
-msgstr "Kino kitegeeza nti ne wankubadde kisobose ekifunibwa, <strong>%1</strong>, okukibikkula, okukiwandika mu kwazzeemu kiremya."
+msgid ""
+"This means that although the resource, <strong>%1</strong>, was able to be "
+"opened, an error occurred while writing to the resource."
+msgstr ""
+"Kino kitegeeza nti ne wankubadde kisobose ekifunibwa, <strong>%1</strong>, "
+"okukibikkula, okukiwandika mu kwazzeemu kiremya."
 
 #: core/job_error.cpp:837
 #, kde-format
 msgid "You may not have permissions to write to the resource."
-msgstr "Endukusa eziri ku kifunibwa ziyinza okuba nga zikugaana okukiwandika mu."
+msgstr ""
+"Endukusa eziri ku kifunibwa ziyinza okuba nga zikugaana okukiwandika mu."
 
 #: core/job_error.cpp:850 core/job_error.cpp:863
 #, kde-format
@@ -1400,8 +1790,14 @@ msgstr "Nnemedwa Okufunira Ekintu Endagiriro Eya Ku Sisitemu."
 
 #: core/job_error.cpp:853 core/job_error.cpp:866
 #, kde-format
-msgid "This is a fairly technical error in which a required device for network communications (a socket) could not be established to listen for incoming network connections."
-msgstr "Ono kiremya wa mu nkola ya sisitemu nga ava ku butasobola okukolawo soketi eyetaagibwa mu lindirira enkwatagana empya ezitandikibwa okuva ku kompyuta ndala eziri ku kayungirizi."
+msgid ""
+"This is a fairly technical error in which a required device for network "
+"communications (a socket) could not be established to listen for incoming "
+"network connections."
+msgstr ""
+"Ono kiremya wa mu nkola ya sisitemu nga ava ku butasobola okukolawo soketi "
+"eyetaagibwa mu lindirira enkwatagana empya ezitandikibwa okuva ku kompyuta "
+"ndala eziri ku kayungirizi."
 
 #: core/job_error.cpp:864
 #, kde-format
@@ -1415,8 +1811,12 @@ msgstr "Sisobodde Okunyweza Enkwatagana Eya Ku Kayungirizi"
 
 #: core/job_error.cpp:878
 #, kde-format
-msgid "This is a fairly technical error in which an error occurred while attempting to accept an incoming network connection."
-msgstr "Ono kiremya wa mu nkola ya sisitemu nga ajjira mu mulimu ogw'okunyweza enkwatagana empya etandikibwa kompyuta endala okuva ku kayungirizi."
+msgid ""
+"This is a fairly technical error in which an error occurred while attempting "
+"to accept an incoming network connection."
+msgstr ""
+"Ono kiremya wa mu nkola ya sisitemu nga ajjira mu mulimu ogw'okunyweza "
+"enkwatagana empya etandikibwa kompyuta endala okuva ku kayungirizi."
 
 #: core/job_error.cpp:883
 #, kde-format
@@ -1430,8 +1830,11 @@ msgstr "Okuyingira Kugaanye: %1"
 
 #: core/job_error.cpp:890
 #, kde-format
-msgid "An attempt to login to perform the requested operation was unsuccessful."
-msgstr "Waliwo omulimu ogubadde gwetaagisa okuyingirayo akawunti naye okuyingira okwo kugaanye."
+msgid ""
+"An attempt to login to perform the requested operation was unsuccessful."
+msgstr ""
+"Waliwo omulimu ogubadde gwetaagisa okuyingirayo akawunti naye okuyingira "
+"okwo kugaanye."
 
 #: core/job_error.cpp:906
 #, kde-format
@@ -1445,8 +1848,12 @@ msgstr "Nnemedwa Okuzuula Ebikwata Ku Kifunibwa"
 
 #: core/job_error.cpp:909
 #, kde-format
-msgid "An attempt to determine information about the status of the resource <strong>%1</strong>, such as the resource name, type, size, etc., was unsuccessful."
-msgstr "Omulimu ogw'okuzuula ebikwata ku mbeera y'ekifunibwa <strong>%1</strong>, nga erinnya lya kyo, kika kya kyo, bunene, n'ebirala gulemye."
+msgid ""
+"An attempt to determine information about the status of the resource <strong>"
+"%1</strong>, such as the resource name, type, size, etc., was unsuccessful."
+msgstr ""
+"Omulimu ogw'okuzuula ebikwata ku mbeera y'ekifunibwa <strong>%1</strong>, "
+"nga erinnya lya kyo, kika kya kyo, bunene, n'ebirala gulemye."
 
 #: core/job_error.cpp:914
 #, kde-format
@@ -1502,7 +1909,9 @@ msgstr "Etterekero liyinza okuba mu ebintu."
 #: core/job_error.cpp:953
 #, kde-format
 msgid "Ensure that the folder exists and is empty, and try again."
-msgstr "Kebera okukakase nti etterekero gyeriri era nti temuli bintu, olyoke oddeemu ogezeeko."
+msgstr ""
+"Kebera okukakase nti etterekero gyeriri era nti temuli bintu, olyoke oddeemu "
+"ogezeeko."
 
 #: core/job_error.cpp:959
 #, kde-format
@@ -1511,18 +1920,26 @@ msgstr "Nnemedwa Okuzuukusa Ogw'okusimbuliza Fayiro"
 
 #: core/job_error.cpp:961
 #, kde-format
-msgid "The specified request asked that the transfer of file <strong>%1</strong> be resumed at a certain point of the transfer. This was not possible."
-msgstr "Ekibadde kyetaagidwa kwe kuzuukusa omulimu ogw'okusimbuliza <strong>%1</strong>, ogubadde guyimirizidwamu nga tegunaggwa. Tekisobose."
+msgid ""
+"The specified request asked that the transfer of file <strong>%1</strong> be "
+"resumed at a certain point of the transfer. This was not possible."
+msgstr ""
+"Ekibadde kyetaagidwa kwe kuzuukusa omulimu ogw'okusimbuliza <strong>%1</"
+"strong>, ogubadde guyimirizidwamu nga tegunaggwa. Tekisobose."
 
 #: core/job_error.cpp:966
 #, kde-format
 msgid "The protocol, or the server, may not support file resuming."
-msgstr "Ekika kya mpulizagana ekikozesebwa, oba puloguramu eweereza, biyinza okuba nga tebisobola kuzuukusa egy'okusimbuliza egiyimirizidwamu."
+msgstr ""
+"Ekika kya mpulizagana ekikozesebwa, oba puloguramu eweereza, biyinza okuba "
+"nga tebisobola kuzuukusa egy'okusimbuliza egiyimirizidwamu."
 
 #: core/job_error.cpp:969
 #, kde-format
 msgid "Retry the request without attempting to resume transfer."
-msgstr "Omulimu damu okugutandika okuva buto, mu kifo eky'okugeza okuzuukusa oguyimirizidwamu."
+msgstr ""
+"Omulimu damu okugutandika okuva buto, mu kifo eky'okugeza okuzuukusa "
+"oguyimirizidwamu."
 
 #: core/job_error.cpp:974
 #, kde-format
@@ -1532,7 +1949,8 @@ msgstr "Sisobode Okukyusa Linnya Lya Kifunibwa"
 #: core/job_error.cpp:976
 #, kde-format
 msgid "An attempt to rename the specified resource <strong>%1</strong> failed."
-msgstr "Omulimu ogw'okukyusa erinnya ly'ekifunibwa <strong>%1</strong> gugaanye."
+msgstr ""
+"Omulimu ogw'okukyusa erinnya ly'ekifunibwa <strong>%1</strong> gugaanye."
 
 #: core/job_error.cpp:987
 #, kde-format
@@ -1541,8 +1959,11 @@ msgstr "Nnemedwa Okukyusa Ndukusa ez'oku Kifunibwa"
 
 #: core/job_error.cpp:989
 #, kde-format
-msgid "An attempt to alter the permissions on the specified resource <strong>%1</strong> failed."
-msgstr "Omulimu ogw'okukyusa endukusa eza ku kifunibwa <strong>%1</strong> gugaanye."
+msgid ""
+"An attempt to alter the permissions on the specified resource <strong>%1</"
+"strong> failed."
+msgstr ""
+"Omulimu ogw'okukyusa endukusa eza ku kifunibwa <strong>%1</strong> gugaanye."
 
 #: core/job_error.cpp:997
 #, kde-format
@@ -1551,8 +1972,12 @@ msgstr "Nnemedwa Okukyusa Obwa Nannyini obwa ku Kifunibwa"
 
 #: core/job_error.cpp:999
 #, kde-format
-msgid "An attempt to change the ownership of the specified resource <strong>%1</strong> failed."
-msgstr "Omulimu ogw'okukyusa obwa nannyini obwa ku kifunibwa <strong>%1</strong> gugaanye."
+msgid ""
+"An attempt to change the ownership of the specified resource <strong>%1</"
+"strong> failed."
+msgstr ""
+"Omulimu ogw'okukyusa obwa nannyini obwa ku kifunibwa <strong>%1</strong> "
+"gugaanye."
 
 #: core/job_error.cpp:1007
 #, kde-format
@@ -1571,8 +1996,12 @@ msgstr "Puloguramu Ekomezedwa Nga Tekisuubidwa"
 
 #: core/job_error.cpp:1019
 #, kde-format
-msgid "The program on your computer which provides access to the <strong>%1</strong> protocol has unexpectedly terminated."
-msgstr "Puloguramu ey'oku kompyuta yo esobozesa zinnaayo okukozesa empulizagana ey'ekika kya <strong>%1</strong> ekomye nga ssi kigenderere."
+msgid ""
+"The program on your computer which provides access to the <strong>%1</"
+"strong> protocol has unexpectedly terminated."
+msgstr ""
+"Puloguramu ey'oku kompyuta yo esobozesa zinnaayo okukozesa empulizagana "
+"ey'ekika kya <strong>%1</strong> ekomye nga ssi kigenderere."
 
 #: core/job_error.cpp:1027
 #, kde-format
@@ -1581,8 +2010,13 @@ msgstr "Ggwanika lijjudde"
 
 #: core/job_error.cpp:1029
 #, kde-format
-msgid "The program on your computer which provides access to the <strong>%1</strong> protocol could not obtain the memory required to continue."
-msgstr "Puloguramu ey'oku kompyuta yo esobozesa zinnaayo okukozesa empulizagana ey'ekika kya <strong>%1</strong> tesobodde kufuna kifo mu ggwanika ekyetaagibwa okusigala nga ekola."
+msgid ""
+"The program on your computer which provides access to the <strong>%1</"
+"strong> protocol could not obtain the memory required to continue."
+msgstr ""
+"Puloguramu ey'oku kompyuta yo esobozesa zinnaayo okukozesa empulizagana "
+"ey'ekika kya <strong>%1</strong> tesobodde kufuna kifo mu ggwanika "
+"ekyetaagibwa okusigala nga ekola."
 
 #: core/job_error.cpp:1038
 #, kde-format
@@ -1591,18 +2025,34 @@ msgstr "Kompyuta Enyunge Kalaani Temanyidwa"
 
 #: core/job_error.cpp:1040
 #, kde-format
-msgid "While retrieving information about the specified proxy host, <strong>%1</strong>, an Unknown Host error was encountered. An unknown host error indicates that the requested name could not be located on the Internet."
-msgstr "Omulimu ogw'okunona ebifa ku kompyuta enyunge kalaani <strong>%1</strong> guzzeemu kiremya owa kompyuta enyunge butamanyibwa. Kiremya owa kompyuta enyunge butamanyibwa ava ku kulemwa kugizuula ku mutimbagano."
+msgid ""
+"While retrieving information about the specified proxy host, <strong>%1</"
+"strong>, an Unknown Host error was encountered. An unknown host error "
+"indicates that the requested name could not be located on the Internet."
+msgstr ""
+"Omulimu ogw'okunona ebifa ku kompyuta enyunge kalaani <strong>%1</strong> "
+"guzzeemu kiremya owa kompyuta enyunge butamanyibwa. Kiremya owa kompyuta "
+"enyunge butamanyibwa ava ku kulemwa kugizuula ku mutimbagano."
 
 #: core/job_error.cpp:1046
 #, kde-format
-msgid "There may have been a problem with your network configuration, specifically your proxy's hostname. If you have been accessing the Internet with no problems recently, this is unlikely."
-msgstr "Enteekateeka ya kayungirizi eya ku kompyuta yo eyinza okuba mu ensobi, na ddala awawandikidwa erinnya lya kompyuta okuli kalaani kompyuta yo gye yeyambisa. Naye bw'oba nga mu biseera bino obadde okugendagenda ku mutimbagano nga tofuna kizibu kiremya yandiba nga ava walala."
+msgid ""
+"There may have been a problem with your network configuration, specifically "
+"your proxy's hostname. If you have been accessing the Internet with no "
+"problems recently, this is unlikely."
+msgstr ""
+"Enteekateeka ya kayungirizi eya ku kompyuta yo eyinza okuba mu ensobi, na "
+"ddala awawandikidwa erinnya lya kompyuta okuli kalaani kompyuta yo gye "
+"yeyambisa. Naye bw'oba nga mu biseera bino obadde okugendagenda ku "
+"mutimbagano nga tofuna kizibu kiremya yandiba nga ava walala."
 
 #: core/job_error.cpp:1050
 #, kde-format
 msgid "Double-check your proxy settings and try again."
-msgstr "Kebera enteekateeka ya kayungirizi eya ku kompyuta yo awawandikidwa ebikwata ku kalaani kompyuta yo gye yeyambisa okugenda ku mutimbagano, olyoke oddeemu ogezeeko."
+msgstr ""
+"Kebera enteekateeka ya kayungirizi eya ku kompyuta yo awawandikidwa ebikwata "
+"ku kalaani kompyuta yo gye yeyambisa okugenda ku mutimbagano, olyoke oddeemu "
+"ogezeeko."
 
 #: core/job_error.cpp:1054
 #, kde-format
@@ -1611,13 +2061,25 @@ msgstr "Enkakasa Egaanye: Sisitemu Eno Tekozesa Ya Kika Kya %1"
 
 #: core/job_error.cpp:1056
 #, kde-format
-msgid "Although you may have supplied the correct authentication details, the authentication failed because the method that the server is using is not supported by the KDE program implementing the protocol %1."
-msgstr "Eby'enkakasa by'owaddeyo ne wandibadde nga bituufu, omulimu gugaanye olw'okuba nga ekika ky'enkakasa kompyuta eweereza ky'ekozesa ssi kye kimu n'ekikozesebwa puloguramu eya mu KDE eya ku kompyuta eyiyo ekola ku mpulizagana ey'ekika kya %1."
+msgid ""
+"Although you may have supplied the correct authentication details, the "
+"authentication failed because the method that the server is using is not "
+"supported by the KDE program implementing the protocol %1."
+msgstr ""
+"Eby'enkakasa by'owaddeyo ne wandibadde nga bituufu, omulimu gugaanye "
+"olw'okuba nga ekika ky'enkakasa kompyuta eweereza ky'ekozesa ssi kye kimu "
+"n'ekikozesebwa puloguramu eya mu KDE eya ku kompyuta eyiyo ekola ku "
+"mpulizagana ey'ekika kya %1."
 
 #: core/job_error.cpp:1062
 #, kde-format
-msgid "Please file a bug at <a href=\"https://bugs.kde.org/\">https://bugs.kde.org/</a> to inform the KDE team of the unsupported authentication method."
-msgstr "Tukusaba ogende ku <a href=\"https://bugs.kde.org/\">https://bugs.kde.org/</a> olekeyo obubaka obutangaaza tiimu eya KDE ku kika ky'enkakasa puloguramu yabwe ky'etakozesa."
+msgid ""
+"Please file a bug at <a href=\"https://bugs.kde.org/\">https://bugs.kde.org/"
+"</a> to inform the KDE team of the unsupported authentication method."
+msgstr ""
+"Tukusaba ogende ku <a href=\"https://bugs.kde.org/\">https://bugs.kde.org/</"
+"a> olekeyo obubaka obutangaaza tiimu eya KDE ku kika ky'enkakasa puloguramu "
+"yabwe ky'etakozesa."
 
 #: core/job_error.cpp:1069
 #, kde-format
@@ -1631,23 +2093,38 @@ msgstr "Puloguramu Ewereza Ezzeemu Kiremya"
 
 #: core/job_error.cpp:1079
 #, kde-format
-msgid "The program on the server which provides access to the <strong>%1</strong> protocol has reported an internal error: %2."
-msgstr "Puloguramu ey'oku kompyuta eweereza esobozesa zinnaayo okukozesa empulizagana ey'ekika kya <strong>%1</strong> eraze nti efunye kiremya: %2."
+msgid ""
+"The program on the server which provides access to the <strong>%1</strong> "
+"protocol has reported an internal error: %2."
+msgstr ""
+"Puloguramu ey'oku kompyuta eweereza esobozesa zinnaayo okukozesa "
+"empulizagana ey'ekika kya <strong>%1</strong> eraze nti efunye kiremya: %2."
 
 #: core/job_error.cpp:1085
 #, kde-format
-msgid "This is most likely to be caused by a bug in the server program. Please consider submitting a full bug report as detailed below."
-msgstr "Kino kyandba nga kivudde ku mpulunguse mu puloguramu eya ku kompyuta eweereza. Sindika obubaka obutottola mu bujjuvu ebiguddewo mu mplunguse eno ng'ebiddako bwe binnyonyola."
+msgid ""
+"This is most likely to be caused by a bug in the server program. Please "
+"consider submitting a full bug report as detailed below."
+msgstr ""
+"Kino kyandba nga kivudde ku mpulunguse mu puloguramu eya ku kompyuta "
+"eweereza. Sindika obubaka obutottola mu bujjuvu ebiguddewo mu mplunguse eno "
+"ng'ebiddako bwe binnyonyola."
 
 #: core/job_error.cpp:1089
 #, kde-format
 msgid "Contact the administrator of the server to advise them of the problem."
-msgstr "Omuteesiteesi wa kompyuta eweereza musindikire obubaka okumutemya ku kizibu kino."
+msgstr ""
+"Omuteesiteesi wa kompyuta eweereza musindikire obubaka okumutemya ku kizibu "
+"kino."
 
 #: core/job_error.cpp:1092
 #, kde-format
-msgid "If you know who the authors of the server software are, submit the bug report directly to them."
-msgstr "Bw'oba nga abawandika puloguramu ey'oku kompyuta eweereza obategedde, obubabaka obunnyonyola empulunguse eno bubasindikire butereevu."
+msgid ""
+"If you know who the authors of the server software are, submit the bug "
+"report directly to them."
+msgstr ""
+"Bw'oba nga abawandika puloguramu ey'oku kompyuta eweereza obategedde, "
+"obubabaka obunnyonyola empulunguse eno bubasindikire butereevu."
 
 #: core/job_error.cpp:1097
 #, kde-format
@@ -1656,13 +2133,29 @@ msgstr "Waliwo Kiremya wa ku Kkomo lya Kulindirira"
 
 #: core/job_error.cpp:1099
 #, kde-format
-msgid "Although contact was made with the server, a response was not received within the amount of time allocated for the request as follows:<ul><li>Timeout for establishing a connection: %1 seconds</li><li>Timeout for receiving a response: %2 seconds</li><li>Timeout for accessing proxy servers: %3 seconds</li></ul>Please note that you can alter these timeout settings in the KDE System Settings, by selecting Network Settings -> Connection Preferences."
-msgstr "Kompyuta eweereza yafunye okukoowola naye yo teyanukulidde mu kiseera ekitegekedwa bwekityi:<ul><li>Kkomo lya kulindirira enkwatagana kunywezebwa: sikonda %1</li><li>Kkomo lya kulindirira okwanukula: sikonda %2</li><li>Kkomo lya kulindirira okutuusibwa ku puloguramu kalaani: sikonda %3</li></ul>Genderera, osobobola okukyusa enkomo zino mu Nteekateeka za Sisitemu ya KDE, mu kitundu ekya Nteekateeka za Kayungirizi -> Nteekateeka za Nkwatagana."
+msgid ""
+"Although contact was made with the server, a response was not received "
+"within the amount of time allocated for the request as follows:"
+"<ul><li>Timeout for establishing a connection: %1 seconds</li><li>Timeout "
+"for receiving a response: %2 seconds</li><li>Timeout for accessing proxy "
+"servers: %3 seconds</li></ul>Please note that you can alter these timeout "
+"settings in the KDE System Settings, by selecting Network Settings -> "
+"Connection Preferences."
+msgstr ""
+"Kompyuta eweereza yafunye okukoowola naye yo teyanukulidde mu kiseera "
+"ekitegekedwa bwekityi:<ul><li>Kkomo lya kulindirira enkwatagana kunywezebwa: "
+"sikonda %1</li><li>Kkomo lya kulindirira okwanukula: sikonda %2</"
+"li><li>Kkomo lya kulindirira okutuusibwa ku puloguramu kalaani: sikonda %3</"
+"li></ul>Genderera, osobobola okukyusa enkomo zino mu Nteekateeka za Sisitemu "
+"ya KDE, mu kitundu ekya Nteekateeka za Kayungirizi -> Nteekateeka za "
+"Nkwatagana."
 
 #: core/job_error.cpp:1112
 #, kde-format
 msgid "The server was too busy responding to other requests to respond."
-msgstr "Kompyuta eweereza emirimu egy'okwanukula kasitoma nyingi gyagiyitiridde ko n'eremwa okwongerako eyiyo."
+msgstr ""
+"Kompyuta eweereza emirimu egy'okwanukula kasitoma nyingi gyagiyitiridde ko "
+"n'eremwa okwongerako eyiyo."
 
 #: core/job_error.cpp:1118 core/slavebase.cpp:1532
 #, kde-format
@@ -1671,8 +2164,12 @@ msgstr "Wazzewo kiremya atategeereka"
 
 #: core/job_error.cpp:1120
 #, kde-format
-msgid "The program on your computer which provides access to the <strong>%1</strong> protocol has reported an unknown error: %2."
-msgstr "Puloguramu ey'oku kompyuta yo esobozesa zinnaayo okukozesa empulizagana ey'ekika kya <strong>%1</strong> eraze nti efunye kiremya atamanyidwa: %2."
+msgid ""
+"The program on your computer which provides access to the <strong>%1</"
+"strong> protocol has reported an unknown error: %2."
+msgstr ""
+"Puloguramu ey'oku kompyuta yo esobozesa zinnaayo okukozesa empulizagana "
+"ey'ekika kya <strong>%1</strong> eraze nti efunye kiremya atamanyidwa: %2."
 
 #: core/job_error.cpp:1130
 #, kde-format
@@ -1681,8 +2178,13 @@ msgstr "Wafunidwawo Ekiyimirizaamu Omulimu Ekitategeerese"
 
 #: core/job_error.cpp:1132
 #, kde-format
-msgid "The program on your computer which provides access to the <strong>%1</strong> protocol has reported an interruption of an unknown type: %2."
-msgstr "Puloguramu ey'oku kompyuta yo esobozesa zinnaayo okukozesa empulizagana ey'ekika kya <strong>%1</strong> eraze nti wazzeewo ekiyimirizaamu omulimu eky'ekika ekitategeerese: %2."
+msgid ""
+"The program on your computer which provides access to the <strong>%1</"
+"strong> protocol has reported an interruption of an unknown type: %2."
+msgstr ""
+"Puloguramu ey'oku kompyuta yo esobozesa zinnaayo okukozesa empulizagana "
+"ey'ekika kya <strong>%1</strong> eraze nti wazzeewo ekiyimirizaamu omulimu "
+"eky'ekika ekitategeerese: %2."
 
 #: core/job_error.cpp:1142
 #, kde-format
@@ -1691,8 +2193,14 @@ msgstr "Nnemedwa Okugyawo Fayiro Eyasangidwawo"
 
 #: core/job_error.cpp:1144
 #, kde-format
-msgid "The requested operation required the deleting of the original file, most likely at the end of a file move operation. The original file <strong>%1</strong> could not be deleted."
-msgstr "Omulimu gubaddemu ne we gwetaagisa okugyawo fayiro eyasangidwawo, nga oluvanyuma lw'okubaako esimbuzidwa. Tekisobose okugyawo fayiro <strong>%1</strong> esangidwawo."
+msgid ""
+"The requested operation required the deleting of the original file, most "
+"likely at the end of a file move operation. The original file <strong>%1</"
+"strong> could not be deleted."
+msgstr ""
+"Omulimu gubaddemu ne we gwetaagisa okugyawo fayiro eyasangidwawo, nga "
+"oluvanyuma lw'okubaako esimbuzidwa. Tekisobose okugyawo fayiro <strong>%1</"
+"strong> esangidwawo."
 
 #: core/job_error.cpp:1153
 #, kde-format
@@ -1701,8 +2209,15 @@ msgstr "Nnemedwa Okugyawo Fayiro Ey'ekiseerabuseera"
 
 #: core/job_error.cpp:1155
 #, kde-format
-msgid "The requested operation required the creation of a temporary file in which to save the new file while being downloaded. This temporary file <strong>%1</strong> could not be deleted."
-msgstr "Omulimu gubadde gwetaagisa okukolawo fayiro ey'ekiseerabuseera omw'okutereka ebikyawanulibwa biryoke bigenda mu ey'enkalakkalira. Fayiro ey'ekiseerabuseera eno, <strong>%1</strong>, tekisobose okugigyawo nga guwedde."
+msgid ""
+"The requested operation required the creation of a temporary file in which "
+"to save the new file while being downloaded. This temporary file <strong>%1</"
+"strong> could not be deleted."
+msgstr ""
+"Omulimu gubadde gwetaagisa okukolawo fayiro ey'ekiseerabuseera omw'okutereka "
+"ebikyawanulibwa biryoke bigenda mu ey'enkalakkalira. Fayiro "
+"ey'ekiseerabuseera eno, <strong>%1</strong>, tekisobose okugigyawo nga "
+"guwedde."
 
 #: core/job_error.cpp:1165
 #, kde-format
@@ -1711,8 +2226,12 @@ msgstr "Nnemedwa Okukyusa Erinnya Lya Fayiro Eyasangidwawo"
 
 #: core/job_error.cpp:1167
 #, kde-format
-msgid "The requested operation required the renaming of the original file <strong>%1</strong>, however it could not be renamed."
-msgstr "Omulimu gubadde gwetaagisa okukyusa erinnya lya fayiro <strong>%1</strong> esangidwawo, naye tekisobose."
+msgid ""
+"The requested operation required the renaming of the original file <strong>"
+"%1</strong>, however it could not be renamed."
+msgstr ""
+"Omulimu gubadde gwetaagisa okukyusa erinnya lya fayiro <strong>%1</strong> "
+"esangidwawo, naye tekisobose."
 
 #: core/job_error.cpp:1176
 #, kde-format
@@ -1721,8 +2240,12 @@ msgstr "Nnemedwa Okukyusa Erinnya Lya Fayiro Ey'ekiseerabuseera"
 
 #: core/job_error.cpp:1178
 #, kde-format
-msgid "The requested operation required the creation of a temporary file <strong>%1</strong>, however it could not be created."
-msgstr "Omulimu gubadde gwetaagisa okukolawo fayiro ey'ekiseerabuseera, <strong>%1</strong>, naye tekisobose okugikola."
+msgid ""
+"The requested operation required the creation of a temporary file <strong>"
+"%1</strong>, however it could not be created."
+msgstr ""
+"Omulimu gubadde gwetaagisa okukolawo fayiro ey'ekiseerabuseera, <strong>%1</"
+"strong>, naye tekisobose okugikola."
 
 #: core/job_error.cpp:1187
 #, kde-format
@@ -1751,13 +2274,24 @@ msgstr "Disiki Ejjudde"
 
 #: core/job_error.cpp:1202
 #, kde-format
-msgid "The requested file <strong>%1</strong> could not be written to as there is inadequate disk space."
-msgstr "Tekisobose kuwandika fayiro <strong>%1</strong> olw'okuba nti ebbanga ersigadde ku disiki terimala."
+msgid ""
+"The requested file <strong>%1</strong> could not be written to as there is "
+"inadequate disk space."
+msgstr ""
+"Tekisobose kuwandika fayiro <strong>%1</strong> olw'okuba nti ebbanga "
+"ersigadde ku disiki terimala."
 
 #: core/job_error.cpp:1206
 #, kde-format
-msgid "Free up enough disk space by 1) deleting unwanted and temporary files; 2) archiving files to removable media storage such as CD-Recordable discs; or 3) obtain more storage capacity."
-msgstr "Okwongera ku bbanga 1) gyawo fayiro ezikiseerabuseera ne z'otakyeetaaga eziri disiki eno; 2) fayiro ezimu zisimbulize zigende ku mediya eneetongovu nga CD oa fulaasi; oba 3) kompyuta gy'ongeremu disiki endala oba gifunire etereka bingi okusinga eno."
+msgid ""
+"Free up enough disk space by 1) deleting unwanted and temporary files; 2) "
+"archiving files to removable media storage such as CD-Recordable discs; or "
+"3) obtain more storage capacity."
+msgstr ""
+"Okwongera ku bbanga 1) gyawo fayiro ezikiseerabuseera ne z'otakyeetaaga "
+"eziri disiki eno; 2) fayiro ezimu zisimbulize zigende ku mediya eneetongovu "
+"nga CD oa fulaasi; oba 3) kompyuta gy'ongeremu disiki endala oba gifunire "
+"etereka bingi okusinga eno."
 
 #: core/job_error.cpp:1213
 #, kde-format
@@ -1766,7 +2300,9 @@ msgstr "Fayiro ey'ennono n'ey'ekigenderwa ze zimu"
 
 #: core/job_error.cpp:1215
 #, kde-format
-msgid "The operation could not be completed because the source and destination files are the same file."
+msgid ""
+"The operation could not be completed because the source and destination "
+"files are the same file."
 msgstr "Omulimu tegukolese kubanga fayiro ey'ennono n'egenderwa y'emu."
 
 #: core/job_error.cpp:1217
@@ -1781,7 +2317,9 @@ msgstr "W'okisitulidde era ye w'okiteeredde"
 
 #: core/job_error.cpp:1223
 #, kde-format
-msgid "The operation could not be completed because the source and destination file or folder are the same."
+msgid ""
+"The operation could not be completed because the source and destination file "
+"or folder are the same."
 msgstr "Omulimu tegukolese kubanga eky'ennono n'ekigenderwa bye bimu."
 
 #: core/job_error.cpp:1225
@@ -1796,8 +2334,11 @@ msgstr "Ogeza okujjulula tterekero ligende mu eririri munda ate"
 
 #: core/job_error.cpp:1237
 #, kde-format
-msgid "The operation could not be completed because the source can not be moved into itself."
-msgstr "Omulimu tegukolese kubanga eky'ennono tekisoboka okukyeteekamu koppi yakyo."
+msgid ""
+"The operation could not be completed because the source can not be moved "
+"into itself."
+msgstr ""
+"Omulimu tegukolese kubanga eky'ennono tekisoboka okukyeteekamu koppi yakyo."
 
 #: core/job_error.cpp:1239
 #, kde-format
@@ -1811,13 +2352,19 @@ msgstr "Tekisobose okuwulizagana ne puloguramu ekola ku busumuluzo"
 
 #: core/job_error.cpp:1245
 #, kde-format
-msgid "The operation could not be completed because the service for requesting passwords (kpasswdserver) couldn't be contacted"
-msgstr "Omulimu gugaanye kubanga tekisobose okukwatagana ne puloguramu (kpasswordserver) empeereze enona busumuluzo"
+msgid ""
+"The operation could not be completed because the service for requesting "
+"passwords (kpasswdserver) couldn't be contacted"
+msgstr ""
+"Omulimu gugaanye kubanga tekisobose okukwatagana ne puloguramu "
+"(kpasswordserver) empeereze enona busumuluzo"
 
 #: core/job_error.cpp:1247
 #, kde-format
 msgid "Try restarting your session, or look in the logs for errors from kiod."
-msgstr "Oyinza okuddamu okutandika olutuula lwo olyoke oddeemu, oba oyinza okukebera mu fayiro ey'ebifudeyo okulaba oba waliwo kiremya ava ku 'kiod'."
+msgstr ""
+"Oyinza okuddamu okutandika olutuula lwo olyoke oddeemu, oba oyinza okukebera "
+"mu fayiro ey'ebifudeyo okulaba oba waliwo kiremya ava ku 'kiod'."
 
 #: core/job_error.cpp:1251
 #, kde-format
@@ -1831,13 +2378,23 @@ msgstr "Nnemedwa okukolawo puloguramu eyeyazikibwa eya KIO"
 
 #: core/job_error.cpp:1254
 #, kde-format
-msgid "The KIO worker which provides access to the <strong>%1</strong> protocol could not be started. This is usually due to technical reasons."
-msgstr "Tekisobose okutandika puloguramu eyeyazikibwa eya KIO ekola ku mpulizagana ya kika kya <strong>%1</strong>. Kino kitera okuva ku bizibu bya nkola ya sisitemu."
+msgid ""
+"The KIO worker which provides access to the <strong>%1</strong> protocol "
+"could not be started. This is usually due to technical reasons."
+msgstr ""
+"Tekisobose okutandika puloguramu eyeyazikibwa eya KIO ekola ku mpulizagana "
+"ya kika kya <strong>%1</strong>. Kino kitera okuva ku bizibu bya nkola ya "
+"sisitemu."
 
 #: core/job_error.cpp:1259
 #, kde-format
-msgid "klauncher could not find or start the plugin which provides the protocol. This means you may have an outdated version of the plugin."
-msgstr "klauncher ebulidwa oba eremedwa okutandika ekyongerwako ekikola ku kika kya mpulizagana ekyo. Kino kitegeeza nti oluwandika lw'ekyongerwako ekiri ku sisitemu yo luyinza okuba nga lumenyedwawo olusinga obugya."
+msgid ""
+"klauncher could not find or start the plugin which provides the protocol. "
+"This means you may have an outdated version of the plugin."
+msgstr ""
+"klauncher ebulidwa oba eremedwa okutandika ekyongerwako ekikola ku kika kya "
+"mpulizagana ekyo. Kino kitegeeza nti oluwandika lw'ekyongerwako ekiri ku "
+"sisitemu yo luyinza okuba nga lumenyedwawo olusinga obugya."
 
 #: core/job_error.cpp:1265
 #, kde-kuit-format
@@ -1848,13 +2405,21 @@ msgstr "Sisobola okusimbuliza <filename>%1</filename>"
 #: core/job_error.cpp:1267
 #, kde-kuit-format
 msgctxt "@info"
-msgid "The file <filename>%1</filename> cannot be transferred, because the destination filesystem does not support files that large"
-msgstr "Fayiro <filename>%1</filename> tesobola kusimbulizibwa, kubanga sisiteu eya fayiro kweyandigenze tesobola fayiro nnene okwenkana awo"
+msgid ""
+"The file <filename>%1</filename> cannot be transferred, because the "
+"destination filesystem does not support files that large"
+msgstr ""
+"Fayiro <filename>%1</filename> tesobola kusimbulizibwa, kubanga sisiteu eya "
+"fayiro kweyandigenze tesobola fayiro nnene okwenkana awo"
 
 #: core/job_error.cpp:1270
 #, kde-format
-msgid "Reformat the destination drive to use a filesystem that supports files that large."
-msgstr "Kyusa sisitemu ya fayiro ku kigenderwa oteekeko esobola okubeera ne fayiro ennene okwenkana awo."
+msgid ""
+"Reformat the destination drive to use a filesystem that supports files that "
+"large."
+msgstr ""
+"Kyusa sisitemu ya fayiro ku kigenderwa oteekeko esobola okubeera ne fayiro "
+"ennene okwenkana awo."
 
 #: core/job_error.cpp:1275
 #, kde-format
@@ -1879,9 +2444,11 @@ msgstr " (Egguka ku %1)"
 #: core/mimetypefinderjob.cpp:57 gui/openurljob.cpp:145
 #: widgets/renamedialog.cpp:606
 #, kde-format
-msgid "Malformed URL\n"
+msgid ""
+"Malformed URL\n"
 "%1"
-msgstr "Empandika ya URL erimu ensobi\n"
+msgstr ""
+"Empandika ya URL erimu ensobi\n"
 "%1"
 
 #: core/mimetypefinderjob.cpp:223
@@ -1891,8 +2458,12 @@ msgstr "Nnemedwa okuzuula kika kya fayiro %1"
 
 #: core/openwith.cpp:90
 #, kde-format
-msgid "Could not extract executable name from '%1', please type a valid program name."
-msgstr "Sirabye linnya lya puloguramu mu '%1', wandika erinnya nga ddala lya puloguramu."
+msgid ""
+"Could not extract executable name from '%1', please type a valid program "
+"name."
+msgstr ""
+"Sirabye linnya lya puloguramu mu '%1', wandika erinnya nga ddala lya "
+"puloguramu."
 
 #: core/openwith.cpp:142
 #, kde-kuit-format
@@ -1903,8 +2474,12 @@ msgstr "<filename>%1</filename> kirabika ssi linnya lya puloguramu."
 #: core/openwith.cpp:143
 #, kde-kuit-format
 msgctxt "@info"
-msgid "<filename>%1</filename> was not found; please enter a valid path to an executable program."
-msgstr "<filename>%1</filename> kibuze; wandika erinnya nga ddala lya puloguramu etandikika."
+msgid ""
+"<filename>%1</filename> was not found; please enter a valid path to an "
+"executable program."
+msgstr ""
+"<filename>%1</filename> kibuze; wandika erinnya nga ddala lya puloguramu "
+"etandikika."
 
 #: core/slavebase.cpp:853
 #, kde-format
@@ -1974,12 +2549,15 @@ msgstr "Empulizagana ey'ekika kya %1 tesobozesa okukolawo materekero."
 #: core/slavebase.cpp:879
 #, kde-format
 msgid "Changing the attributes of files is not supported with protocol %1."
-msgstr "Empulizagana ey'ekika kya %1 tesobozesa okukyusa atiributo eza ku fayiro."
+msgstr ""
+"Empulizagana ey'ekika kya %1 tesobozesa okukyusa atiributo eza ku fayiro."
 
 #: core/slavebase.cpp:881
 #, kde-format
 msgid "Changing the ownership of files is not supported with protocol %1."
-msgstr "Empulizagana ey'ekika kya %1 tesobozesa okukyusa obwa nannyini obwa ku fayiro."
+msgstr ""
+"Empulizagana ey'ekika kya %1 tesobozesa okukyusa obwa nannyini obwa ku "
+"fayiro."
 
 #: core/slavebase.cpp:883
 #, kde-format
@@ -1994,8 +2572,15 @@ msgstr "Empulizagana ey'ekika kya %1 tesobozesa ekikolwa %2."
 #: core/worker.cpp:352
 #, kde-format
 msgctxt "@info %2 is a path"
-msgid "The security of the KIO worker for protocol ’%1’, which typically asks for elevated permissions, can not be guaranteed because users other than root have permission to modify it at %2."
-msgstr "Puloguramu eyeyazikibwa eya KIO ekola ku mpulizagana ey'ekika kya '%1' etera okwebwamu obuyinza obusinga ku bwa agitandika. Obumizi bwa yo tebwesigika kubanga abaatlina buyinza bwa muteesiteesi (root) bakkirizibwa okuyita mu kkubo %2 okukyusa ebiragiro ebigirimu."
+msgid ""
+"The security of the KIO worker for protocol ’%1’, which typically asks for "
+"elevated permissions, can not be guaranteed because users other than root "
+"have permission to modify it at %2."
+msgstr ""
+"Puloguramu eyeyazikibwa eya KIO ekola ku mpulizagana ey'ekika kya '%1' etera "
+"okwebwamu obuyinza obusinga ku bwa agitandika. Obumizi bwa yo tebwesigika "
+"kubanga abaatlina buyinza bwa muteesiteesi (root) bakkirizibwa okuyita mu "
+"kkubo %2 okukyusa ebiragiro ebigirimu."
 
 #: core/worker.cpp:379
 #, kde-format
@@ -2005,12 +2590,15 @@ msgstr "Ekika kya mpulizagana '%1' tekitegeerese."
 #: core/worker.cpp:390
 #, kde-format
 msgid "Can not find a KIO worker for protocol '%1'."
-msgstr "Puloguramu eyeyazikiba eya KIO ekola ku mpulizagana ey'ekika kya '%1' ebuze."
+msgstr ""
+"Puloguramu eyeyazikiba eya KIO ekola ku mpulizagana ey'ekika kya '%1' ebuze."
 
 #: core/worker.cpp:404
 #, kde-format
 msgid "Can not create a socket for launching a KIO worker for protocol '%1'."
-msgstr "Nnemedwa okukolawo soketi enaakozesebwa okutandikayo puloguramu eyeyazikibwa eya KIO ekola ku mpulizagana ey'ekika kya '%1'."
+msgstr ""
+"Nnemedwa okukolawo soketi enaakozesebwa okutandikayo puloguramu eyeyazikibwa "
+"eya KIO ekola ku mpulizagana ey'ekika kya '%1'."
 
 #: core/worker.cpp:444
 #, kde-format
@@ -2360,12 +2948,12 @@ msgctxt "%1 is the mimetype name, %2 is the extensions"
 msgid "%1 (%2)"
 msgstr "%1 (%2)"
 
-#: filewidgets/kfilefiltercombo.cpp:160
+#: filewidgets/kfilefiltercombo.cpp:162
 #, kde-format
 msgid "All Supported Files"
 msgstr "Fayiro Eza Buli Kika Ekitegeerebwa"
 
-#: filewidgets/kfilefiltercombo.cpp:170 filewidgets/kfilefiltercombo.cpp:172
+#: filewidgets/kfilefiltercombo.cpp:172 filewidgets/kfilefiltercombo.cpp:174
 #: filewidgets/kfilewidget.cpp:1902
 #, kde-format
 msgid "All Files"
@@ -2383,8 +2971,16 @@ msgstr "Kyusamu Ekisangibwa Ku Kabaawo Ka Bifo"
 
 #: filewidgets/kfileplaceeditdialog.cpp:78
 #, kde-format
-msgid "<qt>This is the text that will appear in the Places panel.<br /><br />The label should consist of one or two words that will help you remember what this entry refers to. If you do not enter a label, it will be derived from the location's URL.</qt>"
-msgstr "<qt>Ebigambo bino bye bijja okulabikira ku kabaawo ka Bifo.<br /><br />Okulamba kusaana okuba kigambo kimu - bibiri ebikujjukiza makulu g'eKisangibwa kino. Bw'oleka wereere puloguramu ejja okweyiiyiza ky'eteekawo nga erabira ku ndagiriro ya URL ey'ekifo.</qt>"
+msgid ""
+"<qt>This is the text that will appear in the Places panel.<br /><br />The "
+"label should consist of one or two words that will help you remember what "
+"this entry refers to. If you do not enter a label, it will be derived from "
+"the location's URL.</qt>"
+msgstr ""
+"<qt>Ebigambo bino bye bijja okulabikira ku kabaawo ka Bifo.<br /><br /"
+">Okulamba kusaana okuba kigambo kimu - bibiri ebikujjukiza makulu "
+"g'eKisangibwa kino. Bw'oleka wereere puloguramu ejja okweyiiyiza ky'eteekawo "
+"nga erabira ku ndagiriro ya URL ey'ekifo.</qt>"
 
 #: filewidgets/kfileplaceeditdialog.cpp:84
 #, kde-format
@@ -2398,8 +2994,17 @@ msgstr "Wandika wano okulamba okutangaaza ku kifo"
 
 #: filewidgets/kfileplaceeditdialog.cpp:91
 #, kde-format
-msgid "<qt>This is the location associated with the entry. Any valid URL may be used. For example:<br /><br />%1<br />http://www.kde.org<br />ftp://ftp.kde.org/pub/kde/stable<br /><br />By clicking on the button next to the text edit box you can browse to an appropriate URL.</qt>"
-msgstr "<qt>Kino kye kifo ekisangabwa kye kikwataganye nakyo. Osobola okuteekawo endagiriro eya URL yonna kasita eba nga nnamu. Okugeza nga:<br /><br />%1<br />http://www.kde.org<br />ftp://ftp.kde.org/pub/kde/stable<br /><br />Bw'okoona eppeesa eririraanye bokisi mw'owandikira ofuna w'osobolera okunoonyeza endagiriro eya URL gye wetaaga.</qt>"
+msgid ""
+"<qt>This is the location associated with the entry. Any valid URL may be "
+"used. For example:<br /><br />%1<br />http://www.kde.org<br />ftp://ftp.kde."
+"org/pub/kde/stable<br /><br />By clicking on the button next to the text "
+"edit box you can browse to an appropriate URL.</qt>"
+msgstr ""
+"<qt>Kino kye kifo ekisangabwa kye kikwataganye nakyo. Osobola okuteekawo "
+"endagiriro eya URL yonna kasita eba nga nnamu. Okugeza nga:<br /><br />"
+"%1<br />http://www.kde.org<br />ftp://ftp.kde.org/pub/kde/stable<br /><br /"
+">Bw'okoona eppeesa eririraanye bokisi mw'owandikira ofuna w'osobolera "
+"okunoonyeza endagiriro eya URL gye wetaaga.</qt>"
 
 #: filewidgets/kfileplaceeditdialog.cpp:98
 #, kde-format
@@ -2408,8 +3013,12 @@ msgstr "&Obusangiro:"
 
 #: filewidgets/kfileplaceeditdialog.cpp:105
 #, kde-format
-msgid "<qt>This is the icon that will appear in the Places panel.<br /><br />Click on the button to select a different icon.</qt>"
-msgstr "<qt>kano k kafaananyi akajja okulabikira ku kabaawo aka Bifo.<br /><br />Kookna ku ppeesa okufuna w'olondera akafaananyi.</qt>"
+msgid ""
+"<qt>This is the icon that will appear in the Places panel.<br /><br />Click "
+"on the button to select a different icon.</qt>"
+msgstr ""
+"<qt>kano k kafaananyi akajja okulabikira ku kabaawo aka Bifo.<br /><br /"
+">Kookna ku ppeesa okufuna w'olondera akafaananyi.</qt>"
 
 #: filewidgets/kfileplaceeditdialog.cpp:126
 #, kde-format
@@ -2423,8 +3032,14 @@ msgstr "&Kino kirabikire mu puloguramu eno mwokka (%1)"
 
 #: filewidgets/kfileplaceeditdialog.cpp:139
 #, kde-format
-msgid "<qt>Select this setting if you want this entry to show only when using the current application (%1).<br /><br />If this setting is not selected, the entry will be available in all applications.</qt>"
-msgstr "<qt>Londa kino oba oyagala ekifo kino okulagibwanga mu puloguramu gy'olimu kakano mwokka (%1).<br /><br />Bw'otakironda ekifo kino kijja okulagibwanga mu puloguramu zonna.</qt>"
+msgid ""
+"<qt>Select this setting if you want this entry to show only when using the "
+"current application (%1).<br /><br />If this setting is not selected, the "
+"entry will be available in all applications.</qt>"
+msgstr ""
+"<qt>Londa kino oba oyagala ekifo kino okulagibwanga mu puloguramu gy'olimu "
+"kakano mwokka (%1).<br /><br />Bw'otakironda ekifo kino kijja okulagibwanga "
+"mu puloguramu zonna.</qt>"
 
 #: filewidgets/kfileplacesitem.cpp:210
 #, kde-format
@@ -2621,10 +3236,18 @@ msgstr "Waliwo puloguramu ezikyakozesa fayiro eziri ku kyuma kino."
 
 #: filewidgets/kfileplacesmodel.cpp:1514
 #, kde-kuit-format
-msgid "One or more files on this device are opened in application <application>\"%2\"</application>."
-msgid_plural "One or more files on this device are opened in following applications: <application>%2</application>."
-msgstr[0] "Puloguramu <application>\"%2\"</application> erina fayiro z'ekyakozesa ku kyuma kino."
-msgstr[1] "Puloguramu zino, <application>%2</application>, zirina fayiro ze zikyakozesa ku kyuma kino."
+msgid ""
+"One or more files on this device are opened in application <application>"
+"\"%2\"</application>."
+msgid_plural ""
+"One or more files on this device are opened in following applications: "
+"<application>%2</application>."
+msgstr[0] ""
+"Puloguramu <application>\"%2\"</application> erina fayiro z'ekyakozesa ku "
+"kyuma kino."
+msgstr[1] ""
+"Puloguramu zino, <application>%2</application>, zirina fayiro ze zikyakozesa "
+"ku kyuma kino."
 
 #: filewidgets/kfileplacesmodel.cpp:1517
 #, kde-format
@@ -2636,7 +3259,9 @@ msgstr ", "
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Reformat or Edit with Partition Manager"
-msgstr "Kozesa Ekiteekateekabibondo okyusamu sisitemu eya fayiro oba okuddamu buto okugikolawo"
+msgstr ""
+"Kozesa Ekiteekateekabibondo okyusamu sisitemu eya fayiro oba okuddamu buto "
+"okugikolawo"
 
 #: filewidgets/kfileplacesview.cpp:337
 #, kde-format
@@ -2729,7 +3354,9 @@ msgstr "Bunene Bwa Bufaananayi"
 
 #: filewidgets/kfileplacesview.cpp:1383
 #, kde-format
-msgctxt "@item:inmenu Auto set icon size based on available space inthe Places side-panel"
+msgctxt ""
+"@item:inmenu Auto set icon size based on available space inthe Places side-"
+"panel"
 msgid "Auto Resize"
 msgstr "Obufaananyi Bwekyusize Obunene"
 
@@ -2779,10 +3406,18 @@ msgstr "Fayiro eziri ebunaayira tezikkiribwa"
 
 #: filewidgets/kfilewidget.cpp:796
 #, kde-format
-msgid "The selected URL uses an unsupported scheme. Please use the following scheme: %2"
-msgid_plural "The selected URL uses an unsupported scheme. Please use one of the following schemes: %2"
-msgstr[0] "Endagiriro eya URL erondedwa ya ntegeka sisitemu eno gy'etakozesa. Kozesamu entegeka eno: %2"
-msgstr[1] "Endagiriro eya URL erondedwa ya ntegeka sisitemu eno gy'etakozesa. Kozesamu emu ku ntegeka zino: %2"
+msgid ""
+"The selected URL uses an unsupported scheme. Please use the following "
+"scheme: %2"
+msgid_plural ""
+"The selected URL uses an unsupported scheme. Please use one of the following "
+"schemes: %2"
+msgstr[0] ""
+"Endagiriro eya URL erondedwa ya ntegeka sisitemu eno gy'etakozesa. Kozesamu "
+"entegeka eno: %2"
+msgstr[1] ""
+"Endagiriro eya URL erondedwa ya ntegeka sisitemu eno gy'etakozesa. Kozesamu "
+"emu ku ntegeka zino: %2"
 
 #: filewidgets/kfilewidget.cpp:802
 #, kde-format
@@ -2791,8 +3426,14 @@ msgstr "Entegeka ya ndagiriro eya URL sisitemu eno tegikozesa"
 
 #: filewidgets/kfilewidget.cpp:818
 #, kde-format
-msgid "More than one folder has been selected and this dialog does not accept folders, so it is not possible to decide which one to enter. Please select only one folder to list it."
-msgstr "Amaterekero galondewa agasukka mu limu, so nga akaboozi kano kakola ku limu. Kakati tekasobola kusalawo erinaakeberwa. Londa tterekero limu okulaba ebiririmu."
+msgid ""
+"More than one folder has been selected and this dialog does not accept "
+"folders, so it is not possible to decide which one to enter. Please select "
+"only one folder to list it."
+msgstr ""
+"Amaterekero galondewa agasukka mu limu, so nga akaboozi kano kakola ku limu. "
+"Kakati tekasobola kusalawo erinaakeberwa. Londa tterekero limu okulaba "
+"ebiririmu."
 
 #: filewidgets/kfilewidget.cpp:820
 #, kde-format
@@ -2801,8 +3442,13 @@ msgstr "Amaterekero galondewa agasukka mu limu"
 
 #: filewidgets/kfilewidget.cpp:830
 #, kde-format
-msgid "At least one folder and one file has been selected. Selected files will be ignored and the selected folder will be listed"
-msgstr "Ku birondedwa kuliko materekero ne fayiro. Ebiri mu tterekero bijja okubeeramu naye zo fayiro ezirondedwa tezigenda okulagibwa mu lukalala olukolebwawo"
+msgid ""
+"At least one folder and one file has been selected. Selected files will be "
+"ignored and the selected folder will be listed"
+msgstr ""
+"Ku birondedwa kuliko materekero ne fayiro. Ebiri mu tterekero bijja "
+"okubeeramu naye zo fayiro ezirondedwa tezigenda okulagibwa mu lukalala "
+"olukolebwawo"
 
 #: filewidgets/kfilewidget.cpp:831
 #, kde-format
@@ -2821,8 +3467,14 @@ msgstr "Sisobodde okubikkula fayiro"
 
 #: filewidgets/kfilewidget.cpp:1195
 #, kde-format
-msgid "<qt>Click this button to enter the parent folder.<br /><br />For instance, if the current location is file:/home/konqi clicking this button will take you to file:/home.</qt>"
-msgstr "<qt>Koona ku ppeesa lino okwambuka mu tterekero lino mwe liri.<br /><br />Okugeza, singa kakati obadde mu file:/home/konqi bw'okoona eppeesa lino likutwala mu file:/home.</qt>"
+msgid ""
+"<qt>Click this button to enter the parent folder.<br /><br />For instance, "
+"if the current location is file:/home/konqi clicking this button will take "
+"you to file:/home.</qt>"
+msgstr ""
+"<qt>Koona ku ppeesa lino okwambuka mu tterekero lino mwe liri.<br /><br /"
+">Okugeza, singa kakati obadde mu file:/home/konqi bw'okoona eppeesa lino "
+"likutwala mu file:/home.</qt>"
 
 #: filewidgets/kfilewidget.cpp:1199
 #, kde-format
@@ -2832,7 +3484,8 @@ msgstr "Koona ku ppeesa lino okudda emabega murundi gumu mu by'obadde okebera."
 #: filewidgets/kfilewidget.cpp:1200
 #, kde-format
 msgid "Click this button to move forward one step in the browsing history."
-msgstr "Koona ku ppeesa lino okudda mu maaso murundi gumu mu by'obadde okebera."
+msgstr ""
+"Koona ku ppeesa lino okudda mu maaso murundi gumu mu by'obadde okebera."
 
 #: filewidgets/kfilewidget.cpp:1202
 #, kde-format
@@ -2861,8 +3514,19 @@ msgstr "Ebisoboka"
 
 #: filewidgets/kfilewidget.cpp:1223
 #, kde-format
-msgid "<qt>This is the preferences menu for the file dialog. Various options can be accessed from this menu including: <ul><li>how files are sorted in the list</li><li>types of view, including icon and list</li><li>showing of hidden files</li><li>the Places panel</li><li>file previews</li><li>separating folders from files</li></ul></qt>"
-msgstr "<qt>Eno ye menyu ey'enteekateeka ez'akaboozi akakola ku fayiro. Wano w'otegekera ebisoboka ebitalibimu omuli:<ul><li>Ensengeka ya fayiro mu lukalala</li><li>engeri z'endabika, nga obufaananyi oba lukalala</li><li>endaga ya fayiro enkise</li><li>akabaawo ka Bifo</li><li>okulagako ebiri mu fayiro</li><li>butatabika fayiro n'amaterekero ku lukalala</li></ul></qt>"
+msgid ""
+"<qt>This is the preferences menu for the file dialog. Various options can be "
+"accessed from this menu including: <ul><li>how files are sorted in the list</"
+"li><li>types of view, including icon and list</li><li>showing of hidden "
+"files</li><li>the Places panel</li><li>file previews</li><li>separating "
+"folders from files</li></ul></qt>"
+msgstr ""
+"<qt>Eno ye menyu ey'enteekateeka ez'akaboozi akakola ku fayiro. Wano "
+"w'otegekera ebisoboka ebitalibimu omuli:<ul><li>Ensengeka ya fayiro mu "
+"lukalala</li><li>engeri z'endabika, nga obufaananyi oba lukalala</"
+"li><li>endaga ya fayiro enkise</li><li>akabaawo ka Bifo</li><li>okulagako "
+"ebiri mu fayiro</li><li>butatabika fayiro n'amaterekero ku lukalala</li></"
+"ul></qt>"
 
 #: filewidgets/kfilewidget.cpp:1242
 #, kde-format
@@ -2871,8 +3535,16 @@ msgstr "Bukwatakifo"
 
 #: filewidgets/kfilewidget.cpp:1246
 #, kde-format
-msgid "<qt>This button allows you to bookmark specific locations. Click on this button to open the bookmark menu where you may add, edit or select a bookmark.<br /><br />These bookmarks are specific to the file dialog, but otherwise operate like bookmarks elsewhere in KDE.</qt>"
-msgstr "<qt>Eppeesa lino likusobozsa okukolera ebifo obukwatakifo. Bw'olikoonako ofuna menyu ey'okukola, okukyusamu oba okulonda akakwatakifo.<br /><br />Obukwatakifo obwa wano bwo bwa mu kaboozi akakola ku fayiro, naye bukola nga bunnaabwo obwa mu bitundu bya KDE ebirala.</qt>"
+msgid ""
+"<qt>This button allows you to bookmark specific locations. Click on this "
+"button to open the bookmark menu where you may add, edit or select a "
+"bookmark.<br /><br />These bookmarks are specific to the file dialog, but "
+"otherwise operate like bookmarks elsewhere in KDE.</qt>"
+msgstr ""
+"<qt>Eppeesa lino likusobozsa okukolera ebifo obukwatakifo. Bw'olikoonako "
+"ofuna menyu ey'okukola, okukyusamu oba okulonda akakwatakifo.<br /><br /"
+">Obukwatakifo obwa wano bwo bwa mu kaboozi akakola ku fayiro, naye bukola "
+"nga bunnaabwo obwa mu bitundu bya KDE ebirala.</qt>"
 
 #. i18n: ectx: property (text), widget (QLabel, nameLabel)
 #: filewidgets/kfilewidget.cpp:1285 widgets/kpropertiesdesktopbase.ui:22
@@ -2882,8 +3554,16 @@ msgstr "&Linnya:"
 
 #: filewidgets/kfilewidget.cpp:1362
 #, kde-format
-msgid "<qt>While typing in the text area, you may be presented with possible matches. This feature can be controlled by clicking with the right mouse button and selecting a preferred mode from the <b>Text Completion</b> menu.</qt>"
-msgstr "<qt>Bw'owandika, oyinza okulaba nga ne puloguramu erina by'ekuteerawo olondeko okusinzira ku bye wakawandika. Bw'onyiga eppeesa erya ddyo ery'okukasongesebwa ofuna menyu eya <b>Kujjuzaamu</b>, kw'oyinza okulonda ebifuga puloguramu by'ekuteerawo.</qt>"
+msgid ""
+"<qt>While typing in the text area, you may be presented with possible "
+"matches. This feature can be controlled by clicking with the right mouse "
+"button and selecting a preferred mode from the <b>Text Completion</b> menu.</"
+"qt>"
+msgstr ""
+"<qt>Bw'owandika, oyinza okulaba nga ne puloguramu erina by'ekuteerawo "
+"olondeko okusinzira ku bye wakawandika. Bw'onyiga eppeesa erya ddyo "
+"ery'okukasongesebwa ofuna menyu eya <b>Kujjuzaamu</b>, kw'oyinza okulonda "
+"ebifuga puloguramu by'ekuteerawo.</qt>"
 
 #: filewidgets/kfilewidget.cpp:1369
 #, kde-format
@@ -2892,8 +3572,12 @@ msgstr "Lino lye erinnya fayiro ly'egenda okutumwa."
 
 #: filewidgets/kfilewidget.cpp:1372
 #, kde-format
-msgid "This is the list of files to open. More than one file can be specified by listing several files, separated by spaces."
-msgstr "Luno lwe lukalala lwa fayiro ezinaabikkulibwa. Okubikkula fayiro ezisukka mu emu wandika olukalala lw'amannya ga zo nga g'awulaŋanidwa mabanga."
+msgid ""
+"This is the list of files to open. More than one file can be specified by "
+"listing several files, separated by spaces."
+msgstr ""
+"Luno lwe lukalala lwa fayiro ezinaabikkulibwa. Okubikkula fayiro ezisukka mu "
+"emu wandika olukalala lw'amannya ga zo nga g'awulaŋanidwa mabanga."
 
 #: filewidgets/kfilewidget.cpp:1377
 #, kde-format
@@ -2909,7 +3593,8 @@ msgstr "Bifo"
 #: filewidgets/kfilewidget.cpp:1609
 #, kde-format
 msgid "The file \"%1\" already exists. Do you wish to overwrite it?"
-msgstr "Waliwo fayiro erina erinnya \"%1\". Oyagala egyibwewo waddewo eno empya?"
+msgstr ""
+"Waliwo fayiro erina erinnya \"%1\". Oyagala egyibwewo waddewo eno empya?"
 
 #: filewidgets/kfilewidget.cpp:1610
 #, kde-format
@@ -2964,8 +3649,31 @@ msgstr "akafundikira akasaana"
 
 #: filewidgets/kfilewidget.cpp:2316
 #, kde-format
-msgid "This option enables some convenient features for saving files with extensions:<br /><ol><li>Any extension specified in the <b>%1</b> text area will be updated if you change the file type to save in.<br /><br /></li><li>If no extension is specified in the <b>%2</b> text area when you click <b>Save</b>, %3 will be added to the end of the filename (if the filename does not already exist). This extension is based on the file type that you have chosen to save in.<br /><br />If you do not want KDE to supply an extension for the filename, you can either turn this option off or you can suppress it by adding a period (.) to the end of the filename (the period will be automatically removed).</li></ol>If unsure, keep this option enabled as it makes your files more manageable."
-msgstr "Wano osobola okuteekateeka eby'obufundikira obugenda ku mannya ga fayiro:<br /><ol><li>Akafundikira akalagibwa mu kitundu ekiwandikibwamu ekya <b>%1</b> kajja okukyuuka okusinzira ku kika kya fayiro ky'osazewo okukaza.<br /><br />Akafundikira bw'oba nga tokategekedde mu kitundu ekiwandikibwamu ekya <b>%2</b>, fayiro eyo bw'ebeera mpya, puloguramu ejjakuwayirako %3 ku linnya lya yo nga okoonye ku <b>Kazza</b>. Akafundikira kano puloguramu ekalonda nga egendera ku kika kya fayiro ky'okazizza.<br /><br />bw'obanga toyagala KDE ekuteekereko akafundikira ku linnya lya fayiro, ekisoboka kino oyinza okukisazamu oba erinnya okulisembyayo akatonnyeze (.) puloguramu olwo n'ewa fayiro erinnya eryo nga akatonnyeze ekagyeeko.</li></ol>Bw'obeera tewekakasa eky'okutegeka wano, ekisoboka kino kirekeewo kubanga kyanguya okulabirira fayiro zo."
+msgid ""
+"This option enables some convenient features for saving files with "
+"extensions:<br /><ol><li>Any extension specified in the <b>%1</b> text area "
+"will be updated if you change the file type to save in.<br /><br /></"
+"li><li>If no extension is specified in the <b>%2</b> text area when you "
+"click <b>Save</b>, %3 will be added to the end of the filename (if the "
+"filename does not already exist). This extension is based on the file type "
+"that you have chosen to save in.<br /><br />If you do not want KDE to supply "
+"an extension for the filename, you can either turn this option off or you "
+"can suppress it by adding a period (.) to the end of the filename (the "
+"period will be automatically removed).</li></ol>If unsure, keep this option "
+"enabled as it makes your files more manageable."
+msgstr ""
+"Wano osobola okuteekateeka eby'obufundikira obugenda ku mannya ga fayiro:"
+"<br /><ol><li>Akafundikira akalagibwa mu kitundu ekiwandikibwamu ekya <b>%1</"
+"b> kajja okukyuuka okusinzira ku kika kya fayiro ky'osazewo okukaza.<br /"
+"><br />Akafundikira bw'oba nga tokategekedde mu kitundu ekiwandikibwamu ekya "
+"<b>%2</b>, fayiro eyo bw'ebeera mpya, puloguramu ejjakuwayirako %3 ku linnya "
+"lya yo nga okoonye ku <b>Kazza</b>. Akafundikira kano puloguramu ekalonda "
+"nga egendera ku kika kya fayiro ky'okazizza.<br /><br />bw'obanga toyagala "
+"KDE ekuteekereko akafundikira ku linnya lya fayiro, ekisoboka kino oyinza "
+"okukisazamu oba erinnya okulisembyayo akatonnyeze (.) puloguramu olwo n'ewa "
+"fayiro erinnya eryo nga akatonnyeze ekagyeeko.</li></ol>Bw'obeera tewekakasa "
+"eky'okutegeka wano, ekisoboka kino kirekeewo kubanga kyanguya okulabirira "
+"fayiro zo."
 
 #: filewidgets/kfilewidget.cpp:2789
 #, kde-format
@@ -2974,7 +3682,9 @@ msgstr "Kika kya &fayiro:"
 
 #: filewidgets/kfilewidget.cpp:2790
 #, kde-format
-msgid "<qt>This is the file type selector. It is used to select the format that the file will be saved as.</qt>"
+msgid ""
+"<qt>This is the file type selector. It is used to select the format that the "
+"file will be saved as.</qt>"
 msgstr "<qt>Wano w'olondera ekika kya fayiro ekinaakazibwa.</qt>"
 
 #: filewidgets/kfilewidget.cpp:2792
@@ -2984,8 +3694,16 @@ msgstr "&Sunsuza:"
 
 #: filewidgets/kfilewidget.cpp:2794
 #, kde-format
-msgid "<qt>This is the filter to apply to the file list. File names that do not match the filter will not be shown.<p>You may select from one of the preset filters in the drop down menu, or you may enter a custom filter directly into the text area.</p><p>Wildcards such as * and ? are allowed.</p></qt>"
-msgstr "<qt>Fayiro ezitalina ekiwandikidwa wano mu mannya ga zo tezijja okulagibwa.<p>Osobola okulonda ku bisunsuzibwa ebyaategekebwa ebiri mu menyu eyeyanjuluza, oba oyinza okuwandikawo ekikyo.</p><p>Ebisunsuzibwa bi mukwasabingi nga * ne ? nabyo bikola.</p></qt>"
+msgid ""
+"<qt>This is the filter to apply to the file list. File names that do not "
+"match the filter will not be shown.<p>You may select from one of the preset "
+"filters in the drop down menu, or you may enter a custom filter directly "
+"into the text area.</p><p>Wildcards such as * and ? are allowed.</p></qt>"
+msgstr ""
+"<qt>Fayiro ezitalina ekiwandikidwa wano mu mannya ga zo tezijja okulagibwa."
+"<p>Osobola okulonda ku bisunsuzibwa ebyaategekebwa ebiri mu menyu "
+"eyeyanjuluza, oba oyinza okuwandikawo ekikyo.</p><p>Ebisunsuzibwa bi "
+"mukwasabingi nga * ne ? nabyo bikola.</p></qt>"
 
 #: filewidgets/knewfilemenu.cpp:440
 #, kde-format
@@ -3028,30 +3746,48 @@ msgstr "Fayiro ey'ekika kya %1 giwe erinnya:"
 #: filewidgets/knewfilemenu.cpp:1166
 #, kde-kuit-format
 msgctxt "@info"
-msgid "The name <filename>%1</filename> cannot be used because it is reserved for use by the operating system."
-msgstr "Erinnya <filename>%1</filename> terikkizibwa kubanga ekigambo ekyo sisitemu erina awalala w'ekikozesa."
+msgid ""
+"The name <filename>%1</filename> cannot be used because it is reserved for "
+"use by the operating system."
+msgstr ""
+"Erinnya <filename>%1</filename> terikkizibwa kubanga ekigambo ekyo sisitemu "
+"erina awalala w'ekikozesa."
 
 #: filewidgets/knewfilemenu.cpp:1174
 #, kde-kuit-format
 msgctxt "@info"
-msgid "The name <filename>%1</filename> starts with a dot, so it will be hidden by default."
-msgstr "Erinnya <filename>%1</filename> litandika n'akatonnyeze, n'olw'ekyo mu bya bulijjo ejjanga okukisibwa."
+msgid ""
+"The name <filename>%1</filename> starts with a dot, so it will be hidden by "
+"default."
+msgstr ""
+"Erinnya <filename>%1</filename> litandika n'akatonnyeze, n'olw'ekyo mu bya "
+"bulijjo ejjanga okukisibwa."
 
 #: filewidgets/knewfilemenu.cpp:1182
 #, kde-kuit-format
 msgctxt "@info"
-msgid "The name <filename>%1</filename> starts with a space, which will result in it being shown before other items when sorting alphabetically, among other potential oddities."
-msgstr "Erinnya <filename>%1</filename> litandika n'akabanga, ekijja okugireeteranga okubeera mu bisooka ku nkalala ezisengekedwa ku ngobereragana ya walifu. kiyinza n'okuleetawo ebitasuubidwa ebirala ebitali bimu."
+msgid ""
+"The name <filename>%1</filename> starts with a space, which will result in "
+"it being shown before other items when sorting alphabetically, among other "
+"potential oddities."
+msgstr ""
+"Erinnya <filename>%1</filename> litandika n'akabanga, ekijja okugireeteranga "
+"okubeera mu bisooka ku nkalala ezisengekedwa ku ngobereragana ya walifu. "
+"kiyinza n'okuleetawo ebitasuubidwa ebirala ebitali bimu."
 
 #: filewidgets/knewfilemenu.cpp:1200
 #, kde-format
 msgid "Using slashes in folder names will create sub-folders, like so:"
-msgstr "Erinnya ly'etterekero bw'oliteekamu obusazze sisitemu ekolamu materekero mu gannaago, bwekityi:"
+msgstr ""
+"Erinnya ly'etterekero bw'oliteekamu obusazze sisitemu ekolamu materekero mu "
+"gannaago, bwekityi:"
 
 #: filewidgets/knewfilemenu.cpp:1210
 #, kde-format
 msgid "Using slashes in folder names will create sub-folders."
-msgstr "Erinnya ly'etterekero bw'oliteekamu obusazze sisitemu ekolamu materekero mu gannaago."
+msgstr ""
+"Erinnya ly'etterekero bw'oliteekamu obusazze sisitemu ekolamu materekero mu "
+"gannaago."
 
 #: filewidgets/knewfilemenu.cpp:1222
 #, kde-format
@@ -3061,12 +3797,18 @@ msgstr "Obusazze tubukkirizibwa mu mannya ga fayiro n'amaterekero."
 #: filewidgets/knewfilemenu.cpp:1227
 #, kde-format
 msgid "Backslashes cannot be used in file and folder names."
-msgstr "Obusazze obwa kaddanyuma tubukkirizibwa mu mannya ga fayiro n'amaterekero."
+msgstr ""
+"Obusazze obwa kaddanyuma tubukkirizibwa mu mannya ga fayiro n'amaterekero."
 
 #: filewidgets/knewfilemenu.cpp:1237
 #, kde-format
-msgid "Starting a file or folder name with a tilde is not recommended because it may be confusing or dangerous when using the terminal to delete things."
-msgstr "Okutandika erinnya lya fayiro oba tterekero ne sedila (~) tekiwagirwa, kubanga kiyinza okubuzaabuza era kya kabenje ku mirimu egigyawo fayiro egikoledwa mu kiwandikiro."
+msgid ""
+"Starting a file or folder name with a tilde is not recommended because it "
+"may be confusing or dangerous when using the terminal to delete things."
+msgstr ""
+"Okutandika erinnya lya fayiro oba tterekero ne sedila (~) tekiwagirwa, "
+"kubanga kiyinza okubuzaabuza era kya kabenje ku mirimu egigyawo fayiro "
+"egikoledwa mu kiwandikiro."
 
 #: filewidgets/knewfilemenu.cpp:1305
 #, kde-kuit-format
@@ -3207,28 +3949,33 @@ msgstr "Koona Wano Okukyusamu Ekifo"
 msgid "You are not authorized to execute this file."
 msgstr "Obuyinza bwolina tebumala okutandika fayiro eno."
 
-#: gui/applicationlauncherjob.cpp:133 gui/commandlauncherjob.cpp:117
+#: gui/applicationlauncherjob.cpp:144 gui/commandlauncherjob.cpp:117
 #, kde-format
 msgctxt "Launching application"
 msgid "Launching %1"
 msgstr "Ntandika %1"
 
-#: gui/applicationlauncherjob.cpp:170
+#: gui/applicationlauncherjob.cpp:181
 #, kde-format
-msgid "Unable to make the service %1 executable, aborting execution.\n"
+msgid ""
+"Unable to make the service %1 executable, aborting execution.\n"
 "%2."
-msgstr "Nnemedwa okusobozesa pulguramu empeereze %1 okutandika, omulimu ngusazzamu.\n"
+msgstr ""
+"Nnemedwa okusobozesa pulguramu empeereze %1 okutandika, omulimu ngusazzamu.\n"
 "%2."
 
-#: gui/applicationlauncherjob.cpp:288 gui/openurljob.cpp:644
+#: gui/applicationlauncherjob.cpp:299 gui/openurljob.cpp:644
 #, kde-format
 msgid "You are not authorized to select an application to open this file."
 msgstr "Tokkirizibwa okulonda puloguramu ey'obikkula fayiro eno."
 
-#: gui/applicationlauncherjob.cpp:296
+#: gui/applicationlauncherjob.cpp:307
 #, kde-format
-msgid "Internal error: could not prompt the user for which application to start"
-msgstr "Puloguramu efunye kiremya: tekisobose okubuuza omukozesa puloguramu ki gy'ayagala okutandika"
+msgid ""
+"Internal error: could not prompt the user for which application to start"
+msgstr ""
+"Puloguramu efunye kiremya: tekisobose okubuuza omukozesa puloguramu ki "
+"gy'ayagala okutandika"
 
 #: gui/commandlauncherjob.cpp:107
 #, kde-format
@@ -3258,10 +4005,12 @@ msgstr "Tewali puloguramu kasitoma eya yimeero"
 
 #: gui/kprocessrunner.cpp:118
 #, kde-format
-msgid "The desktop entry file\n"
+msgid ""
+"The desktop entry file\n"
 "%1\n"
 "is not valid."
-msgstr "Fayiro ey'enyunzi y'awakolerwa\n"
+msgstr ""
+"Fayiro ey'enyunzi y'awakolerwa\n"
 "%1\n"
 "tekozeseka."
 
@@ -3288,33 +4037,46 @@ msgstr "Nnemedwa okubikkula %1"
 
 #: gui/openurljob.cpp:296
 #, kde-format
-msgid "The desktop entry file\n"
+msgid ""
+"The desktop entry file\n"
 "%1\n"
 "is of type Link but has no URL=... entry."
-msgstr "Enyunzi y'awakolerwa\n"
+msgstr ""
+"Enyunzi y'awakolerwa\n"
 "%1\n"
 "ya kika kya Link naye w'eraga URL eggukirwako wereere."
 
 #: gui/openurljob.cpp:374
 #, kde-format
-msgid "The executable file \"%1\" is located on a remote filesystem. For safety reasons it will not be started."
-msgstr "Fayiro eya puloguramu \"%1\" eri ku sisitemu eya fayiro ey'ebunaayira. Olw'ensonga za kwerinda tejja okutandikibwa."
+msgid ""
+"The executable file \"%1\" is located on a remote filesystem. For safety "
+"reasons it will not be started."
+msgstr ""
+"Fayiro eya puloguramu \"%1\" eri ku sisitemu eya fayiro ey'ebunaayira. "
+"Olw'ensonga za kwerinda tejja okutandikibwa."
 
 #: gui/openurljob.cpp:410
 #, kde-format
-msgid "For security reasons, launching executables is not allowed in this context."
-msgstr "Olw'ensonga za bya kwerinda, puloguramu tezikkiriziba okutandikibwa mu mbeera eriwo kakano."
+msgid ""
+"For security reasons, launching executables is not allowed in this context."
+msgstr ""
+"Olw'ensonga za bya kwerinda, puloguramu tezikkiriziba okutandikibwa mu "
+"mbeera eriwo kakano."
 
 #: gui/openurljob.cpp:440
 #, kde-format
-msgid "The program \"%1\" needs to have executable permission before it can be launched."
+msgid ""
+"The program \"%1\" needs to have executable permission before it can be "
+"launched."
 msgstr "Okutandika puloguramu \"%1\" kyetaagisa okukyusa ndukusa ezigiriko."
 
 #: gui/openurljob.cpp:451
 #, kde-format
-msgid "Unable to make file \"%1\" executable.\n"
+msgid ""
+"Unable to make file \"%1\" executable.\n"
 "%2."
-msgstr "Nnemedwa okusobozesa fayiro \"%1\" okutandikibwa nga puloguramu.\n"
+msgstr ""
+"Nnemedwa okusobozesa fayiro \"%1\" okutandikibwa nga puloguramu.\n"
 "%2."
 
 #: gui/openurljob.cpp:537
@@ -3324,10 +4086,14 @@ msgstr "Fayiro ey'enyunzi ey'awakolerwa %1 ebulamu omuko gwa Type=... ."
 
 #: gui/openurljob.cpp:630
 #, kde-format
-msgid "This file is incomplete and should not be opened.\n"
-"Check your open applications and the notification area for any pending tasks or downloads."
-msgstr "Fayiro eno ya kitundu era tesaanye okubikkulibwa.\n"
-"Kebera puloguramu zo ezibumbujja n'obubaka obulabikira awakolerwa okulaba oba waliwo emirimu egya ku fayiro oba okuwanula egitannaba okuggwa."
+msgid ""
+"This file is incomplete and should not be opened.\n"
+"Check your open applications and the notification area for any pending tasks "
+"or downloads."
+msgstr ""
+"Fayiro eno ya kitundu era tesaanye okubikkulibwa.\n"
+"Kebera puloguramu zo ezibumbujja n'obubaka obulabikira awakolerwa okulaba "
+"oba waliwo emirimu egya ku fayiro oba okuwanula egitannaba okuggwa."
 
 #: gui/openurljob.cpp:656
 #, kde-format
@@ -3342,8 +4108,12 @@ msgstr "Tekisobose okutandika puloguramu \"%1\"."
 #: kioexec/kioexecd.cpp:86
 #, kde-kuit-format
 msgctxt "@info"
-msgid "The file <filename>%1</filename><nl/>has been modified. Do you want to upload the changes?"
-msgstr "Fayiro <filename>%1</filename><nl/>ekyusidwamu. Enkyukakyuka ezo oyagala okuzikazza?"
+msgid ""
+"The file <filename>%1</filename><nl/>has been modified. Do you want to "
+"upload the changes?"
+msgstr ""
+"Fayiro <filename>%1</filename><nl/>ekyusidwamu. Enkyukakyuka ezo oyagala "
+"okuzikazza?"
 
 #: kioexec/kioexecd.cpp:87 kioexec/main.cpp:240 kioexec/main.cpp:250
 #, kde-format
@@ -3372,25 +4142,31 @@ msgstr "Fayiro ebuze: %1"
 
 #: kioexec/main.cpp:81
 #, kde-format
-msgid "The URL %1\n"
+msgid ""
+"The URL %1\n"
 "is malformed"
-msgstr "Empandika ya ndagiriro eya URL %1\n"
+msgstr ""
+"Empandika ya ndagiriro eya URL %1\n"
 "erimu ensobi"
 
 #: kioexec/main.cpp:83
 #, kde-format
-msgid "Remote URL %1\n"
+msgid ""
+"Remote URL %1\n"
 "not allowed with --tempfiles switch"
-msgstr "Endagiriro eya URL ey'ebunaayira %1\n"
+msgstr ""
+"Endagiriro eya URL ey'ebunaayira %1\n"
 "tekkirizibwako akawayiro aka --tempfiles"
 
 #: kioexec/main.cpp:239
 #, kde-format
-msgid "The supposedly temporary file\n"
+msgid ""
+"The supposedly temporary file\n"
 "%1\n"
 "has been modified.\n"
 "Do you still want to delete it?"
-msgstr "Fayiro etwalibwa nga ey'ekiseerabuseera\n"
+msgstr ""
+"Fayiro etwalibwa nga ey'ekiseerabuseera\n"
 "%1\n"
 "ekyusidwamu.\n"
 "Ddala oyagala okugigyawo?"
@@ -3402,11 +4178,13 @@ msgstr "Togyawo"
 
 #: kioexec/main.cpp:249
 #, kde-format
-msgid "The file\n"
+msgid ""
+"The file\n"
 "%1\n"
 "has been modified.\n"
 "Do you want to upload the changes?"
-msgstr "Fayiro\n"
+msgstr ""
+"Fayiro\n"
 "%1\n"
 "Ekyusidwamu kuno.\n"
 "Ebikyuse oyagala bikazzibwe ku koppi ey'ebunaayira?"
@@ -3419,7 +4197,10 @@ msgstr "KIOExec"
 #: kioexec/main.cpp:302
 #, kde-format
 msgid "KIO Exec - Opens remote files, watches modifications, asks for upload"
-msgstr "KIO Exec - Eno ebikkula fayiro eziri ku sisitemu ey'ebunaayira, elabiriza enkyuukakyuuka mu fayiro ekolebwako, era n'ekaza nkyukakyuka ezikoledwa mu fayiro eyo"
+msgstr ""
+"KIO Exec - Eno ebikkula fayiro eziri ku sisitemu ey'ebunaayira, elabiriza "
+"enkyuukakyuuka mu fayiro ekolebwako, era n'ekaza nkyukakyuka ezikoledwa mu "
+"fayiro eyo"
 
 #: kioexec/main.cpp:304
 #, kde-format
@@ -3454,7 +4235,9 @@ msgstr "Oswald Buddenhagen"
 #: kioexec/main.cpp:314
 #, kde-format
 msgid "Treat URLs as local files and delete them afterwards"
-msgstr "Ebirina endagiriro eza URL bikolereko mu koppi za byo eziri ku sisitemu eno. Koppi zinaagyibwangawo nga ebikoledwa bimaze okukazzibwa mu bintu byennyini"
+msgstr ""
+"Ebirina endagiriro eza URL bikolereko mu koppi za byo eziri ku sisitemu eno. "
+"Koppi zinaagyibwangawo nga ebikoledwa bimaze okukazzibwa mu bintu byennyini"
 
 #: kioexec/main.cpp:316
 #, kde-format
@@ -3469,7 +4252,9 @@ msgstr "Ekiragiro ekiba kiyisibwa"
 #: kioexec/main.cpp:318
 #, kde-format
 msgid "URL(s) or local file(s) used for 'command'"
-msgstr "Endagiriro eya (eza) URL oba fayiro eya (eza) ku sisitemu eno 'kiragiro' mwe kinaanonebwa"
+msgstr ""
+"Endagiriro eya (eza) URL oba fayiro eya (eza) ku sisitemu eno 'kiragiro' mwe "
+"kinaanonebwa"
 
 #: kioworkers/file/file.cpp:166
 #, kde-format
@@ -3478,17 +4263,21 @@ msgstr "Ntegeka olukalala olufuga abakkirizibwa okwetuusako %1"
 
 #: kioworkers/file/file.cpp:739
 #, kde-format
-msgid "Could not change permissions for\n"
+msgid ""
+"Could not change permissions for\n"
 "%1"
-msgstr "Nnemedwa okukyusa obuyinza obw'oku\n"
+msgstr ""
+"Nnemedwa okukyusa obuyinza obw'oku\n"
 "%1"
 
 #: kioworkers/file/file.cpp:749
 #, kde-format
 msgctxt "@info"
-msgid "Could not change owner and group for\n"
+msgid ""
+"Could not change owner and group for\n"
 "%1"
-msgstr "Nnemedwa okukyusa obwanannyini ne guluupu ku\n"
+msgstr ""
+"Nnemedwa okukyusa obwanannyini ne guluupu ku\n"
 "%1"
 
 #: kioworkers/file/file.cpp:855
@@ -3578,10 +4367,12 @@ msgstr "Ekikolwa Tekimanyidwa"
 
 #: kioworkers/file/file_unix.cpp:142
 #, kde-format
-msgid "Action: %1\n"
+msgid ""
+"Action: %1\n"
 "Source: %2\n"
 "%3"
-msgstr "Kikolwa: %1\n"
+msgstr ""
+"Kikolwa: %1\n"
 "Nnono: %2\n"
 "%3"
 
@@ -3627,13 +4418,15 @@ msgstr "Nsindika ebikakasizibwa"
 
 #: kioworkers/ftp/ftp.cpp:557
 #, kde-format
-msgid "Message sent:\n"
+msgid ""
+"Message sent:\n"
 "Login using username=%1 and password=[hidden]\n"
 "\n"
 "Server replied:\n"
 "%2\n"
 "\n"
-msgstr "Obubaka obusindikidwa:\n"
+msgstr ""
+"Obubaka obusindikidwa:\n"
 "Tandika olutuula mu linnya=%1 nga akasumuluzo=[kakisidwa]\n"
 "\n"
 "Kompyuta eweereza eyanukudde:\n"
@@ -3643,7 +4436,8 @@ msgstr "Obubaka obusindikidwa:\n"
 #: kioworkers/ftp/ftp.cpp:568 kioworkers/http/http.cpp:320
 #, kde-format
 msgid "You need to supply a username and a password to access this site."
-msgstr "Okukebera ekifo kino kyetaagisa oweyo erinnya ly'akawunti n'akasumuluzo."
+msgstr ""
+"Okukebera ekifo kino kyetaagisa oweyo erinnya ly'akawunti n'akasumuluzo."
 
 #: kioworkers/ftp/ftp.cpp:570 kioworkers/http/http.cpp:322
 #, kde-format
@@ -3667,15 +4461,21 @@ msgstr "Okuyingira %1 kugaanye."
 
 #: kioworkers/ftp/ftp.cpp:1036
 #, kde-format
-msgid "\n"
+msgid ""
+"\n"
 "The server said: \"%1\""
-msgstr "\n"
+msgstr ""
+"\n"
 "Kompyuta ewereza eyanukude ne: \"%1\""
 
 #: kioworkers/ftp/ftp.cpp:2492 kioworkers/http/http.cpp:370
 #, kde-format
-msgid "You need to supply a username and a password for the proxy server listed below before you are allowed to access any sites."
-msgstr "Okukebera ebifo nga oyitira mu kalaani eragidwa omala okuwayo erinnya lya akawunti n'akasumuluzo."
+msgid ""
+"You need to supply a username and a password for the proxy server listed "
+"below before you are allowed to access any sites."
+msgstr ""
+"Okukebera ebifo nga oyitira mu kalaani eragidwa omala okuwayo erinnya lya "
+"akawunti n'akasumuluzo."
 
 #: kioworkers/ftp/ftp.cpp:2496 kioworkers/http/http.cpp:374
 #, kde-format
@@ -3705,7 +4505,8 @@ msgstr "Ntegeka ekiwandiko"
 #: kioworkers/help/kio_help.cpp:213 kioworkers/help/kio_help.cpp:259
 #, kde-format
 msgid "The requested help file could not be parsed:<br />%1"
-msgstr "Tekisobose kukebera mateeka agafuga fayiro ey'obuyambi gy'oyagala:<br />%1"
+msgstr ""
+"Tekisobose kukebera mateeka agafuga fayiro ey'obuyambi gy'oyagala:<br />%1"
 
 #: kioworkers/help/kio_help.cpp:234
 #, kde-format
@@ -3729,8 +4530,11 @@ msgstr "Erinnya lya fayiro %1 limbuze mu %2."
 
 #: kioworkers/http/http.cpp:211 widgets/sslui.cpp:93
 #, kde-format
-msgid "Would you like to accept this certificate forever without being prompted?"
-msgstr "Emmatizo eno oyagala okugyesigira ddala lubeerera awatali kuddamu okugikubuuzanga?"
+msgid ""
+"Would you like to accept this certificate forever without being prompted?"
+msgstr ""
+"Emmatizo eno oyagala okugyesigira ddala lubeerera awatali kuddamu "
+"okugikubuuzanga?"
 
 #: kioworkers/http/http.cpp:214 widgets/sslui.cpp:60 widgets/sslui.cpp:96
 #: widgets/widgetsaskuseractionhandler.cpp:489
@@ -3830,8 +4634,11 @@ msgstr "Omulimu ogwa %2 guzzeemu kiremya atali mulindirire (%1)."
 #: kioworkers/http/http.cpp:1407
 #, kde-format
 msgctxt "%1: request type, %2: url"
-msgid "An error occurred while attempting to %1, %2. A summary of the reasons is below."
-msgstr "Omilimu ogwa %1 gwazzeemu kiremya, %2. Ebiddako bye bimufaako mu bufunze."
+msgid ""
+"An error occurred while attempting to %1, %2. A summary of the reasons is "
+"below."
+msgstr ""
+"Omilimu ogwa %1 gwazzeemu kiremya, %2. Ebiddako bye bimufaako mu bufunze."
 
 #: kioworkers/http/http.cpp:1425 kioworkers/http/http.cpp:1569
 #, kde-format
@@ -3841,17 +4648,23 @@ msgstr "Mu mulimu ogwa %1 waliwo ekigaanidwa okutuukibwako."
 
 #: kioworkers/http/http.cpp:1439 kioworkers/http/http.cpp:1576
 #, kde-format
-msgid "A resource cannot be created at the destination until one or more intermediate collections (folders) have been created."
-msgstr "Waliwo etterekero oba materekero agetaaga okumala kukolebwawo kiryoke kisoboke okukolawo ekifunibwa ku kigenderwa."
+msgid ""
+"A resource cannot be created at the destination until one or more "
+"intermediate collections (folders) have been created."
+msgstr ""
+"Waliwo etterekero oba materekero agetaaga okumala kukolebwawo kiryoke "
+"kisoboke okukolawo ekifunibwa ku kigenderwa."
 
 #: kioworkers/http/http.cpp:1448
 #, kde-format
-msgid "The server was unable to maintain the liveness of the\n"
+msgid ""
+"The server was unable to maintain the liveness of the\n"
 "properties listed in the propertybehavior XML element\n"
 "or you attempted to overwrite a file while requesting\n"
 "that files are not overwritten.\n"
 " %1"
-msgstr "Kalaani eremedwa okukakasa eby'obutonde ebitottoledwa mu\n"
+msgstr ""
+"Kalaani eremedwa okukakasa eby'obutonde ebitottoledwa mu\n"
 "kitundu kya XML ekya propertybehavior bikyali bituufu\n"
 "oba ogezezza okuwandika fayiro obuto ng'empya sso nga\n"
 "tekkirizibwa okuwandikibwa buto.\n"
@@ -3881,13 +4694,21 @@ msgstr "Ekikolwa kino kiremesedwa olw'ekizibu ekizze awalala."
 #: kioworkers/http/http.cpp:1478 kioworkers/http/http.cpp:1591
 #, kde-format
 msgctxt "%1: request type"
-msgid "Unable to %1 because the destination server refuses to accept the file or folder."
-msgstr "%1 tekisobose kubanga kalaani ey'okukigenderwa egaanye okukola ku fayiro oba tterekero."
+msgid ""
+"Unable to %1 because the destination server refuses to accept the file or "
+"folder."
+msgstr ""
+"%1 tekisobose kubanga kalaani ey'okukigenderwa egaanye okukola ku fayiro oba "
+"tterekero."
 
 #: kioworkers/http/http.cpp:1487 kioworkers/http/http.cpp:1600
 #, kde-format
-msgid "The destination resource does not have sufficient space to record the state of the resource after the execution of this method."
-msgstr "Ekifo mu kifunibwa eky'okukigenderwa tekimala okuterekamu ebifa ku mbeera yakyo nga omukolo guno gumalirizidwa."
+msgid ""
+"The destination resource does not have sufficient space to record the state "
+"of the resource after the execution of this method."
+msgstr ""
+"Ekifo mu kifunibwa eky'okukigenderwa tekimala okuterekamu ebifa ku mbeera "
+"yakyo nga omukolo guno gumalirizidwa."
 
 #: kioworkers/http/http.cpp:1540
 #, kde-format
@@ -3921,8 +4742,15 @@ msgstr "Empandika ey'endagiriro eya URL %1 erimu ensobi"
 
 #: kioworkers/trash/kio_trash.cpp:135
 #, kde-format
-msgid "The directory %1 does not exist anymore, so it is not possible to restore this item to its original location. You can either recreate that directory and use the restore operation again, or drag the item anywhere else to restore it."
-msgstr "Ky'oyagala tekisoboka okukikomyawo ku busangiro bwa kyo kubanga etterekero %1 mwe kyabeeranga terikyaliwo. Sooka oddeemu okukolawo etterekero eryo oba kikulule okukiteeka mu kifo ekirala w'oyagala kizzibwewo."
+msgid ""
+"The directory %1 does not exist anymore, so it is not possible to restore "
+"this item to its original location. You can either recreate that directory "
+"and use the restore operation again, or drag the item anywhere else to "
+"restore it."
+msgstr ""
+"Ky'oyagala tekisoboka okukikomyawo ku busangiro bwa kyo kubanga etterekero "
+"%1 mwe kyabeeranga terikyaliwo. Sooka oddeemu okukolawo etterekero eryo oba "
+"kikulule okukiteeka mu kifo ekirala w'oyagala kizzibwewo."
 
 #: kioworkers/trash/kio_trash.cpp:188 kioworkers/trash/kio_trash.cpp:209
 #, kde-format
@@ -3946,10 +4774,14 @@ msgstr "Puloguramu copyOrMove efunye kiremya, kino tekisaanye okutuukirira"
 
 #: kioworkers/trash/ktrash.cpp:28
 #, kde-format
-msgid "Helper program to handle the KDE trash can\n"
-"Note: to move files to the trash, do not use ktrash, but \"kioclient move 'url' trash:/\""
-msgstr "Eno puloguramu enyambi ekola ku Bisuulidwa ya KDE\n"
-"Genderera: oba oyagala okutala ebintu mu Bisuulidwa, kozesa \"kioclient move 'url' trash:/\" mu kifo kya ktrash"
+msgid ""
+"Helper program to handle the KDE trash can\n"
+"Note: to move files to the trash, do not use ktrash, but \"kioclient move "
+"'url' trash:/\""
+msgstr ""
+"Eno puloguramu enyambi ekola ku Bisuulidwa ya KDE\n"
+"Genderera: oba oyagala okutala ebintu mu Bisuulidwa, kozesa \"kioclient move "
+"'url' trash:/\" mu kifo kya ktrash"
 
 #: kioworkers/trash/ktrash.cpp:31
 #, kde-format
@@ -4092,8 +4924,13 @@ msgstr "Lakeridge Meadows"
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: widgets/checksumswidget.ui:17
 #, kde-format
-msgid "Copy and paste a checksum in the field below.<br/>A checksum is usually provided by the website you downloaded this file from."
-msgstr "Enfo kwe wawanude fayiro eno etera okuweerako fayiro endala omuli ennamba enkuumi.<br/>Bikkula fayiro eyo okwate koppi y'ennamba enkuumi ogipaatiike wano awajjuzibwa."
+msgid ""
+"Copy and paste a checksum in the field below.<br/>A checksum is usually "
+"provided by the website you downloaded this file from."
+msgstr ""
+"Enfo kwe wawanude fayiro eno etera okuweerako fayiro endala omuli ennamba "
+"enkuumi.<br/>Bikkula fayiro eyo okwate koppi y'ennamba enkuumi ogipaatiike "
+"wano awajjuzibwa."
 
 #. i18n: MD5, SHA1, SHA256 and SHA512 are hashing algorithms
 #. i18n: ectx: property (placeholderText), widget (QLineEdit, lineEdit)
@@ -4206,8 +5043,11 @@ msgstr "Jjulula Ebikyusidwa"
 
 #: widgets/fileundomanager.cpp:124
 #, kde-format
-msgid "Undoing this operation requires root privileges. Do you want to continue?"
-msgstr "Okujjulula ebiva mu mukola guno kyetaagisa buyinza bwa muteesiteesi. Oyagala okugenda mu maaso?"
+msgid ""
+"Undoing this operation requires root privileges. Do you want to continue?"
+msgstr ""
+"Okujjulula ebiva mu mukola guno kyetaagisa buyinza bwa muteesiteesi. Oyagala "
+"okugenda mu maaso?"
 
 #: widgets/fileundomanager.cpp:137
 #, kde-format
@@ -4281,11 +5121,15 @@ msgstr "&Jjulula: Okukyusa Mannya Kirindi"
 
 #: widgets/fileundomanager.cpp:728
 #, kde-format
-msgid "The file %1 was copied from %2, but since then it has apparently been modified at %3.\n"
+msgid ""
+"The file %1 was copied from %2, but since then it has apparently been "
+"modified at %3.\n"
 "Undoing the copy will delete the file, and all modifications will be lost.\n"
 "Are you sure you want to delete %4?"
-msgstr "Fayiro %1 yava mu kukoppa %2. Okuva lwe yakolebwa erabika ekyusidwamu (%3).\n"
-"Bw'ojjulula omukolo ogw'okukoppa ogwo fayiro ejja okugyibwawo, awamu n'ebigikyusidwamu.\n"
+msgstr ""
+"Fayiro %1 yava mu kukoppa %2. Okuva lwe yakolebwa erabika ekyusidwamu (%3).\n"
+"Bw'ojjulula omukolo ogw'okukoppa ogwo fayiro ejja okugyibwawo, awamu "
+"n'ebigikyusidwamu.\n"
 "Okakasa %4 oyagala okugigyawo?"
 
 #: widgets/fileundomanager.cpp:738
@@ -4296,8 +5140,13 @@ msgstr "Kukakasa Omukolo Ogw'okukola Koppi Gujjululwe"
 #: widgets/jobuidelegate.cpp:229
 #, kde-kuit-format
 msgctxt "@info"
-msgid "Do you really want to permanently delete this item?<nl/><filename>%1</filename><nl/><nl/><emphasis strong='true'>This action cannot be undone.</emphasis>"
-msgstr "Ddala oyagala fayiro eno egyibwewo obutadda?<nl/><filename>%1</filename><nl/><nl/><emphasis strong='true'>Tojja okusobola okugizza.</emphasis>"
+msgid ""
+"Do you really want to permanently delete this item?<nl/><filename>%1</"
+"filename><nl/><nl/><emphasis strong='true'>This action cannot be undone.</"
+"emphasis>"
+msgstr ""
+"Ddala oyagala fayiro eno egyibwewo obutadda?<nl/><filename>%1</filename><nl/"
+"><nl/><emphasis strong='true'>Tojja okusobola okugizza.</emphasis>"
 
 #: widgets/jobuidelegate.cpp:232 widgets/jobuidelegate.cpp:246
 #: widgets/jobuidelegate.cpp:258 widgets/widgetsaskuseractionhandler.cpp:203
@@ -4316,16 +5165,28 @@ msgstr "Gyirawo Ddala"
 #: widgets/jobuidelegate.cpp:242
 #, kde-kuit-format
 msgctxt "@info"
-msgid "Do you really want to permanently delete this item?<nl/><nl/><emphasis strong='true'>This action cannot be undone.</emphasis>"
-msgid_plural "Do you really want to permanently delete these %1 items?<nl/><nl/><emphasis strong='true'>This action cannot be undone.</emphasis>"
-msgstr[0] "Ddala oyagala fayiro eno egyibwewo obutadda?<nl/><nl/><emphasis strong='true'>Tojja okusobola okugizza.</emphasis>"
-msgstr[1] "Ddala oyagala fayiro zino %1 zigyibwewo obutadda?<nl/><nl/><emphasis strong='true'>Tojja okusobola okuzizza.</emphasis>"
+msgid ""
+"Do you really want to permanently delete this item?<nl/><nl/><emphasis "
+"strong='true'>This action cannot be undone.</emphasis>"
+msgid_plural ""
+"Do you really want to permanently delete these %1 items?<nl/><nl/><emphasis "
+"strong='true'>This action cannot be undone.</emphasis>"
+msgstr[0] ""
+"Ddala oyagala fayiro eno egyibwewo obutadda?<nl/><nl/><emphasis "
+"strong='true'>Tojja okusobola okugizza.</emphasis>"
+msgstr[1] ""
+"Ddala oyagala fayiro zino %1 zigyibwewo obutadda?<nl/><nl/><emphasis "
+"strong='true'>Tojja okusobola okuzizza.</emphasis>"
 
 #: widgets/jobuidelegate.cpp:257 widgets/widgetsaskuseractionhandler.cpp:275
 #, kde-kuit-format
 msgctxt "@info"
-msgid "Do you want to permanently delete all items from the Trash?<nl/><nl/><emphasis strong='true'>This action cannot be undone.</emphasis>"
-msgstr "Ddala oyagala ebiri mu Bisuulidwa okubigyawo obutadda?<nl/><nl/><emphasis strong='true'>Tojja okusobola okubizza.</emphasis>"
+msgid ""
+"Do you want to permanently delete all items from the Trash?<nl/><nl/"
+"><emphasis strong='true'>This action cannot be undone.</emphasis>"
+msgstr ""
+"Ddala oyagala ebiri mu Bisuulidwa okubigyawo obutadda?<nl/><nl/><emphasis "
+"strong='true'>Tojja okusobola okubizza.</emphasis>"
 
 #: widgets/jobuidelegate.cpp:259 widgets/widgetsaskuseractionhandler.cpp:277
 #, kde-format
@@ -4336,8 +5197,11 @@ msgstr "Kunkumula Ebisuulidwa"
 #: widgets/jobuidelegate.cpp:269 widgets/widgetsaskuseractionhandler.cpp:283
 #, kde-kuit-format
 msgctxt "@info"
-msgid "Do you really want to move this item to the Trash?<nl/><filename>%1</filename>"
-msgstr "Ddala oyagala fayiro eno okugtwala mu bisuulidwa?<nl/><filename>%1</filename>"
+msgid ""
+"Do you really want to move this item to the Trash?<nl/><filename>%1</"
+"filename>"
+msgstr ""
+"Ddala oyagala fayiro eno okugtwala mu bisuulidwa?<nl/><filename>%1</filename>"
 
 #: widgets/jobuidelegate.cpp:278
 #, kde-format
@@ -4402,12 +5266,14 @@ msgstr "Nannyini (Ekya bulijjo)"
 #: widgets/kacleditwidget.cpp:384
 #, kde-format
 msgid "Edit ACL Entry"
-msgstr "Kyusmu Ekisangibwa Ku Lukalala Olufuga Abakkirzibwa Okwetuusako Ekifunibwa"
+msgstr ""
+"Kyusmu Ekisangibwa Ku Lukalala Olufuga Abakkirzibwa Okwetuusako Ekifunibwa"
 
 #: widgets/kacleditwidget.cpp:387
 #, kde-format
 msgid "Entry Type"
-msgstr "Kika Ky'ekisangibwa Ku Lukalala Olufuga Abakkirzibwa Okwetuusako Ekifunibwa"
+msgstr ""
+"Kika Ky'ekisangibwa Ku Lukalala Olufuga Abakkirzibwa Okwetuusako Ekifunibwa"
 
 #: widgets/kacleditwidget.cpp:394
 #, kde-format
@@ -4724,8 +5590,12 @@ msgstr "Bikkuza"
 
 #: widgets/kopenwithdialog.cpp:562
 #, kde-format
-msgid "<qt>Select the program that should be used to open <b>%1</b>. If the program is not listed, enter the name or click the browse button.</qt>"
-msgstr "<qt>Londa puloguramu enaakozesebwa okubikkula <b>%1</b>. Bw'ekubula ku lukalala, wandikawo erinnya lya yo oba koona ku ppeesa ery'okunoonya.</qt>"
+msgid ""
+"<qt>Select the program that should be used to open <b>%1</b>. If the program "
+"is not listed, enter the name or click the browse button.</qt>"
+msgstr ""
+"<qt>Londa puloguramu enaakozesebwa okubikkula <b>%1</b>. Bw'ekubula ku "
+"lukalala, wandikawo erinnya lya yo oba koona ku ppeesa ery'okunoonya.</qt>"
 
 #: widgets/kopenwithdialog.cpp:569
 #, kde-format
@@ -4740,7 +5610,8 @@ msgstr "<qt>Londa puloguramu gy'oyagala okubikkuza fayiro <br/>%1</qt>"
 #: widgets/kopenwithdialog.cpp:592
 #, kde-format
 msgid "<qt>Select the program you want to use to open the file.</qt>"
-msgid_plural "<qt>Select the program you want to use to open the %1 files.</qt>"
+msgid_plural ""
+"<qt>Select the program you want to use to open the %1 files.</qt>"
 msgstr[0] "<qt>Londa puloguramu gy'oyagala okubikkuza fayiro eno.</qt>"
 msgstr[1] "<qt>Londa puloguramu gy'oyagala okubikkuza fayiro zino %1.</qt>"
 
@@ -4756,27 +5627,41 @@ msgstr "Londa Puloguramu enaakola ku %1"
 
 #: widgets/kopenwithdialog.cpp:614
 #, kde-format
-msgid "<qt>Select the program for the file type: <b>%1</b>. If the program is not listed, enter the name or click the browse button.</qt>"
-msgstr "<qt>Londa puloguramu enaakola ku fayiro ez'ekika kya: <b>%1</b>. Bw'ekubula ku lukalala, wandikawo erinnya lya yo oba koona ku ppeesa ery'okunoonya.</qt>"
+msgid ""
+"<qt>Select the program for the file type: <b>%1</b>. If the program is not "
+"listed, enter the name or click the browse button.</qt>"
+msgstr ""
+"<qt>Londa puloguramu enaakola ku fayiro ez'ekika kya: <b>%1</b>. Bw'ekubula "
+"ku lukalala, wandikawo erinnya lya yo oba koona ku ppeesa ery'okunoonya.</qt>"
 
 #: widgets/kopenwithdialog.cpp:630
 #, kde-format
-msgid "<qt>Select a program. If the program is not listed, enter the name or click the browse button.</qt>"
-msgstr "<qt>Londa puloguramu. Bw'ekubula ku lukalala, wandikawo erinnya lya yo oba koona ku ppeesa ery'okunoonya.</qt>"
+msgid ""
+"<qt>Select a program. If the program is not listed, enter the name or click "
+"the browse button.</qt>"
+msgstr ""
+"<qt>Londa puloguramu. Bw'ekubula ku lukalala, wandikawo erinnya lya yo oba "
+"koona ku ppeesa ery'okunoonya.</qt>"
 
 #: widgets/kopenwithdialog.cpp:676
 #, kde-format
-msgid "Type to filter the applications below, or specify the name of a command.\n"
+msgid ""
+"Type to filter the applications below, or specify the name of a command.\n"
 "Press down arrow to navigate the results."
-msgstr "Tandika okuwandika wano. By'owandika bijja okusunsula mu lukalala lwa puloguramu.\n"
+msgstr ""
+"Tandika okuwandika wano. By'owandika bijja okusunsula mu lukalala lwa "
+"puloguramu.\n"
 "Osobola okuwandikira ddala linnya lya puloguramu oba kiragiro.\n"
 "Okuwenja mu bivuddemu, koona ku kasaale akadda wansi."
 
 #: widgets/kopenwithdialog.cpp:699
 #, kde-format
-msgid "Following the command, you can have several place holders which will be replaced with the actual values when the actual program is run:\n"
+msgid ""
+"Following the command, you can have several place holders which will be "
+"replaced with the actual values when the actual program is run:\n"
 "%f - a single file name\n"
-"%F - a list of files; use for applications that can open several local files at once\n"
+"%F - a list of files; use for applications that can open several local files "
+"at once\n"
 "%u - a single URL\n"
 "%U - a list of URLs\n"
 "%d - the directory of the file to open\n"
@@ -4784,30 +5669,44 @@ msgid "Following the command, you can have several place holders which will be r
 "%i - the icon\n"
 "%m - the mini-icon\n"
 "%c - the comment"
-msgstr "Ekiragiro osobola okukiwayirako obubonero obukwatirabifo by'ebintu bye kinaakolako. Ekiragiro kiyinza okuba erinnya lya puloguramu enaatandikibwa.\n"
+msgstr ""
+"Ekiragiro osobola okukiwayirako obubonero obukwatirabifo by'ebintu bye "
+"kinaakolako. Ekiragiro kiyinza okuba erinnya lya puloguramu enaatandikibwa.\n"
 "Osobola okulonda ku buwayiro buno obuddako:\n"
-"%f - awali kano waddawo erinnya lya fayiro emu ekiragiro gye kigenda okukolako\n"
-"%F - awali kano waddawo olukalala lwa fayiro ekiragiro ze kigenda okukolerako awamu\n"
-"%u - awali kano waddawo endagiriro ey'ekika kya URL emu ekiragiro gye kigenda okukolako\n"
-"%U - awali kano waddawo olukalala lwa ndgiriro ez'ekika kya URL ekiragiro ze kigenda okukolerako awamu\n"
-"%d - awali kano waddawo erinnya ly'etterekero omuli fayiro ekiragiro gye kigenda okukolako\n"
-"%D - awali kano waddawo olukalala lw'amaterekero ekiragiro ge kigenda okweyambisa oba okukolerako awamu\n"
-"%i - awali kano waddawo erinnya ly'akafaananyi akanaalaga nti omulimu gubumbujja\n"
-"%m - awali kano waddawo erinnya ly'akafaananyi akafunze akanaalaga nti omulimu gubumbujja\n"
+"%f - awali kano waddawo erinnya lya fayiro emu ekiragiro gye kigenda "
+"okukolako\n"
+"%F - awali kano waddawo olukalala lwa fayiro ekiragiro ze kigenda "
+"okukolerako awamu\n"
+"%u - awali kano waddawo endagiriro ey'ekika kya URL emu ekiragiro gye "
+"kigenda okukolako\n"
+"%U - awali kano waddawo olukalala lwa ndgiriro ez'ekika kya URL ekiragiro ze "
+"kigenda okukolerako awamu\n"
+"%d - awali kano waddawo erinnya ly'etterekero omuli fayiro ekiragiro gye "
+"kigenda okukolako\n"
+"%D - awali kano waddawo olukalala lw'amaterekero ekiragiro ge kigenda "
+"okweyambisa oba okukolerako awamu\n"
+"%i - awali kano waddawo erinnya ly'akafaananyi akanaalaga nti omulimu "
+"gubumbujja\n"
+"%m - awali kano waddawo erinnya ly'akafaananyi akafunze akanaalaga nti "
+"omulimu gubumbujja\n"
 "%c - awali kano waddawo ebigambo ebitangaaza ku kiragiro"
 
 #: widgets/kopenwithdialog.cpp:742
 #, kde-format
-msgid "&Remember application association for all files of type\n"
+msgid ""
+"&Remember application association for all files of type\n"
 "\"%1\" (%2)"
-msgstr "&Puloguramu eno y'eba ekolanga ku fayiro ez'ekika kya\n"
+msgstr ""
+"&Puloguramu eno y'eba ekolanga ku fayiro ez'ekika kya\n"
 "\"%1\" (%2)"
 
 #: widgets/kopenwithdialog.cpp:744
 #, kde-format
-msgid "&Remember application association for all files of type\n"
+msgid ""
+"&Remember application association for all files of type\n"
 "\"%1\""
-msgstr "&Puloguramu eno y'eba ekolanga ku fayiro ez'ekika kya\n"
+msgstr ""
+"&Puloguramu eno y'eba ekolanga ku fayiro ez'ekika kya\n"
 "\"%1\""
 
 #: widgets/kopenwithdialog.cpp:754
@@ -4833,15 +5732,22 @@ msgstr "Noonya Puloguramu endala mu Discover"
 #. i18n: ectx: property (title), widget (QGroupBox, buttonGroup2)
 #: widgets/kpropertiesdesktopadvbase.ui:17
 #, kde-format
-msgctxt "@title:group Title of a group that lets the user choose options about the terminal when launching a program"
+msgctxt ""
+"@title:group Title of a group that lets the user choose options about the "
+"terminal when launching a program"
 msgid "Terminal"
 msgstr "Kiwandikiro"
 
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, terminalCheck)
 #: widgets/kpropertiesdesktopadvbase.ui:39
 #, kde-format
-msgid "Check this option if the application you want to run is a text mode application or if you want the information that is provided by the terminal emulator window."
-msgstr "Londa kino puloguramu gy'oyagala okutandika bw'eba nga ya kukolera mu kiwandikiro oba erina obubaka bw'eteeka mu kiwandikiro bw'oyagala okulaba."
+msgid ""
+"Check this option if the application you want to run is a text mode "
+"application or if you want the information that is provided by the terminal "
+"emulator window."
+msgstr ""
+"Londa kino puloguramu gy'oyagala okutandika bw'eba nga ya kukolera mu "
+"kiwandikiro oba erina obubaka bw'eteeka mu kiwandikiro bw'oyagala okulaba."
 
 #. i18n: ectx: property (text), widget (QCheckBox, terminalCheck)
 #: widgets/kpropertiesdesktopadvbase.ui:42
@@ -4858,8 +5764,14 @@ msgstr "Entegeka za ku kiwandikiro:"
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, terminalCloseCheck)
 #: widgets/kpropertiesdesktopadvbase.ui:59
 #, kde-format
-msgid "Check this option if the text mode application offers relevant information on exit. Keeping the terminal emulator open allows you to retrieve this information."
-msgstr "Londa kino puloguramu bw'ebeera nga erekawo obubaka lw'emala oba lw'ekomyezebwa. Ekiwandikiro bwe kisigalawo obeera osobola okusoma obubaka obwo."
+msgid ""
+"Check this option if the text mode application offers relevant information "
+"on exit. Keeping the terminal emulator open allows you to retrieve this "
+"information."
+msgstr ""
+"Londa kino puloguramu bw'ebeera nga erekawo obubaka lw'emala oba "
+"lw'ekomyezebwa. Ekiwandikiro bwe kisigalawo obeera osobola okusoma obubaka "
+"obwo."
 
 #. i18n: ectx: property (text), widget (QCheckBox, terminalCloseCheck)
 #: widgets/kpropertiesdesktopadvbase.ui:62
@@ -4870,15 +5782,26 @@ msgstr "Ekiwandikiro kisigalewo nga omulimu guwedde"
 #. i18n: ectx: property (title), widget (QGroupBox, buttonGroup2_2)
 #: widgets/kpropertiesdesktopadvbase.ui:75
 #, kde-format
-msgctxt "@title:group Title of a group that lets the user choose which user to use when launching a program"
+msgctxt ""
+"@title:group Title of a group that lets the user choose which user to use "
+"when launching a program"
 msgid "User"
 msgstr "Omukozesa"
 
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, suidCheck)
 #: widgets/kpropertiesdesktopadvbase.ui:81
 #, kde-format
-msgid "Check this option if you want to run this application with a different user id. Every process has a different user id associated with it. This id code determines file access and other permissions. The password of the user is required to use this option."
-msgstr "Londa kino bw'oba nga oyagala puloguramu eno ekozese ennamba ya mukozesa omulala. Buli mulimu ogubumbujjira ku kompyuta gubeerako ennamba ya mukozesa gy'ekwatagana nayo. Ennamba eno efuga omulimu bye guyinza okukola ku fayiro n'ebirala bye guyinza okukola. Kino kyetaagisa kumanya kasumuluzo ka mukozesa omulala oyo."
+msgid ""
+"Check this option if you want to run this application with a different user "
+"id. Every process has a different user id associated with it. This id code "
+"determines file access and other permissions. The password of the user is "
+"required to use this option."
+msgstr ""
+"Londa kino bw'oba nga oyagala puloguramu eno ekozese ennamba ya mukozesa "
+"omulala. Buli mulimu ogubumbujjira ku kompyuta gubeerako ennamba ya mukozesa "
+"gy'ekwatagana nayo. Ennamba eno efuga omulimu bye guyinza okukola ku fayiro "
+"n'ebirala bye guyinza okukola. Kino kyetaagisa kumanya kasumuluzo ka "
+"mukozesa omulala oyo."
 
 #. i18n: ectx: property (text), widget (QCheckBox, suidCheck)
 #: widgets/kpropertiesdesktopadvbase.ui:84
@@ -4890,7 +5813,8 @@ msgstr "Kozesa buyinza bwa akawunti endala"
 #: widgets/kpropertiesdesktopadvbase.ui:107
 #, kde-format
 msgid "Enter the user name you want to run the application as."
-msgstr "Wandika erinnya lya mukozesa nyini namba gy'oyagala puloguramu ekozese."
+msgstr ""
+"Wandika erinnya lya mukozesa nyini namba gy'oyagala puloguramu ekozese."
 
 #. i18n: ectx: property (text), widget (QLabel, suidEditLabel)
 #: widgets/kpropertiesdesktopadvbase.ui:110
@@ -4902,7 +5826,8 @@ msgstr "Linnya lya akawunti:"
 #: widgets/kpropertiesdesktopadvbase.ui:120
 #, kde-format
 msgid "Enter the user name you want to run the application as here."
-msgstr "Wandika wano erinnya lya mukozesa nyini namba gy'oyagala puloguramu ekozese."
+msgstr ""
+"Wandika wano erinnya lya mukozesa nyini namba gy'oyagala puloguramu ekozese."
 
 #. i18n: ectx: property (title), widget (QGroupBox, discreteGpuGroupBox)
 #: widgets/kpropertiesdesktopadvbase.ui:130
@@ -4914,20 +5839,29 @@ msgstr "Gwalireko ekitundu ekibazi kya gwo"
 #: widgets/kpropertiesdesktopadvbase.ui:136
 #, kde-format
 msgid "Run using dedicated graphics card"
-msgstr "Omulimu gufune ekitundu ekibazi ekyefunyirira ku birabwa ekikola ku gwo gwokka"
+msgstr ""
+"Omulimu gufune ekitundu ekibazi ekyefunyirira ku birabwa ekikola ku gwo "
+"gwokka"
 
 #. i18n: ectx: property (title), widget (QGroupBox, buttonGroup4)
 #: widgets/kpropertiesdesktopadvbase.ui:146
 #, kde-format
-msgctxt "@title:group Title of a group that lets the user choose options regarding program startup"
+msgctxt ""
+"@title:group Title of a group that lets the user choose options regarding "
+"program startup"
 msgid "Startup"
 msgstr "Entandika"
 
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, startupInfoCheck)
 #: widgets/kpropertiesdesktopadvbase.ui:152
 #, kde-format
-msgid "Check this option if you want to make clear that your application has started. This visual feedback may appear as a busy cursor or in the taskbar."
-msgstr "Bw'olonda kino, buli lw'otandika puloguramu sisitemu eteekawo akabonero akakulaga nti waliwo ekitandika. Kayinza okubeera akafaananyi ku kabaawo k'emirimu oba akasonga kukyuka mu ndabika."
+msgid ""
+"Check this option if you want to make clear that your application has "
+"started. This visual feedback may appear as a busy cursor or in the taskbar."
+msgstr ""
+"Bw'olonda kino, buli lw'otandika puloguramu sisitemu eteekawo akabonero "
+"akakulaga nti waliwo ekitandika. Kayinza okubeera akafaananyi ku kabaawo "
+"k'emirimu oba akasonga kukyuka mu ndabika."
 
 #. i18n: ectx: property (text), widget (QCheckBox, startupInfoCheck)
 #: widgets/kpropertiesdesktopadvbase.ui:155
@@ -4939,15 +5873,24 @@ msgstr "Sisitemu ekiragenga nga waliwo ekitandika"
 #. i18n: ectx: property (whatsThis), widget (QLineEdit, nameEdit)
 #: widgets/kpropertiesdesktopbase.ui:19 widgets/kpropertiesdesktopbase.ui:32
 #, kde-format
-msgid "Type the name you want to give to this application here. This application will appear under this name in the applications menu and in the panel."
-msgstr "Wandika wano erinnya ly'oyagala okuyita puloguramu eno. Ku menyu ne ku lubaawo puloguramu ejja okulagibwanga n'erinnya lino."
+msgid ""
+"Type the name you want to give to this application here. This application "
+"will appear under this name in the applications menu and in the panel."
+msgstr ""
+"Wandika wano erinnya ly'oyagala okuyita puloguramu eno. Ku menyu ne ku "
+"lubaawo puloguramu ejja okulagibwanga n'erinnya lino."
 
 #. i18n: ectx: property (whatsThis), widget (QLabel, textLabel2)
 #. i18n: ectx: property (whatsThis), widget (QLineEdit, genNameEdit)
 #: widgets/kpropertiesdesktopbase.ui:39 widgets/kpropertiesdesktopbase.ui:52
 #, kde-format
-msgid "Type the description of this application, based on its use, here. Examples: a dial up application (KPPP) would be \"Dial up tool\"."
-msgstr "Wandika wano ebitangaaza ku puloguramu eno, n'omulimu gwa yo. Byakulabirako: ebitangaaza ku puloguramu etandika empulizagana ku mutimbagano 'KPPP' biyinza okuba \"puloguramu etandika empulizagana ku mutimbagano\"."
+msgid ""
+"Type the description of this application, based on its use, here. Examples: "
+"a dial up application (KPPP) would be \"Dial up tool\"."
+msgstr ""
+"Wandika wano ebitangaaza ku puloguramu eno, n'omulimu gwa yo. Byakulabirako: "
+"ebitangaaza ku puloguramu etandika empulizagana ku mutimbagano 'KPPP' "
+"biyinza okuba \"puloguramu etandika empulizagana ku mutimbagano\"."
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel2)
 #: widgets/kpropertiesdesktopbase.ui:42
@@ -4990,7 +5933,9 @@ msgstr "Puloguramu:"
 #. i18n: ectx: property (whatsThis), widget (QPushButton, browseButton)
 #: widgets/kpropertiesdesktopbase.ui:114
 #, kde-format
-msgid "Click here to browse your file system in order to find the desired executable."
+msgid ""
+"Click here to browse your file system in order to find the desired "
+"executable."
 msgstr "Okunoonya puloguramu gy'oyagala, koona wano."
 
 #. i18n: ectx: property (text), widget (QPushButton, browseButton)
@@ -5003,9 +5948,11 @@ msgstr "&Noonya..."
 #. i18n: ectx: property (whatsThis), widget (QLineEdit, argumentsEdit)
 #: widgets/kpropertiesdesktopbase.ui:136 widgets/kpropertiesdesktopbase.ui:159
 #, no-c-format, kde-format
-msgid "Type the arguments to use when starting this application here.\n"
+msgid ""
+"Type the arguments to use when starting this application here.\n"
 "\n"
-"You can have several placeholders which will be replaced with the actual values when the actual program is run:\n"
+"You can have several placeholders which will be replaced with the actual "
+"values when the actual program is run:\n"
 "\n"
 "%f - a single filename\n"
 "%F - a list of files (for apps that can open several files at once)\n"
@@ -5014,17 +5961,27 @@ msgid "Type the arguments to use when starting this application here.\n"
 "%i - the icon of the .desktop file\n"
 "%c - the name of the .desktop file\n"
 "%k - the location of the .desktop file"
-msgstr "Wandika wano ouwayiro bw'oyagala okwongera ku kiragiro ekinaatandikanga puloguramu eno.\n"
+msgstr ""
+"Wandika wano ouwayiro bw'oyagala okwongera ku kiragiro ekinaatandikanga "
+"puloguramu eno.\n"
 "\n"
-"Ekiragiro osobola okukiwayirako obubonero obukwatirabifo by'ebintu bye kinaakolako.\n"
+"Ekiragiro osobola okukiwayirako obubonero obukwatirabifo by'ebintu bye "
+"kinaakolako.\n"
 "Osobola okulonda ku buwayiro buno obuddako:\n"
-"%f - awali kano waddawo erinnya lya fayiro emu ekiragiro gye kigenda okukolako\n"
-"%F - awali kano waddawo olukalala lwa fayiro ekiragiro ze kigenda okukolerako awamu\n"
-"%u - awali kano waddawo endagiriro ey'ekika kya URL emu ekiragiro gye kigenda okukolako\n"
-"%U - awali kano waddawo olukalala lwa ndgiriro ez'ekika kya URL ekiragiro ze kigenda okukolerako awamu\n"
-"%i - awali kano waddawo erinnya ly'akafaananyi ak'enyunzi ey'awakolerwa etandika puloguramu eno\n"
-"%c - awali kano waddawo erinnya lya fayiro ey'enyunzi ey'awakolerwa etandika puloguramu eno\n"
-"%k - awali kano waddawo obusangiro obwa fayiro ey'enyunzi ey'awakolerwa etandika puloguramu eno"
+"%f - awali kano waddawo erinnya lya fayiro emu ekiragiro gye kigenda "
+"okukolako\n"
+"%F - awali kano waddawo olukalala lwa fayiro ekiragiro ze kigenda "
+"okukolerako awamu\n"
+"%u - awali kano waddawo endagiriro ey'ekika kya URL emu ekiragiro gye "
+"kigenda okukolako\n"
+"%U - awali kano waddawo olukalala lwa ndgiriro ez'ekika kya URL ekiragiro ze "
+"kigenda okukolerako awamu\n"
+"%i - awali kano waddawo erinnya ly'akafaananyi ak'enyunzi ey'awakolerwa "
+"etandika puloguramu eno\n"
+"%c - awali kano waddawo erinnya lya fayiro ey'enyunzi ey'awakolerwa etandika "
+"puloguramu eno\n"
+"%k - awali kano waddawo obusangiro obwa fayiro ey'enyunzi ey'awakolerwa "
+"etandika puloguramu eno"
 
 #. i18n: ectx: property (text), widget (QLabel, argumentsLabel)
 #: widgets/kpropertiesdesktopbase.ui:139
@@ -5049,12 +6006,38 @@ msgstr "&Kkubo erigguka puloguramu gy'ekolera:"
 #. i18n: ectx: property (whatsThis), widget (QTreeWidget, filetypeList)
 #: widgets/kpropertiesdesktopbase.ui:193 widgets/kpropertiesdesktopbase.ui:214
 #, kde-format
-msgid "<qt><p>This list should show the types of file that your application can handle. This list is organized by <u>mimetypes</u>.</p>\n"
-"<p>MIME, Multipurpose Internet (e)Mail Extension, is a standard protocol for identifying the type of data based on filename extensions and correspondent <u>mimetypes</u>. Example: the \"bmp\" part that comes after the dot in flower.bmp indicates that it is a specific kind of image, <u>image/x-bmp</u>. To know which application should open each type of file, the system should be informed about the abilities of each application to handle these extensions and mimetypes.</p>\n"
-"<p>If you want to associate this application with one or more mimetypes that are not in this list, click on the button <b>Add</b> below. If there are one or more filetypes that this application cannot handle, you may want to remove them from the list clicking on the button <b>Remove</b> below.</p></qt>"
-msgstr "<qt><p>Olukalala luno lugenderedwa okulaga ebika bya fayiro puloguramu by'esobola okukolako. Lusengekedwa ku <u>bigambo ebiraga ebika bya data</u>.</p>\n"
-"<p>MIME, 'Multipurpose Internet (e)Mail Extension', mutindo ogufuga ensindika y'ebika bya data ('obusobozi') ebitalibimu mu yimero. Guteekateeka ebigambo ebyawule n'obufundikira ku mannya ga fayiro ebikozesebwa okulaga puloguramu <u>ebika bya data</u> bye zigenda okuweebwa. Eky'okulabirako: akafundikira \"bmp\" ku linnya lya fayiro kimuli.bmp kalaga enkongojja y'ekifaananyi ekiri mu fayiro eyo, nti ya kika kya <u>image/x-bmp</u>. Sisitemu okulonda puloguramu esobola okukola ku kika kya fayiro, yetaaga okumanyisibwa buli puloguramu bika ki ebya fayiro (data) bye zisobola. </p>\n"
-"<p>Okukwataganya puloguramu eno n'ebika bya fayiro (oba data) ebitali ku lukalala luno, koona ku ppeesa erya <b>Yongera ko</b> eriddirira wano. Bw'oba nga olukalala olulabyeko ebika bya fayiro (oba data) puloguramu eno by'etasobola, osobola okukoona eppeesa erya <b>Gyako</b> eriddirira wano n'ofuna w'obirugyirako.</p></qt>"
+msgid ""
+"<qt><p>This list should show the types of file that your application can "
+"handle. This list is organized by <u>mimetypes</u>.</p>\n"
+"<p>MIME, Multipurpose Internet (e)Mail Extension, is a standard protocol for "
+"identifying the type of data based on filename extensions and correspondent "
+"<u>mimetypes</u>. Example: the \"bmp\" part that comes after the dot in "
+"flower.bmp indicates that it is a specific kind of image, <u>image/x-bmp</"
+"u>. To know which application should open each type of file, the system "
+"should be informed about the abilities of each application to handle these "
+"extensions and mimetypes.</p>\n"
+"<p>If you want to associate this application with one or more mimetypes that "
+"are not in this list, click on the button <b>Add</b> below. If there are one "
+"or more filetypes that this application cannot handle, you may want to "
+"remove them from the list clicking on the button <b>Remove</b> below.</p></"
+"qt>"
+msgstr ""
+"<qt><p>Olukalala luno lugenderedwa okulaga ebika bya fayiro puloguramu "
+"by'esobola okukolako. Lusengekedwa ku <u>bigambo ebiraga ebika bya data</u>."
+"</p>\n"
+"<p>MIME, 'Multipurpose Internet (e)Mail Extension', mutindo ogufuga "
+"ensindika y'ebika bya data ('obusobozi') ebitalibimu mu yimero. Guteekateeka "
+"ebigambo ebyawule n'obufundikira ku mannya ga fayiro ebikozesebwa okulaga "
+"puloguramu <u>ebika bya data</u> bye zigenda okuweebwa. Eky'okulabirako: "
+"akafundikira \"bmp\" ku linnya lya fayiro kimuli.bmp kalaga enkongojja "
+"y'ekifaananyi ekiri mu fayiro eyo, nti ya kika kya <u>image/x-bmp</u>. "
+"Sisitemu okulonda puloguramu esobola okukola ku kika kya fayiro, yetaaga "
+"okumanyisibwa buli puloguramu bika ki ebya fayiro (data) bye zisobola. </p>\n"
+"<p>Okukwataganya puloguramu eno n'ebika bya fayiro (oba data) ebitali ku "
+"lukalala luno, koona ku ppeesa erya <b>Yongera ko</b> eriddirira wano. "
+"Bw'oba nga olukalala olulabyeko ebika bya fayiro (oba data) puloguramu eno "
+"by'etasobola, osobola okukoona eppeesa erya <b>Gyako</b> eriddirira wano "
+"n'ofuna w'obirugyirako.</p></qt>"
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel7)
 #: widgets/kpropertiesdesktopbase.ui:196
@@ -5077,8 +6060,12 @@ msgstr "Okunnyonyola"
 #. i18n: ectx: property (whatsThis), widget (QPushButton, addFiletypeButton)
 #: widgets/kpropertiesdesktopbase.ui:242
 #, kde-format
-msgid "Click on this button if you want to add a type of file (mimetype) that your application can handle."
-msgstr "Koona ku ppeesa lino okwongera ku bika bya fayiro (oba data) puloguramu eno by'esobola."
+msgid ""
+"Click on this button if you want to add a type of file (mimetype) that your "
+"application can handle."
+msgstr ""
+"Koona ku ppeesa lino okwongera ku bika bya fayiro (oba data) puloguramu eno "
+"by'esobola."
 
 #. i18n: ectx: property (text), widget (QPushButton, addFiletypeButton)
 #: widgets/kpropertiesdesktopbase.ui:245
@@ -5089,8 +6076,12 @@ msgstr "Yongera ko..."
 #. i18n: ectx: property (whatsThis), widget (QPushButton, delFiletypeButton)
 #: widgets/kpropertiesdesktopbase.ui:252
 #, kde-format
-msgid "If you want to remove a type of file (mimetype) that your application cannot handle, select the mimetype in the list above and click on this button."
-msgstr "Olukalala okulugyako ebika bya fayiro (oba data) puloguramu eno by'etasobola, bironde oryoke okoone ku ppeesa lino ."
+msgid ""
+"If you want to remove a type of file (mimetype) that your application cannot "
+"handle, select the mimetype in the list above and click on this button."
+msgstr ""
+"Olukalala okulugyako ebika bya fayiro (oba data) puloguramu eno "
+"by'etasobola, bironde oryoke okoone ku ppeesa lino ."
 
 #. i18n: ectx: property (text), widget (QPushButton, delFiletypeButton)
 #: widgets/kpropertiesdesktopbase.ui:255
@@ -5101,8 +6092,13 @@ msgstr "Gyawo"
 #. i18n: ectx: property (whatsThis), widget (QPushButton, advancedButton)
 #: widgets/kpropertiesdesktopbase.ui:278
 #, kde-format
-msgid "Click here to modify the way this application will run, launch feedback, D-Bus options or to run it as a different user."
-msgstr "Koona wano okutandikira puloguramu eno mu akawunti endala, oba okukyusa engeri gy'etandikamu, engeri gy'eraga nti etandika, oba engeri gy'ekolagana ne D-Bus."
+msgid ""
+"Click here to modify the way this application will run, launch feedback, D-"
+"Bus options or to run it as a different user."
+msgstr ""
+"Koona wano okutandikira puloguramu eno mu akawunti endala, oba okukyusa "
+"engeri gy'etandikamu, engeri gy'eraga nti etandika, oba engeri gy'ekolagana "
+"ne D-Bus."
 
 #. i18n: ectx: property (text), widget (QPushButton, advancedButton)
 #: widgets/kpropertiesdesktopbase.ui:281
@@ -5133,8 +6129,12 @@ msgstr "Awakkirizibwa bonna"
 #: widgets/kpropertiesdialogbuiltin_p.cpp:110
 #, kde-kuit-format
 msgctxt "@info"
-msgid "Could not save properties due to insufficient write access to:<nl/><filename>%1</filename>."
-msgstr "Nnemedwa okukazza eby'obutonde kubanga endukusa za kwo tezikkiriza okuwandika mu:<nl/><filename>%1</filename>."
+msgid ""
+"Could not save properties due to insufficient write access to:<nl/><filename>"
+"%1</filename>."
+msgstr ""
+"Nnemedwa okukazza eby'obutonde kubanga endukusa za kwo tezikkiriza "
+"okuwandika mu:<nl/><filename>%1</filename>."
 
 #: widgets/kpropertiesdialogbuiltin_p.cpp:221
 #, kde-format
@@ -5167,9 +6167,11 @@ msgstr "Obunene tebutegeerese"
 
 #: widgets/kpropertiesdialogbuiltin_p.cpp:679
 #, kde-format
-msgid "Calculating... %1 (%2)\n"
+msgid ""
+"Calculating... %1 (%2)\n"
 "%3, %4"
-msgstr "Mbala... %1 (%2)\n"
+msgstr ""
+"Mbala... %1 (%2)\n"
 "%3, %4"
 
 #: widgets/kpropertiesdialogbuiltin_p.cpp:682
@@ -5305,13 +6307,18 @@ msgstr "&Balala:"
 
 #: widgets/kpropertiesdialogbuiltin_p.cpp:1205
 #, kde-format
-msgid "Specifies the actions that all users, who are neither owner nor in the group, are allowed to do."
-msgstr "Bino bitegeka abalala bonna, abatali banyini yo era nga ssi bamemba ba guluupu, bye basobola okukola."
+msgid ""
+"Specifies the actions that all users, who are neither owner nor in the "
+"group, are allowed to do."
+msgstr ""
+"Bino bitegeka abalala bonna, abatali banyini yo era nga ssi bamemba ba "
+"guluupu, bye basobola okukola."
 
 #: widgets/kpropertiesdialogbuiltin_p.cpp:1209
 #, kde-format
 msgid "Only own&er can delete or rename contents"
-msgstr "Nyini tt&erekero yekka y'asobola okukyusa mannya g'ebiririmu n'okubigyawo"
+msgstr ""
+"Nyini tt&erekero yekka y'asobola okukyusa mannya g'ebiririmu n'okubigyawo"
 
 #: widgets/kpropertiesdialogbuiltin_p.cpp:1209
 #, kde-format
@@ -5330,13 +6337,25 @@ msgstr "Tandika:"
 
 #: widgets/kpropertiesdialogbuiltin_p.cpp:1212
 #, kde-format
-msgid "Enable this option to allow only the folder's owner to delete or rename the contained files and folders. Other users can only add new files, which requires the 'Modify Content' permission."
-msgstr "Bw'olonda kino nanyini tterekero yekka y'anaasobolanga okukyusa mannya g'ebiririmu n'okubigyawo. Abalala basobola okwongeramu bwongezi fayiro empya, kasita olukusa olukkiriza ekyo luba lutegekedwa."
+msgid ""
+"Enable this option to allow only the folder's owner to delete or rename the "
+"contained files and folders. Other users can only add new files, which "
+"requires the 'Modify Content' permission."
+msgstr ""
+"Bw'olonda kino nanyini tterekero yekka y'anaasobolanga okukyusa mannya "
+"g'ebiririmu n'okubigyawo. Abalala basobola okwongeramu bwongezi fayiro "
+"empya, kasita olukusa olukkiriza ekyo luba lutegekedwa."
 
 #: widgets/kpropertiesdialogbuiltin_p.cpp:1216
 #, kde-format
-msgid "Enable this option to mark the file as executable. This only makes sense for programs and scripts. It is required when you want to execute them."
-msgstr "Bw'olonda kino fayiro eno ejjakulambibwa nti puloguramu. Puloguramu entegeke oba fayiro y'ebiragiro bya kompyuta tekola okugyako nga olonze kino. Ebigirimu bwe bitaba puloguramu entegeke oba biragiro bya kompyuta tekigasa okukironda."
+msgid ""
+"Enable this option to mark the file as executable. This only makes sense for "
+"programs and scripts. It is required when you want to execute them."
+msgstr ""
+"Bw'olonda kino fayiro eno ejjakulambibwa nti puloguramu. Puloguramu entegeke "
+"oba fayiro y'ebiragiro bya kompyuta tekola okugyako nga olonze kino. "
+"Ebigirimu bwe bitaba puloguramu entegeke oba biragiro bya kompyuta tekigasa "
+"okukironda."
 
 #: widgets/kpropertiesdialogbuiltin_p.cpp:1220
 #, kde-format
@@ -5375,9 +6394,11 @@ msgstr "Kiti"
 
 #: widgets/kpropertiesdialogbuiltin_p.cpp:1377
 #, kde-format
-msgid "Show\n"
+msgid ""
+"Show\n"
 "Entries"
-msgstr "Laga\n"
+msgstr ""
+"Laga\n"
 "Ebirimu"
 
 #: widgets/kpropertiesdialogbuiltin_p.cpp:1378
@@ -5397,15 +6418,23 @@ msgstr "Akatuuti kano kakkiriza ebiri mu fayiro okulabibwa."
 
 #: widgets/kpropertiesdialogbuiltin_p.cpp:1387
 #, kde-format
-msgid "Write\n"
+msgid ""
+"Write\n"
 "Entries"
-msgstr "Kyusamu\n"
+msgstr ""
+"Kyusamu\n"
 "Ebirimu"
 
 #: widgets/kpropertiesdialogbuiltin_p.cpp:1389
 #, kde-format
-msgid "This flag allows adding, renaming and deleting of files. Note that deleting and renaming can be limited using the Sticky flag."
-msgstr "Akatuuti kano kakkiriza fayiro eziri mu tterekero okukyusibwa mannya n'okugyibwawo era kalikkiriza okwongerwamu fayiro empya. Etterekero osobola okulitegekako olukusa lwa bwa nannyini okugaana abatali bannyi lyo okugyawo oba okukyusa mannya ga fayiro eziririmu ezaateekebwawo balala."
+msgid ""
+"This flag allows adding, renaming and deleting of files. Note that deleting "
+"and renaming can be limited using the Sticky flag."
+msgstr ""
+"Akatuuti kano kakkiriza fayiro eziri mu tterekero okukyusibwa mannya "
+"n'okugyibwawo era kalikkiriza okwongerwamu fayiro empya. Etterekero osobola "
+"okulitegekako olukusa lwa bwa nannyini okugaana abatali bannyi lyo okugyawo "
+"oba okukyusa mannya ga fayiro eziririmu ezaateekebwawo balala."
 
 #: widgets/kpropertiesdialogbuiltin_p.cpp:1392
 #, kde-format
@@ -5436,7 +6465,9 @@ msgstr "Tandika"
 #: widgets/kpropertiesdialogbuiltin_p.cpp:1403
 #, kde-format
 msgid "Enable this flag to allow executing the file as a program."
-msgstr "Akatuuti kano kakkiriza puloguramu entegeke oba ebiragiro bya kompyuta ebiri mu fayiro eno okutandikibwa."
+msgstr ""
+"Akatuuti kano kakkiriza puloguramu entegeke oba ebiragiro bya kompyuta ebiri "
+"mu fayiro eno okutandikibwa."
 
 #: widgets/kpropertiesdialogbuiltin_p.cpp:1411
 #, kde-format
@@ -5445,13 +6476,21 @@ msgstr "Ndukusa Ez'enjawulo"
 
 #: widgets/kpropertiesdialogbuiltin_p.cpp:1416
 #, kde-format
-msgid "Special flag. Valid for the whole folder, the exact meaning of the flag can be seen in the right hand column."
-msgstr "Kabonero akawa ndukusa ez'enjawulo. Kakola ku byonna ebiri mu tterekero. Ebiwandikidwa mu lukumbo olwa ddyo bye biraga akabonero kye kaleetawo."
+msgid ""
+"Special flag. Valid for the whole folder, the exact meaning of the flag can "
+"be seen in the right hand column."
+msgstr ""
+"Kabonero akawa ndukusa ez'enjawulo. Kakola ku byonna ebiri mu tterekero. "
+"Ebiwandikidwa mu lukumbo olwa ddyo bye biraga akabonero kye kaleetawo."
 
 #: widgets/kpropertiesdialogbuiltin_p.cpp:1420
 #, kde-format
-msgid "Special flag. The exact meaning of the flag can be seen in the right hand column."
-msgstr "Kabonero akawa ndukusa ez'enjawulo. Bye kakola byennyini biragidwa mu lukumbo olw'oku ddyo."
+msgid ""
+"Special flag. The exact meaning of the flag can be seen in the right hand "
+"column."
+msgstr ""
+"Kabonero akawa ndukusa ez'enjawulo. Bye kakola byennyini biragidwa mu "
+"lukumbo olw'oku ddyo."
 
 #: widgets/kpropertiesdialogbuiltin_p.cpp:1425
 #, kde-format
@@ -5465,33 +6504,58 @@ msgstr "Guluupu"
 
 #: widgets/kpropertiesdialogbuiltin_p.cpp:1440
 #, kde-format
-msgid "If this flag is set, the owner of this folder will be the owner of all new files."
-msgstr "Bw'olonda kino, nyini tterekero lino era y'ajjakuba nyini buli fayiro empya ekolebwa wano."
+msgid ""
+"If this flag is set, the owner of this folder will be the owner of all new "
+"files."
+msgstr ""
+"Bw'olonda kino, nyini tterekero lino era y'ajjakuba nyini buli fayiro empya "
+"ekolebwa wano."
 
 #: widgets/kpropertiesdialogbuiltin_p.cpp:1444
 #, kde-format
-msgid "If this file is an executable and the flag is set, it will be executed with the permissions of the owner."
-msgstr "Akatuuti bwe kategekebwa ate nga fayiro eno puloguramu, bw'etandikibwa ejjakukozesa obuyinza bwa nyini yo."
+msgid ""
+"If this file is an executable and the flag is set, it will be executed with "
+"the permissions of the owner."
+msgstr ""
+"Akatuuti bwe kategekebwa ate nga fayiro eno puloguramu, bw'etandikibwa "
+"ejjakukozesa obuyinza bwa nyini yo."
 
 #: widgets/kpropertiesdialogbuiltin_p.cpp:1451
 #, kde-format
-msgid "If this flag is set, the group of this folder will be set for all new files."
-msgstr "Bw'olonda kino, buli fayiro empya ekolebwa wano ejjakuba ne guluupu y'emu n'etterekero lino."
+msgid ""
+"If this flag is set, the group of this folder will be set for all new files."
+msgstr ""
+"Bw'olonda kino, buli fayiro empya ekolebwa wano ejjakuba ne guluupu y'emu "
+"n'etterekero lino."
 
 #: widgets/kpropertiesdialogbuiltin_p.cpp:1455
 #, kde-format
-msgid "If this file is an executable and the flag is set, it will be executed with the permissions of the group."
-msgstr "Akatuuti bwe kategekebwa ate nga fayiro eno puloguramu, bw'etandikibwa ejjakukozesa obuyinza bwa guluupu ya yo."
+msgid ""
+"If this file is an executable and the flag is set, it will be executed with "
+"the permissions of the group."
+msgstr ""
+"Akatuuti bwe kategekebwa ate nga fayiro eno puloguramu, bw'etandikibwa "
+"ejjakukozesa obuyinza bwa guluupu ya yo."
 
 #: widgets/kpropertiesdialogbuiltin_p.cpp:1462
 #, kde-format
-msgid "If the Sticky flag is set on a folder, only the owner and root can delete or rename files. Otherwise everybody with write permissions can do this."
-msgstr "Etterekero bwe litegekebwako olukusa lwa bwa nannyini, nyini lyo yekka y'aba asobola okukyusa mannya ga fayiro eziririmu oba okuzigyawo. Bwe lutategekebwako buli alina olukusa oluliwandikamu aba asobola naye okukola ebyo."
+msgid ""
+"If the Sticky flag is set on a folder, only the owner and root can delete or "
+"rename files. Otherwise everybody with write permissions can do this."
+msgstr ""
+"Etterekero bwe litegekebwako olukusa lwa bwa nannyini, nyini lyo yekka y'aba "
+"asobola okukyusa mannya ga fayiro eziririmu oba okuzigyawo. Bwe "
+"lutategekebwako buli alina olukusa oluliwandikamu aba asobola naye okukola "
+"ebyo."
 
 #: widgets/kpropertiesdialogbuiltin_p.cpp:1467
 #, kde-format
-msgid "The Sticky flag on a file is ignored on Linux, but may be used on some systems"
-msgstr "Olukusa olw'obwa nannyini olutegekedwa ku fayirobufayiro sisitemu eza Linux ziruyisa nga olutaliwo. Sisitemu ez'ebika ebirala ezimu zo zirugenderako"
+msgid ""
+"The Sticky flag on a file is ignored on Linux, but may be used on some "
+"systems"
+msgstr ""
+"Olukusa olw'obwa nannyini olutegekedwa ku fayirobufayiro sisitemu eza Linux "
+"ziruyisa nga olutaliwo. Sisitemu ez'ebika ebirala ezimu zo zirugenderako"
 
 #: widgets/kpropertiesdialogbuiltin_p.cpp:1528
 #, kde-format
@@ -5562,7 +6626,8 @@ msgstr "Ennamba enkuumi tekozeseka."
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "The given input is not a valid MD5, SHA1 or SHA256 checksum."
-msgstr "Ekiweeredwa tekitegeerese nga ennamba ya kika kya MD5, SHA1 oba SHA256."
+msgstr ""
+"Ekiweeredwa tekitegeerese nga ennamba ya kika kya MD5, SHA1 oba SHA256."
 
 #: widgets/kpropertiesdialogbuiltin_p.cpp:2322
 #, kde-format
@@ -5577,8 +6642,14 @@ msgstr "Ennamba enkuumi ebalidwa y'esuubidwa."
 
 #: widgets/kpropertiesdialogbuiltin_p.cpp:2337
 #, kde-format
-msgid "<p>Checksums do not match.</p>This may be due to a faulty download. Try re-downloading the file.<br/>If the verification still fails, contact the source of the file."
-msgstr "<p>Ennamba enkuumi tezifaanagana.</p> Kino kyinza okuba nga kivudde ku nsoba mu kuwanula fayiro. Gezaako okuddamu fayiro okugiwanula.<br/>Ennamba bwe ziddamu butafaanagana, tuukirira abaakola fayiro."
+msgid ""
+"<p>Checksums do not match.</p>This may be due to a faulty download. Try re-"
+"downloading the file.<br/>If the verification still fails, contact the "
+"source of the file."
+msgstr ""
+"<p>Ennamba enkuumi tezifaanagana.</p> Kino kyinza okuba nga kivudde ku nsoba "
+"mu kuwanula fayiro. Gezaako okuddamu fayiro okugiwanula.<br/>Ennamba bwe "
+"ziddamu butafaanagana, tuukirira abaakola fayiro."
 
 #: widgets/kpropertiesdialogbuiltin_p.cpp:2342
 #, kde-format
@@ -5605,8 +6676,11 @@ msgstr "URL:"
 #: widgets/kpropertiesdialogbuiltin_p.cpp:2513
 #: widgets/kpropertiesdialogbuiltin_p.cpp:2784
 #, kde-format
-msgid "Could not save properties. Only entries on local file systems are supported."
-msgstr "Nnemedwa okukaza eby'obutonde. Ebiri ku sisitemu eza fayiro eziri ebunaayira tebikolebwako."
+msgid ""
+"Could not save properties. Only entries on local file systems are supported."
+msgstr ""
+"Nnemedwa okukaza eby'obutonde. Ebiri ku sisitemu eza fayiro eziri ebunaayira "
+"tebikolebwako."
 
 #: widgets/kpropertiesdialogbuiltin_p.cpp:2584
 #, kde-format
@@ -5626,7 +6700,8 @@ msgstr "Londako ekika oba bika bya fayiro ebinaateekebwako:"
 #: widgets/kpropertiesdialogbuiltin_p.cpp:2863
 #, kde-format
 msgid "Only executables on local file systems are supported."
-msgstr "Puloguramu eziri ku sisitemu eza fayiro eziri ebunaayira tezikolebwako."
+msgstr ""
+"Puloguramu eziri ku sisitemu eza fayiro eziri ebunaayira tezikolebwako."
 
 #: widgets/kpropertiesdialogbuiltin_p.cpp:2877
 #, kde-format
@@ -5657,13 +6732,18 @@ msgstr "Enkwatagana eriwo kakano ekuumibwa SSL."
 
 #: widgets/ksslinfodialog.cpp:86
 #, kde-format
-msgid "The main part of this document is secured with SSL, but some parts are not."
-msgstr "Ekitundu ekikulu eky'ekiwandiko kino kikuumibwa SSL, naye ebitundu ebirala byo ssi bwe kiri."
+msgid ""
+"The main part of this document is secured with SSL, but some parts are not."
+msgstr ""
+"Ekitundu ekikulu eky'ekiwandiko kino kikuumibwa SSL, naye ebitundu ebirala "
+"byo ssi bwe kiri."
 
 #: widgets/ksslinfodialog.cpp:93
 #, kde-format
 msgid "Some of this document is secured with SSL, but the main part is not."
-msgstr "Ekitundu by'ekiwandiko kino ebimu bikuumibwa SSL, naye ekitundu ekikulu byo ssi bwe kiri."
+msgstr ""
+"Ekitundu by'ekiwandiko kino ebimu bikuumibwa SSL, naye ekitundu ekikulu byo "
+"ssi bwe kiri."
 
 #: widgets/ksslinfodialog.cpp:97
 #, kde-format
@@ -5744,8 +6824,13 @@ msgstr "%1 (%2)"
 
 #: widgets/paste.cpp:132
 #, kde-format
-msgid "The clipboard has changed since you used 'paste': the chosen data format is no longer applicable. Please copy again what you wanted to paste."
-msgstr "Ebiri awaterekebwa ebikoppedwa bikyuse okuva lwe wasemba okukozesa 'paatiika': ekika kya data ky'oyagala tekikyalimu. Ddamu okukoppa ky'obadde oyagala okupaatiika."
+msgid ""
+"The clipboard has changed since you used 'paste': the chosen data format is "
+"no longer applicable. Please copy again what you wanted to paste."
+msgstr ""
+"Ebiri awaterekebwa ebikoppedwa bikyuse okuva lwe wasemba okukozesa "
+"'paatiika': ekika kya data ky'oyagala tekikyalimu. Ddamu okukoppa ky'obadde "
+"oyagala okupaatiika."
 
 #: widgets/paste.cpp:262
 #, kde-format
@@ -5806,15 +6891,25 @@ msgstr "&Kaliza ku Byonna"
 
 #: widgets/renamedialog.cpp:230
 #, kde-format
-msgid "When this is checked the button pressed will be applied to all subsequent folder conflicts for the remainder of the current job.\n"
-"Unless you press Skip you will still be prompted in case of a conflict with an existing file in the directory."
-msgstr "'otonyeza wano eppeesa bye litegeka bye bijja okukolebwanga buli lwe wajjangawo ebikontanagana ku materekero ku mulimu ogwa kakano.\n"
-"Buli awajjawo ebikontanagana akaboozi kajjanga okulabika nga kakusaba okusooka okukakasa ekigenda okukolebwa, okugyako nga okoonye ku 'Buuka'."
+msgid ""
+"When this is checked the button pressed will be applied to all subsequent "
+"folder conflicts for the remainder of the current job.\n"
+"Unless you press Skip you will still be prompted in case of a conflict with "
+"an existing file in the directory."
+msgstr ""
+"'otonyeza wano eppeesa bye litegeka bye bijja okukolebwanga buli lwe "
+"wajjangawo ebikontanagana ku materekero ku mulimu ogwa kakano.\n"
+"Buli awajjawo ebikontanagana akaboozi kajjanga okulabika nga kakusaba "
+"okusooka okukakasa ekigenda okukolebwa, okugyako nga okoonye ku 'Buuka'."
 
 #: widgets/renamedialog.cpp:234
 #, kde-format
-msgid "When this is checked the button pressed will be applied to all subsequent conflicts for the remainder of the current job."
-msgstr "Bw'otonyeza wano eppeesa bye litegeka bye bijja okukolebwanga buli lwe wajjangawo ebikontanagana ku materekero ku mulimu ogwa kakano."
+msgid ""
+"When this is checked the button pressed will be applied to all subsequent "
+"conflicts for the remainder of the current job."
+msgstr ""
+"Bw'otonyeza wano eppeesa bye litegeka bye bijja okukolebwanga buli lwe "
+"wajjangawo ebikontanagana ku materekero ku mulimu ogwa kakano."
 
 #: widgets/renamedialog.cpp:240
 #, kde-format
@@ -5834,7 +6929,8 @@ msgstr "&Buuka"
 #: widgets/renamedialog.cpp:249
 #, kde-format
 msgid "Do not copy or move this folder, skip to the next item instead"
-msgstr "Etterekero lino tolikolamu koppi oba tolisimbuliza, gendabugenzi ku kiddako"
+msgstr ""
+"Etterekero lino tolikolamu koppi oba tolisimbuliza, gendabugenzi ku kiddako"
 
 #: widgets/renamedialog.cpp:250
 #, kde-format
@@ -5849,10 +6945,16 @@ msgstr "&Teeka Mu"
 
 #: widgets/renamedialog.cpp:264
 #, kde-format
-msgid "Files and folders will be copied into the existing directory, alongside its existing contents.\n"
-"You will be prompted again in case of a conflict with an existing file in the directory."
-msgstr "Koppi za fayiro n'amaterekero zijja okuteekebwa mu tterekero eririwo, byeyongere ku ebyo ebisangidwa mu.\n"
-"Bwe wanaddamu okuba wo ekikoonagana ne fayiro esangidwawo mu tterekero era ojja okufuna akaboozi akakusaba okusooka kukakasa ekigenda okukolebwa."
+msgid ""
+"Files and folders will be copied into the existing directory, alongside its "
+"existing contents.\n"
+"You will be prompted again in case of a conflict with an existing file in "
+"the directory."
+msgstr ""
+"Koppi za fayiro n'amaterekero zijja okuteekebwa mu tterekero eririwo, "
+"byeyongere ku ebyo ebisangidwa mu.\n"
+"Bwe wanaddamu okuba wo ekikoonagana ne fayiro esangidwawo mu tterekero era "
+"ojja okufuna akaboozi akakusaba okusooka kukakasa ekigenda okukolebwa."
 
 #: widgets/renamedialog.cpp:269
 #, kde-format
@@ -5862,8 +6964,13 @@ msgstr "Fayir&o ezisangidwawo nga ze zisinga okuba ez'edda ziwandikenga buto"
 
 #: widgets/renamedialog.cpp:273
 #, kde-format
-msgid "Destination files which have older modification times will be overwritten by the source, skipped otherwise."
-msgstr "Buli fayiro ey'ekigenderwa nga erina amakyusa ag'edda okusinga ag'ey'ennono ejja okuwandikibwa buto nga ebiva mu ey'ennono bye biddawo. Ezisigadde zijja okubuukibwanga."
+msgid ""
+"Destination files which have older modification times will be overwritten by "
+"the source, skipped otherwise."
+msgstr ""
+"Buli fayiro ey'ekigenderwa nga erina amakyusa ag'edda okusinga ag'ey'ennono "
+"ejja okuwandikibwa buto nga ebiva mu ey'ennono bye biddawo. Ezisigadde zijja "
+"okubuukibwanga."
 
 #: widgets/renamedialog.cpp:285
 #, kde-format
@@ -5872,9 +6979,11 @@ msgstr "&Ttukiza"
 
 #: widgets/renamedialog.cpp:294
 #, kde-format
-msgid "This action would overwrite '%1' with itself.\n"
+msgid ""
+"This action would overwrite '%1' with itself.\n"
 "Please enter a new file name:"
-msgstr "Ekikolwa kino kiddamu buzzi kuwandika '%1' obuto nga terina ky'ekyuseko.\n"
+msgstr ""
+"Ekikolwa kino kiddamu buzzi kuwandika '%1' obuto nga terina ky'ekyuseko.\n"
 "Wandikawo erinnya ppya:"
 
 #: widgets/renamedialog.cpp:300
@@ -5939,8 +7048,12 @@ msgstr "Fayiro <b>z'awukana</b>."
 
 #: widgets/renamedialog.cpp:446
 #, kde-format
-msgid "The files are likely to be identical: they have the same size and their contents are the same at the beginning, middle and end."
-msgstr "Fayiro zandiba ze zimu: z'enkanankana obunene n'ebizirimu bye bimu ku ntandikwa, mu makkati ne gye zikoma."
+msgid ""
+"The files are likely to be identical: they have the same size and their "
+"contents are the same at the beginning, middle and end."
+msgstr ""
+"Fayiro zandiba ze zimu: z'enkanankana obunene n'ebizirimu bye bimu ku "
+"ntandikwa, mu makkati ne gye zikoma."
 
 #: widgets/renamedialog.cpp:465
 #, kde-format
@@ -5988,7 +7101,9 @@ msgstr "Tuuma <filename>%1</filename> erinnya:"
 
 #: widgets/renamefiledialog.cpp:87
 #, kde-format
-msgctxt "This a template for new filenames, # is replaced by a number later, must be the end character"
+msgctxt ""
+"This a template for new filenames, # is replaced by a number later, must be "
+"the end character"
 msgid "New name #"
 msgstr "Erinnya ppya #"
 
@@ -6111,45 +7226,82 @@ msgstr "Ennamba enkuumi ey'ekika kya SHA1:"
 
 #: widgets/sslui.cpp:31
 #, kde-format
-msgid "The remote host did not send any SSL certificates.\n"
+msgid ""
+"The remote host did not send any SSL certificates.\n"
 "Aborting because the identity of the host cannot be established."
-msgstr "Kalaani ey'ebunaayira teyaweerezzayo mmatizo za SSL.\n"
+msgstr ""
+"Kalaani ey'ebunaayira teyaweerezzayo mmatizo za SSL.\n"
 "Omulimu ngusazzamu kubanga sisobola kuyiga bumanye bwa kumpyuta enyunge."
 
 #: widgets/sslui.cpp:50 widgets/widgetsaskuseractionhandler.cpp:482
 #, kde-format
-msgid "The server failed the authenticity check (%1).\n"
+msgid ""
+"The server failed the authenticity check (%1).\n"
 "\n"
-msgstr "Emmatizo ya kompyuta eweereza tekakasidwa (%1).\n"
+msgstr ""
+"Emmatizo ya kompyuta eweereza tekakasidwa (%1).\n"
 "\n"
 
 #: widgets/widgetsaskuseractionhandler.cpp:234
 #, kde-kuit-format
 msgctxt "@info"
-msgid "Do you really want to permanently delete this item?<nl/><nl/><filename>%1</filename><nl/><nl/><emphasis strong='true'>This action cannot be undone.</emphasis>"
-msgstr "Okakasa kino oyagala okukigyirawo ddala?<nl/><nl/><filename>%1</filename><nl/><nl/><emphasis strong='true'>Tojjakusobola okukikomyawo.</emphasis>"
+msgid ""
+"Do you really want to permanently delete this item?<nl/><nl/><filename>%1</"
+"filename><nl/><nl/><emphasis strong='true'>This action cannot be undone.</"
+"emphasis>"
+msgstr ""
+"Okakasa kino oyagala okukigyirawo ddala?<nl/><nl/><filename>%1</filename><nl/"
+"><nl/><emphasis strong='true'>Tojjakusobola okukikomyawo.</emphasis>"
 
 #: widgets/widgetsaskuseractionhandler.cpp:240
 #, kde-kuit-format
 msgctxt "@info"
-msgid "Do you really want to permanently delete this %1 item?<nl/><nl/><emphasis strong='true'>This action cannot be undone.</emphasis>"
-msgid_plural "Do you really want to permanently delete these %1 items?<nl/><nl/><emphasis strong='true'>This action cannot be undone.</emphasis>"
-msgstr[0] "Okakasa kino ekintu %1 oyagala okukigyirawo ddala?<nl/><nl/><filename>%1</filename><nl/><nl/><emphasis strong='true'>Tojjakusobola okukikomyawo.</emphasis>"
-msgstr[1] "Okakasa bino ebintu %1 oyagala okubigyirawo ddala?<nl/><nl/><filename>%1</filename><nl/><nl/><emphasis strong='true'>Tojjakusobola okubikomyawo.</emphasis>"
+msgid ""
+"Do you really want to permanently delete this %1 item?<nl/><nl/><emphasis "
+"strong='true'>This action cannot be undone.</emphasis>"
+msgid_plural ""
+"Do you really want to permanently delete these %1 items?<nl/><nl/><emphasis "
+"strong='true'>This action cannot be undone.</emphasis>"
+msgstr[0] ""
+"Okakasa kino ekintu %1 oyagala okukigyirawo ddala?<nl/><nl/><filename>%1</"
+"filename><nl/><nl/><emphasis strong='true'>Tojjakusobola okukikomyawo.</"
+"emphasis>"
+msgstr[1] ""
+"Okakasa bino ebintu %1 oyagala okubigyirawo ddala?<nl/><nl/><filename>%1</"
+"filename><nl/><nl/><emphasis strong='true'>Tojjakusobola okubikomyawo.</"
+"emphasis>"
 
 #: widgets/widgetsaskuseractionhandler.cpp:253
 #, kde-kuit-format
 msgctxt "@info"
-msgid "Moving this item to Trash failed as it is too large. Permanently delete it instead?<nl/><nl/><filename>%1</filename><nl/><nl/><emphasis strong='true'>This action cannot be undone.</emphasis>"
-msgstr "Kino ogw'kukitwala mu Bisuulidwa gugaanye kubanga kiyitiridde obunene. Nkigyewobugya?<nl/><nl/><filename>%1</filename><nl/><nl/><emphasis strong='true'>Tojjakusobola okukikomyawo.</emphasis>"
+msgid ""
+"Moving this item to Trash failed as it is too large. Permanently delete it "
+"instead?<nl/><nl/><filename>%1</filename><nl/><nl/><emphasis "
+"strong='true'>This action cannot be undone.</emphasis>"
+msgstr ""
+"Kino ogw'kukitwala mu Bisuulidwa gugaanye kubanga kiyitiridde obunene. "
+"Nkigyewobugya?<nl/><nl/><filename>%1</filename><nl/><nl/><emphasis "
+"strong='true'>Tojjakusobola okukikomyawo.</emphasis>"
 
 #: widgets/widgetsaskuseractionhandler.cpp:260
 #, kde-kuit-format
 msgctxt "@info"
-msgid "Moving this %1 item to Trash failed as it is too large. Permanently delete it instead?<nl/><emphasis strong='true'>This action cannot be undone.</emphasis>"
-msgid_plural "Moving these %1 items to Trash failed as they are too large. Permanently delete them instead?<nl/><nl/><emphasis strong='true'>This action cannot be undone.</emphasis>"
-msgstr[0] "Ekintu kino %1 ogw'kukitwala mu Bisuulidwa gugaanye kubanga kiyitiridde obunene. Nkigyewobugya?<nl/><nl/><filename>%1</filename><nl/><nl/><emphasis strong='true'>Tojjakusobola okukikomyawo.</emphasis>"
-msgstr[1] "Ebintu bino %1 ogw'kubitwala mu Bisuulidwa gugaanye kubanga biyitiridde obunene. Mbigyewobugya?<nl/><nl/><filename>%1</filename><nl/><nl/><emphasis strong='true'>Tojjakusobola okubikomyawo.</emphasis>"
+msgid ""
+"Moving this %1 item to Trash failed as it is too large. Permanently delete "
+"it instead?<nl/><emphasis strong='true'>This action cannot be undone.</"
+"emphasis>"
+msgid_plural ""
+"Moving these %1 items to Trash failed as they are too large. Permanently "
+"delete them instead?<nl/><nl/><emphasis strong='true'>This action cannot be "
+"undone.</emphasis>"
+msgstr[0] ""
+"Ekintu kino %1 ogw'kukitwala mu Bisuulidwa gugaanye kubanga kiyitiridde "
+"obunene. Nkigyewobugya?<nl/><nl/><filename>%1</filename><nl/><nl/><emphasis "
+"strong='true'>Tojjakusobola okukikomyawo.</emphasis>"
+msgstr[1] ""
+"Ebintu bino %1 ogw'kubitwala mu Bisuulidwa gugaanye kubanga biyitiridde "
+"obunene. Mbigyewobugya?<nl/><nl/><filename>%1</filename><nl/><nl/><emphasis "
+"strong='true'>Tojjakusobola okubikomyawo.</emphasis>"
 
 #: widgets/widgetsaskuseractionhandler.cpp:288
 #, kde-kuit-format
@@ -6180,7 +7332,8 @@ msgstr "Toddamu okulaga obubaka buno"
 #: widgets/widgetsaskuseractionhandler.cpp:547
 #, kde-format
 msgid "The peer SSL certificate chain appears to be corrupt."
-msgstr "Olukolongo lw'emmatizo olwa ku kompyuta ewulizagana erabika erimu ebikyamu."
+msgstr ""
+"Olukolongo lw'emmatizo olwa ku kompyuta ewulizagana erabika erimu ebikyamu."
 
 #: widgets/widgetsaskuseractionhandler.cpp:550
 #, kde-format
@@ -6203,4 +7356,3 @@ msgstr "Kino kijja okutandika puloguramu:"
 #, kde-format
 msgid "If you do not trust this program, click Cancel"
 msgstr "Puloguramu eno bw'oba togyesiga, koona ku Sazzamu"
-

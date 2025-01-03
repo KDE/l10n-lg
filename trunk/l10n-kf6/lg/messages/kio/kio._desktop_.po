@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-12-11 00:46+0000\n"
+"POT-Creation-Date: 2024-12-19 00:46+0000\n"
 "PO-Revision-Date: 2024-12-13 16:51+0000\n"
 "Last-Translator: Kizito Birabwa <kbirabwa@yahoo.co.uk>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -106,8 +106,10 @@ msgstr "7Digital"
 
 #: src/urifilters/ikws/searchproviders/7digital.desktop:84
 msgctxt "Query"
-msgid "https://us.7digital.com/Search?search=\\\\{@}&searchtype=global&submit=Search"
-msgstr "https://us.7digital.com/Search?search=\\\\{@}&searchtype=global&submit=Search"
+msgid ""
+"https://us.7digital.com/Search?search=\\\\{@}&searchtype=global&submit=Search"
+msgstr ""
+"https://us.7digital.com/Search?search=\\\\{@}&searchtype=global&submit=Search"
 
 #: src/urifilters/ikws/searchproviders/acronym.desktop:3
 msgctxt "Name"
@@ -126,8 +128,12 @@ msgstr "Amazon"
 
 #: src/urifilters/ikws/searchproviders/amazon.desktop:83
 msgctxt "Query"
-msgid "https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias=aps&field-keywords=\\\\{@}&x=0&y=0"
-msgstr "https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias=aps&field-keywords=\\\\{@}&x=0&y=0"
+msgid ""
+"https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias=aps&field-keywords="
+"\\\\{@}&x=0&y=0"
+msgstr ""
+"https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias=aps&field-keywords="
+"\\\\{@}&x=0&y=0"
 
 #: src/urifilters/ikws/searchproviders/amazon_mp3.desktop:5
 msgctxt "Name"
@@ -136,8 +142,12 @@ msgstr "Amazon MP3"
 
 #: src/urifilters/ikws/searchproviders/amazon_mp3.desktop:84
 msgctxt "Query"
-msgid "https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias=digital-music&field-keywords=\\\\{@}&x=0&y=0"
-msgstr "https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias=digital-music&field-keywords=\\\\{@}&x=0&y=0"
+msgid ""
+"https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias=digital-music&field-"
+"keywords=\\\\{@}&x=0&y=0"
+msgstr ""
+"https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias=digital-music&field-"
+"keywords=\\\\{@}&x=0&y=0"
 
 #: src/urifilters/ikws/searchproviders/amg.desktop:4
 msgctxt "Name"
@@ -176,8 +186,12 @@ msgstr "Noonya Emiganda egya Debian Backport"
 
 #: src/urifilters/ikws/searchproviders/backports.desktop:95
 msgctxt "Query"
-msgid "https://packages.debian.org/search?suite=squeeze-backports&section=all&arch=any&searchon=names&keywords=\\\\{@}"
-msgstr "https://packages.debian.org/search?suite=squeeze-backports&section=all&arch=any&searchon=names&keywords=\\\\{@}"
+msgid ""
+"https://packages.debian.org/search?suite=squeeze-"
+"backports&section=all&arch=any&searchon=names&keywords=\\\\{@}"
+msgstr ""
+"https://packages.debian.org/search?suite=squeeze-"
+"backports&section=all&arch=any&searchon=names&keywords=\\\\{@}"
 
 #: src/urifilters/ikws/searchproviders/baidu.desktop:3
 msgctxt "Name"
@@ -196,8 +210,14 @@ msgstr "Enkuluze ya Beolingus"
 
 #: src/urifilters/ikws/searchproviders/beolingus.desktop:81
 msgctxt "Query"
-msgid "https://dict.tu-chemnitz.de/dings.cgi?lang=de&service=deen&opterrors=0&optpro=0&query=\\\\{@}&iservice=&comment=&email"
-msgstr "https://dict.tu-chemnitz.de/dings.cgi?lang=de&service=deen&opterrors=0&optpro=0&query=\\\\{@}&iservice=&comment=&email"
+msgid ""
+"https://dict.tu-chemnitz.de/dings.cgi?"
+"lang=de&service=deen&opterrors=0&optpro=0&query=\\\\{@}"
+"&iservice=&comment=&email"
+msgstr ""
+"https://dict.tu-chemnitz.de/dings.cgi?"
+"lang=de&service=deen&opterrors=0&optpro=0&query=\\\\{@}"
+"&iservice=&comment=&email"
 
 #: src/urifilters/ikws/searchproviders/bing.desktop:3
 msgctxt "Name"
@@ -214,7 +234,7 @@ msgctxt "Name"
 msgid "openSUSE Bugzilla"
 msgstr "puloguramu eza openSUSE"
 
-#: src/urifilters/ikws/searchproviders/boo.desktop:47
+#: src/urifilters/ikws/searchproviders/boo.desktop:48
 msgctxt "Query"
 msgid "https://bugzilla.opensuse.org/show_bug.cgi?id=\\\\{@}"
 msgstr "https://bugzilla.opensuse.org/show_bug.cgi?id=\\\\{@}"
@@ -246,8 +266,14 @@ msgstr "CIA World Fact Book"
 
 #: src/urifilters/ikws/searchproviders/cia.desktop:95
 msgctxt "Query"
-msgid "https://www.cia.gov/search?q=\\\\{@}&site=WORLD_FACTBOOK&btnG=Search&client=CIA&myAction=/search&proxystylesheet=CIA&submitMethod=get&oe=UTF-8&ie=UTF-8&ud=1"
-msgstr "https://www.cia.gov/search?q=\\\\{@}&site=WORLD_FACTBOOK&btnG=Search&client=CIA&myAction=/search&proxystylesheet=CIA&submitMethod=get&oe=UTF-8&ie=UTF-8&ud=1"
+msgid ""
+"https://www.cia.gov/search?q=\\\\{@}"
+"&site=WORLD_FACTBOOK&btnG=Search&client=CIA&myAction=/"
+"search&proxystylesheet=CIA&submitMethod=get&oe=UTF-8&ie=UTF-8&ud=1"
+msgstr ""
+"https://www.cia.gov/search?q=\\\\{@}"
+"&site=WORLD_FACTBOOK&btnG=Search&client=CIA&myAction=/"
+"search&proxystylesheet=CIA&submitMethod=get&oe=UTF-8&ie=UTF-8&ud=1"
 
 #: src/urifilters/ikws/searchproviders/citeseer.desktop:5
 msgctxt "Name"
@@ -256,18 +282,24 @@ msgstr "CiteSeer: Awasangibwa Biwandike Ebya Kinnasayansi"
 
 #: src/urifilters/ikws/searchproviders/citeseer.desktop:98
 msgctxt "Query"
-msgid "https://citeseer.ist.psu.edu/search?q=\\\\{@}&submit=Search&sort=rlv&t=doc"
-msgstr "https://citeseer.ist.psu.edu/search?q=\\\\{@}&submit=Search&sort=rlv&t=doc"
+msgid ""
+"https://citeseer.ist.psu.edu/search?q=\\\\{@}&submit=Search&sort=rlv&t=doc"
+msgstr ""
+"https://citeseer.ist.psu.edu/search?q=\\\\{@}&submit=Search&sort=rlv&t=doc"
 
 #: src/urifilters/ikws/searchproviders/codeberg.desktop:5
 msgctxt "Name"
 msgid "Codeberg"
 msgstr "Codeberg"
 
-#: src/urifilters/ikws/searchproviders/codeberg.desktop:47
+#: src/urifilters/ikws/searchproviders/codeberg.desktop:48
 msgctxt "Query"
-msgid "https://codeberg.org/explore/repos?sort=recentupdate&language=&q=\\\\{@}&only_show_relevant=true"
-msgstr "https://codeberg.org/explore/repos?sort=recentupdate&language=&q=\\\\{@}&only_show_relevant=true"
+msgid ""
+"https://codeberg.org/explore/repos?sort=recentupdate&language=&q=\\\\{@}"
+"&only_show_relevant=true"
+msgstr ""
+"https://codeberg.org/explore/repos?sort=recentupdate&language=&q=\\\\{@}"
+"&only_show_relevant=true"
 
 #: src/urifilters/ikws/searchproviders/cpan.desktop:3
 msgctxt "Name"
@@ -276,8 +308,10 @@ msgstr "CPAN - Awasangibwa Ebyongerwako Ebya mu Perl"
 
 #: src/urifilters/ikws/searchproviders/cpan.desktop:98
 msgctxt "Query"
-msgid "https://search.cpan.org/search?mode=\\\\{mode,2,\"\"}&query=\\\\{query,q,1}"
-msgstr "https://search.cpan.org/search?mode=\\\\{mode,2,\"\"}&query=\\\\{query,q,1}"
+msgid ""
+"https://search.cpan.org/search?mode=\\\\{mode,2,\"\"}&query=\\\\{query,q,1}"
+msgstr ""
+"https://search.cpan.org/search?mode=\\\\{mode,2,\"\"}&query=\\\\{query,q,1}"
 
 #: src/urifilters/ikws/searchproviders/cplusplus.desktop:2
 msgctxt "Name"
@@ -306,8 +340,12 @@ msgstr "CTAN Catalog"
 
 #: src/urifilters/ikws/searchproviders/ctan_cat.desktop:98
 msgctxt "Query"
-msgid "http://tug.ctan.org/cgi-bin/search.py?metadataSearch=\\\\{@}&metadataSearchSubmit=Search"
-msgstr "http://tug.ctan.org/cgi-bin/search.py?metadataSearch=\\\\{@}&metadataSearchSubmit=Search"
+msgid ""
+"http://tug.ctan.org/cgi-bin/search.py?metadataSearch=\\\\{@}"
+"&metadataSearchSubmit=Search"
+msgstr ""
+"http://tug.ctan.org/cgi-bin/search.py?metadataSearch=\\\\{@}"
+"&metadataSearchSubmit=Search"
 
 #: src/urifilters/ikws/searchproviders/ctan.desktop:3
 msgctxt "Name"
@@ -384,7 +422,8 @@ msgstr "https://www.cnrtl.fr/definition/\\\\{@}"
 #: src/urifilters/ikws/searchproviders/docbook.desktop:5
 msgctxt "Name"
 msgid "DocBook - The Definitive Guide"
-msgstr "DocBook - Ennono y'Enteekateeka y'Ebika By'ebitundu Ebikozesebwa mu Kitabo"
+msgstr ""
+"DocBook - Ennono y'Enteekateeka y'Ebika By'ebitundu Ebikozesebwa mu Kitabo"
 
 #: src/urifilters/ikws/searchproviders/docbook.desktop:100
 msgctxt "Query"
@@ -449,7 +488,8 @@ msgstr "dict.cc : Ekifo Ekikyusa Okuva mu Lungereza okudda mu Ludaaki"
 #: src/urifilters/ikws/searchproviders/en2es.desktop:5
 msgctxt "Name"
 msgid "WordReference.com Translation: English to Spanish"
-msgstr "WordReference.com: Ekifo ekikyusa okuva mu Lungereza okudda mu Lusipanya"
+msgstr ""
+"WordReference.com: Ekifo ekikyusa okuva mu Lungereza okudda mu Lusipanya"
 
 #: src/urifilters/ikws/searchproviders/en2es.desktop:98
 msgctxt "Query"
@@ -459,7 +499,8 @@ msgstr "https://www.wordreference.com/es/translation.asp?tranword=\\\\{@}"
 #: src/urifilters/ikws/searchproviders/en2fr.desktop:5
 msgctxt "Name"
 msgid "WordReference.com Translation: English to French"
-msgstr "WordReference.com: Ekifo ekikyusa okuva mu Lungereza okudda mu Lufalansa"
+msgstr ""
+"WordReference.com: Ekifo ekikyusa okuva mu Lungereza okudda mu Lufalansa"
 
 #: src/urifilters/ikws/searchproviders/en2fr.desktop:98
 msgctxt "Query"
@@ -469,7 +510,8 @@ msgstr "https://www.wordreference.com/fr/Translation.asp?enfr=\\\\{@}"
 #: src/urifilters/ikws/searchproviders/en2it.desktop:5
 msgctxt "Name"
 msgid "WordReference.com Translation: English to Italian"
-msgstr "WordReference.com: Ekifo ekikyusa okuva mu Lungereza okudda mu Luyitale"
+msgstr ""
+"WordReference.com: Ekifo ekikyusa okuva mu Lungereza okudda mu Luyitale"
 
 #: src/urifilters/ikws/searchproviders/en2it.desktop:98
 msgctxt "Query"
@@ -479,7 +521,8 @@ msgstr "https://www.wordreference.com/it/translation.asp?enit=\\\\{@}"
 #: src/urifilters/ikws/searchproviders/es2en.desktop:5
 msgctxt "Name"
 msgid "WordReference.com Translation: Spanish to English"
-msgstr "WordReference.com: Ekifo ekikyusa okuva mu Lusipanya okudda mu Lungereza"
+msgstr ""
+"WordReference.com: Ekifo ekikyusa okuva mu Lusipanya okudda mu Lungereza"
 
 #: src/urifilters/ikws/searchproviders/es2en.desktop:98
 msgctxt "Query"
@@ -503,8 +546,10 @@ msgstr "Feedster"
 
 #: src/urifilters/ikws/searchproviders/feedster.desktop:100
 msgctxt "Query"
-msgid "https://www.feedster.com/index.php?page=search/web&type=Web&search=\\\\{@}"
-msgstr "https://www.feedster.com/index.php?page=search/web&type=Web&search=\\\\{@}"
+msgid ""
+"https://www.feedster.com/index.php?page=search/web&type=Web&search=\\\\{@}"
+msgstr ""
+"https://www.feedster.com/index.php?page=search/web&type=Web&search=\\\\{@}"
 
 #: src/urifilters/ikws/searchproviders/flatpak.desktop:2
 msgctxt "Name"
@@ -513,8 +558,12 @@ msgstr "Ebiwandiko Ebikwata ku Flatpak"
 
 #: src/urifilters/ikws/searchproviders/flatpak.desktop:59
 msgctxt "Query"
-msgid "https://docs.flatpak.org/en/latest/search.html?q=\\\\{@}&check_keywords=yes&area=default"
-msgstr "https://docs.flatpak.org/en/latest/search.html?q=\\\\{@}&check_keywords=yes&area=default"
+msgid ""
+"https://docs.flatpak.org/en/latest/search.html?q=\\\\{@}"
+"&check_keywords=yes&area=default"
+msgstr ""
+"https://docs.flatpak.org/en/latest/search.html?q=\\\\{@}"
+"&check_keywords=yes&area=default"
 
 #: src/urifilters/ikws/searchproviders/flickrcc.desktop:5
 msgctxt "Name"
@@ -554,7 +603,8 @@ msgstr "LEO - Ekifo Ekikyusa okuva mu Lufalansa okudda mu Ludaaki"
 #: src/urifilters/ikws/searchproviders/fr2en.desktop:5
 msgctxt "Name"
 msgid "WordReference.com Translation: French to English"
-msgstr "WordReference.com: Ekifo ekikyusa okuva mu Lufalansa okudda mu Lungereza"
+msgstr ""
+"WordReference.com: Ekifo ekikyusa okuva mu Lufalansa okudda mu Lungereza"
 
 #: src/urifilters/ikws/searchproviders/fr2en.desktop:98
 msgctxt "Query"
@@ -618,8 +668,20 @@ msgstr "Noonyea ku Google N'obosobozi Obw'ensusso"
 
 #: src/urifilters/ikws/searchproviders/google_advanced.desktop:101
 msgctxt "Query"
-msgid "https://www.google.com/search?as_q=\\\\{all,@}&num=\\\\{num,\"10\"}&btnG=Google+Search&as_epq=\\\\{exact,\"\"}&as_oq=\\\\{any,\"\"}&as_eq=\\\\{without,\"\"}&lr=\\\\{lang,\"\"}&as_ft=\\\\{ft,\"i\"}&as_filetype=\\\\{filetype,\"\"}&as_qdr=\\\\{date,\"all\"}&as_occt=\\\\{occ,\"any\"}&as_dt=\\\\{siteop,\"i\"}&as_sitesearch=\\\\{site}&safe=\\\\{safe,\"active\"}&ie=UTF-8&oe=UTF-8"
-msgstr "https://www.google.com/search?as_q=\\\\{all,@}&num=\\\\{num,\"10\"}&btnG=Google+Search&as_epq=\\\\{exact,\"\"}&as_oq=\\\\{any,\"\"}&as_eq=\\\\{without,\"\"}&lr=\\\\{lang,\"\"}&as_ft=\\\\{ft,\"i\"}&as_filetype=\\\\{filetype,\"\"}&as_qdr=\\\\{date,\"all\"}&as_occt=\\\\{occ,\"any\"}&as_dt=\\\\{siteop,\"i\"}&as_sitesearch=\\\\{site}&safe=\\\\{safe,\"active\"}&ie=UTF-8&oe=UTF-8"
+msgid ""
+"https://www.google.com/search?as_q=\\\\{all,@}&num=\\\\{num,\"10\"}"
+"&btnG=Google+Search&as_epq=\\\\{exact,\"\"}&as_oq=\\\\{any,\"\"}&as_eq=\\"
+"\\{without,\"\"}&lr=\\\\{lang,\"\"}&as_ft=\\\\{ft,\"i\"}&as_filetype=\\"
+"\\{filetype,\"\"}&as_qdr=\\\\{date,\"all\"}&as_occt=\\\\{occ,\"any\"}&as_dt="
+"\\\\{siteop,\"i\"}&as_sitesearch=\\\\{site}&safe=\\\\{safe,\"active\"}"
+"&ie=UTF-8&oe=UTF-8"
+msgstr ""
+"https://www.google.com/search?as_q=\\\\{all,@}&num=\\\\{num,\"10\"}"
+"&btnG=Google+Search&as_epq=\\\\{exact,\"\"}&as_oq=\\\\{any,\"\"}&as_eq=\\"
+"\\{without,\"\"}&lr=\\\\{lang,\"\"}&as_ft=\\\\{ft,\"i\"}&as_filetype=\\"
+"\\{filetype,\"\"}&as_qdr=\\\\{date,\"all\"}&as_occt=\\\\{occ,\"any\"}&as_dt="
+"\\\\{siteop,\"i\"}&as_sitesearch=\\\\{site}&safe=\\\\{safe,\"active\"}"
+"&ie=UTF-8&oe=UTF-8"
 
 #: src/urifilters/ikws/searchproviders/google_code.desktop:5
 msgctxt "Name"
@@ -668,8 +730,12 @@ msgstr "Google \"I'm Feeling Lucky\""
 
 #: src/urifilters/ikws/searchproviders/google_lucky.desktop:99
 msgctxt "Query"
-msgid "https://www.google.com/search?q=\\\\{@}&btnI=I%27m+Feeling+Lucky&ie=UTF-8&oe=UTF-8"
-msgstr "https://www.google.com/search?q=\\\\{@}&btnI=I%27m+Feeling+Lucky&ie=UTF-8&oe=UTF-8"
+msgid ""
+"https://www.google.com/search?q=\\\\{@}&btnI=I%27m+Feeling"
+"+Lucky&ie=UTF-8&oe=UTF-8"
+msgstr ""
+"https://www.google.com/search?q=\\\\{@}&btnI=I%27m+Feeling"
+"+Lucky&ie=UTF-8&oe=UTF-8"
 
 #: src/urifilters/ikws/searchproviders/google_maps.desktop:3
 msgctxt "Name"
@@ -824,7 +890,8 @@ msgstr "https://invent.kde.org/explore/projects/starred?name=\\\\{@}"
 #: src/urifilters/ikws/searchproviders/it2en.desktop:5
 msgctxt "Name"
 msgid "WordReference.com Translation: Italian to English"
-msgstr "WordReference.com: Ekifo ekikyusa okuva mu Luyitale okudda mu Lungereza"
+msgstr ""
+"WordReference.com: Ekifo ekikyusa okuva mu Luyitale okudda mu Lungereza"
 
 #: src/urifilters/ikws/searchproviders/it2en.desktop:98
 msgctxt "Query"
@@ -878,8 +945,12 @@ msgstr "Ebimeeza Ebyogera ku KDE"
 
 #: src/urifilters/ikws/searchproviders/kde_forums.desktop:83
 msgctxt "Query"
-msgid "https://forum.kde.org/search.php?keywords=\\\\{@}&terms=all&author=&tags=&sv=0&sc=1&sf=all&sr=posts&sk=t&sd=d&st=0&ch=300&countlimit=100&t=0&submit=Search"
-msgstr "https://forum.kde.org/search.php?keywords=\\\\{@}&terms=all&author=&tags=&sv=0&sc=1&sf=all&sr=posts&sk=t&sd=d&st=0&ch=300&countlimit=100&t=0&submit=Search"
+msgid ""
+"https://forum.kde.org/search.php?keywords=\\\\{@}"
+"&terms=all&author=&tags=&sv=0&sc=1&sf=all&sr=posts&sk=t&sd=d&st=0&ch=300&countlimit=100&t=0&submit=Search"
+msgstr ""
+"https://forum.kde.org/search.php?keywords=\\\\{@}"
+"&terms=all&author=&tags=&sv=0&sc=1&sf=all&sr=posts&sk=t&sd=d&st=0&ch=300&countlimit=100&t=0&submit=Search"
 
 #: src/urifilters/ikws/searchproviders/kde_store.desktop:5
 msgctxt "Name"
@@ -979,7 +1050,8 @@ msgstr "MetaCrawler"
 #: src/urifilters/ikws/searchproviders/metacrawler.desktop:101
 msgctxt "Query"
 msgid "https://www.metacrawler.com/info.metac.cloud.other/search/web?q=\\\\{@}"
-msgstr "https://www.metacrawler.com/info.metac.cloud.other/search/web?q=\\\\{@}"
+msgstr ""
+"https://www.metacrawler.com/info.metac.cloud.other/search/web?q=\\\\{@}"
 
 #: src/urifilters/ikws/searchproviders/microsoft_cpp.desktop:2
 msgctxt "Name"
@@ -1078,8 +1150,12 @@ msgstr "Abakusobozesa Okunoonya Namba za Masimu (Biri mu Luholandi)"
 
 #: src/urifilters/ikws/searchproviders/nl-telephone.desktop:96
 msgctxt "Query"
-msgid "https://www.detelefoongids.nl/\\\\{1}/\\\\{2}/10-1/?oWhat=\\\\{1}&oWhere=\\\\{2}"
-msgstr "https://www.detelefoongids.nl/\\\\{1}/\\\\{2}/10-1/?oWhat=\\\\{1}&oWhere=\\\\{2}"
+msgid ""
+"https://www.detelefoongids.nl/\\\\{1}/\\\\{2}/10-1/?oWhat=\\\\{1}&oWhere=\\"
+"\\{2}"
+msgstr ""
+"https://www.detelefoongids.nl/\\\\{1}/\\\\{2}/10-1/?oWhat=\\\\{1}&oWhere=\\"
+"\\{2}"
 
 #: src/urifilters/ikws/searchproviders/nl-teletekst.desktop:2
 msgctxt "Name"
@@ -1098,8 +1174,10 @@ msgstr "openDesktop.org"
 
 #: src/urifilters/ikws/searchproviders/opendesktop.desktop:83
 msgctxt "Query"
-msgid "https://www.opendesktop.org/content/search.php?search=Search&name=\\\\{@}"
-msgstr "https://www.opendesktop.org/content/search.php?search=Search&name=\\\\{@}"
+msgid ""
+"https://www.opendesktop.org/content/search.php?search=Search&name=\\\\{@}"
+msgstr ""
+"https://www.opendesktop.org/content/search.php?search=Search&name=\\\\{@}"
 
 #: src/urifilters/ikws/searchproviders/opensuse.desktop:2
 msgctxt "Name"
@@ -1146,7 +1224,7 @@ msgctxt "Name"
 msgid "PyPI"
 msgstr "PyPI"
 
-#: src/urifilters/ikws/searchproviders/pypi.desktop:46
+#: src/urifilters/ikws/searchproviders/pypi.desktop:47
 msgctxt "Query"
 msgid "https://pypi.org/search/?q=\\\\{@}"
 msgstr "https://pypi.org/search/?q=\\\\{@}"
@@ -1158,8 +1236,12 @@ msgstr "Ekiwandiko Ekyebuuzibwako ku Nkola ne Enkozesa ya Python"
 
 #: src/urifilters/ikws/searchproviders/python.desktop:100
 msgctxt "Query"
-msgid "https://www.google.com/search?sourceid=python-search&q=\\\\{@}&submit=Search&q=site%3Apython.org"
-msgstr "https://www.google.com/search?sourceid=python-search&q=\\\\{@}&submit=Search&q=site%3Apython.org"
+msgid ""
+"https://www.google.com/search?sourceid=python-search&q=\\\\{@}"
+"&submit=Search&q=site%3Apython.org"
+msgstr ""
+"https://www.google.com/search?sourceid=python-search&q=\\\\{@}"
+"&submit=Search&q=site%3Apython.org"
 
 #: src/urifilters/ikws/searchproviders/qt5.desktop:5
 msgctxt "Name"
@@ -1328,8 +1410,12 @@ msgstr "SourceForge"
 
 #: src/urifilters/ikws/searchproviders/sourceforge.desktop:100
 msgctxt "Query"
-msgid "https://sourceforge.net/search/?type_of_search=\\\\{type,\"soft\"}&exact=\\\\{exact,\"0\"}&words=\\\\{@}"
-msgstr "https://sourceforge.net/search/?type_of_search=\\\\{type,\"soft\"}&exact=\\\\{exact,\"0\"}&words=\\\\{@}"
+msgid ""
+"https://sourceforge.net/search/?type_of_search=\\\\{type,\"soft\"}&exact=\\"
+"\\{exact,\"0\"}&words=\\\\{@}"
+msgstr ""
+"https://sourceforge.net/search/?type_of_search=\\\\{type,\"soft\"}&exact=\\"
+"\\{exact,\"0\"}&words=\\\\{@}"
 
 #: src/urifilters/ikws/searchproviders/technorati.desktop:3
 msgctxt "Name"
@@ -1398,8 +1484,12 @@ msgstr "Ggwanika Erya Mu U.S. Ery'ebifa ku Biyiiye Ebikugire"
 
 #: src/urifilters/ikws/searchproviders/uspto.desktop:99
 msgctxt "Query"
-msgid "http://patft.uspto.gov/netacgi/nph-Parser?TERM1=\\\\{@}&Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=/netahtml/srchnum.htm&r=0&f=S&l=50"
-msgstr "http://patft.uspto.gov/netacgi/nph-Parser?TERM1=\\\\{@}&Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=/netahtml/srchnum.htm&r=0&f=S&l=50"
+msgid ""
+"http://patft.uspto.gov/netacgi/nph-Parser?TERM1=\\\\{@}"
+"&Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=/netahtml/srchnum.htm&r=0&f=S&l=50"
+msgstr ""
+"http://patft.uspto.gov/netacgi/nph-Parser?TERM1=\\\\{@}"
+"&Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=/netahtml/srchnum.htm&r=0&f=S&l=50"
 
 #: src/urifilters/ikws/searchproviders/vimeo.desktop:5
 msgctxt "Name"
@@ -1438,8 +1528,12 @@ msgstr "Wikia"
 
 #: src/urifilters/ikws/searchproviders/wikia.desktop:83
 msgctxt "Query"
-msgid "https://www.wikia.com/Special:Search?search=\\\\{@}&wikia_search_submit=Search"
-msgstr "https://www.wikia.com/Special:Search?search=\\\\{@}&wikia_search_submit=Search"
+msgid ""
+"https://www.wikia.com/Special:Search?search=\\\\{@}"
+"&wikia_search_submit=Search"
+msgstr ""
+"https://www.wikia.com/Special:Search?search=\\\\{@}"
+"&wikia_search_submit=Search"
 
 #: src/urifilters/ikws/searchproviders/wikipedia.desktop:4
 msgctxt "Name"
@@ -1498,8 +1592,12 @@ msgstr "Yahoo"
 
 #: src/urifilters/ikws/searchproviders/yahoo.desktop:86
 msgctxt "Query"
-msgid "https://search.yahoo.com/search?toggle=1&cop=mss&ei=UTF-8&fr=yfp-t-701&p=\\\\{@}&x=0&y=0&=Web+Search"
-msgstr "https://search.yahoo.com/search?toggle=1&cop=mss&ei=UTF-8&fr=yfp-t-701&p=\\\\{@}&x=0&y=0&=Web+Search"
+msgid ""
+"https://search.yahoo.com/search?toggle=1&cop=mss&ei=UTF-8&fr=yfp-t-701&p=\\"
+"\\{@}&x=0&y=0&=Web+Search"
+msgstr ""
+"https://search.yahoo.com/search?toggle=1&cop=mss&ei=UTF-8&fr=yfp-t-701&p=\\"
+"\\{@}&x=0&y=0&=Web+Search"
 
 #: src/urifilters/ikws/searchproviders/yahoo_image.desktop:5
 msgctxt "Name"
@@ -1508,8 +1606,12 @@ msgstr "Noonya Bifaananyi ku Yahoo"
 
 #: src/urifilters/ikws/searchproviders/yahoo_image.desktop:84
 msgctxt "Query"
-msgid "https://images.search.yahoo.com/search/images;_ylt=A0geuy0K6JZLsVkB4m1XNyoA?ei=UTF-8&p=\\\\{@}&y=0&fr2=tab-web&fr=yfp-t-701"
-msgstr "https://images.search.yahoo.com/search/images;_ylt=A0geuy0K6JZLsVkB4m1XNyoA?ei=UTF-8&p=\\\\{@}&y=0&fr2=tab-web&fr=yfp-t-701"
+msgid ""
+"https://images.search.yahoo.com/search/images;_ylt=A0geuy0K6JZLsVkB4m1XNyoA?"
+"ei=UTF-8&p=\\\\{@}&y=0&fr2=tab-web&fr=yfp-t-701"
+msgstr ""
+"https://images.search.yahoo.com/search/images;_ylt=A0geuy0K6JZLsVkB4m1XNyoA?"
+"ei=UTF-8&p=\\\\{@}&y=0&fr2=tab-web&fr=yfp-t-701"
 
 #: src/urifilters/ikws/searchproviders/yahoo_local.desktop:5
 msgctxt "Name"
@@ -1518,8 +1620,10 @@ msgstr "Noonya ebya mu kitundu ku Yahoo"
 
 #: src/urifilters/ikws/searchproviders/yahoo_local.desktop:83
 msgctxt "Query"
-msgid "https://local.yahoo.com/results?stx=\\\\{@}&ei=UTF-8&fr=yfp-t-701&fr2=tab-img"
-msgstr "https://local.yahoo.com/results?stx=\\\\{@}&ei=UTF-8&fr=yfp-t-701&fr2=tab-img"
+msgid ""
+"https://local.yahoo.com/results?stx=\\\\{@}&ei=UTF-8&fr=yfp-t-701&fr2=tab-img"
+msgstr ""
+"https://local.yahoo.com/results?stx=\\\\{@}&ei=UTF-8&fr=yfp-t-701&fr2=tab-img"
 
 #: src/urifilters/ikws/searchproviders/yahoo_shopping.desktop:5
 msgctxt "Name"
@@ -1528,8 +1632,14 @@ msgstr "Noonya Ebitundibwa ku Yahoo"
 
 #: src/urifilters/ikws/searchproviders/yahoo_shopping.desktop:83
 msgctxt "Query"
-msgid "https://shopping.yahoo.com/search;_ylt=A0SO8ZgG65ZLyX8AsLX7w8QF;_ylu=X3oDMTBpcjIxMDllBHNlYwN0YWJzBHZ0aWQDVjEwOQ--?cop=mss&ei=UTF-8&p=\\\\{@}&fr2=tab-video&fr=yfp-t-701"
-msgstr "https://shopping.yahoo.com/search;_ylt=A0SO8ZgG65ZLyX8AsLX7w8QF;_ylu=X3oDMTBpcjIxMDllBHNlYwN0YWJzBHZ0aWQDVjEwOQ--?cop=mss&ei=UTF-8&p=\\\\{@}&fr2=tab-video&fr=yfp-t-701"
+msgid ""
+"https://shopping.yahoo.com/search;_ylt=A0SO8ZgG65ZLyX8AsLX7w8QF;"
+"_ylu=X3oDMTBpcjIxMDllBHNlYwN0YWJzBHZ0aWQDVjEwOQ--?cop=mss&ei=UTF-8&p=\\\\{@}"
+"&fr2=tab-video&fr=yfp-t-701"
+msgstr ""
+"https://shopping.yahoo.com/search;_ylt=A0SO8ZgG65ZLyX8AsLX7w8QF;"
+"_ylu=X3oDMTBpcjIxMDllBHNlYwN0YWJzBHZ0aWQDVjEwOQ--?cop=mss&ei=UTF-8&p=\\\\{@}"
+"&fr2=tab-video&fr=yfp-t-701"
 
 #: src/urifilters/ikws/searchproviders/yahoo_video.desktop:5
 msgctxt "Name"
@@ -1538,8 +1648,12 @@ msgstr "Noonya Vidiyo ku Yahoo"
 
 #: src/urifilters/ikws/searchproviders/yahoo_video.desktop:83
 msgctxt "Query"
-msgid "https://video.search.yahoo.com/search/video;_ylt=A0WTb_3a6JZLSHwAK7.JzbkF?ei=UTF-8&p=\\\\{@}&y=0&fr2=tab-img&fr=yfp-t-701"
-msgstr "https://video.search.yahoo.com/search/video;_ylt=A0WTb_3a6JZLSHwAK7.JzbkF?ei=UTF-8&p=\\\\{@}&y=0&fr2=tab-img&fr=yfp-t-701"
+msgid ""
+"https://video.search.yahoo.com/search/video;_ylt=A0WTb_3a6JZLSHwAK7.JzbkF?"
+"ei=UTF-8&p=\\\\{@}&y=0&fr2=tab-img&fr=yfp-t-701"
+msgstr ""
+"https://video.search.yahoo.com/search/video;_ylt=A0WTb_3a6JZLSHwAK7.JzbkF?"
+"ei=UTF-8&p=\\\\{@}&y=0&fr2=tab-img&fr=yfp-t-701"
 
 #: src/urifilters/ikws/searchproviders/yandex.desktop:3
 msgctxt "Name"
@@ -1571,8 +1685,7 @@ msgctxt "Name"
 msgid "C++ Worker (KF6)"
 msgstr "Lutiba Lw'ekyongerwako kya KIO"
 
-#: templates/kioworker6/kioworker6.kdevtemplate:35
+#: templates/kioworker6/kioworker6.kdevtemplate:37
 msgctxt "Comment"
 msgid "KIO Worker Template"
 msgstr "Lutiba Lw'ekyongerwako kya KIO"
-

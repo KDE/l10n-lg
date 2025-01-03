@@ -96,7 +96,9 @@ msgstr "kkuŋaanizo ly'ebivudde ku mutimbagano"
 #: kde6.xml.podir/kde6.xml.in.h:17
 msgctxt "comment"
 msgid "W3C XML schema"
-msgstr "Amateeka aga W3C agafuga ebiteekebwa mu bitundu by'ekiwandiko kya mu XML n'enteekateeka y'ebika bya byo"
+msgstr ""
+"Amateeka aga W3C agafuga ebiteekebwa mu bitundu by'ekiwandiko kya mu XML "
+"n'enteekateeka y'ebika bya byo"
 
 #: kde6.xml.podir/kde6.xml.in.h:19
 msgctxt "comment"
@@ -121,7 +123,9 @@ msgstr "Fayiro ey'enkozesa ya hekisadeka eya Intel®"
 #: kde6.xml.podir/kde6.xml.in.h:24
 msgctxt "comment"
 msgid "Kate file list loader plugin list"
-msgstr "Lukalala lwa fayiro olutegeerebwa ekyongerwako ekikozi ky'enkalala ekya mu Kate"
+msgstr ""
+"Lukalala lwa fayiro olutegeerebwa ekyongerwako ekikozi ky'enkalala ekya mu "
+"Kate"
 
 #: kde6.xml.podir/kde6.xml.in.h:25
 msgctxt "comment"
@@ -231,7 +235,9 @@ msgstr "Fayiro ey'ebizuulidwa Cachegrind oba Callgrind"
 #: kde6.xml.podir/kde6.xml.in.h:47
 msgctxt "comment"
 msgid "Umbrello UML Modeller file"
-msgstr "Fayiro eya mu Umbrello puloguramu eyeyambisa UML okutegeka enkwatagana y'ebitundu by'ebiwandike"
+msgstr ""
+"Fayiro eya mu Umbrello puloguramu eyeyambisa UML okutegeka enkwatagana "
+"y'ebitundu by'ebiwandike"
 
 #: kde6.xml.podir/kde6.xml.in.h:48
 msgctxt "comment"
@@ -286,10 +292,10 @@ msgstr "Kitundu ekiteekateeka enkozesa ya KXML UI mu kiwandiko"
 #: kde6.xml.podir/kde6.xml.in.h:61
 msgctxt "comment"
 msgid "KNotification Declaration"
-msgstr "Kitundu ekiteekateeka enkozesa y'ebiragiro bya mu kiwandiko kya KNotification"
+msgstr ""
+"Kitundu ekiteekateeka enkozesa y'ebiragiro bya mu kiwandiko kya KNotification"
 
 #: kde6.xml.podir/kde6.xml.in.h:62
 msgctxt "comment"
 msgid "KCrash Report"
 msgstr "Alipoota ya KCrash"
-
