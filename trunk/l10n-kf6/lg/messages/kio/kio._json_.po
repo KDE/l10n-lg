@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-11-05 01:14+0000\n"
+"POT-Creation-Date: 2025-02-01 00:49+0000\n"
 "PO-Revision-Date: 2024-12-12 11:35+0000\n"
 "Last-Translator: Kizito Birabwa <kbirabwa@yahoo.co.uk>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -12,6 +12,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.2\n"
+
+#: src/filewidgets/dropIntoNewFolder/dropintonewfolderPlugin.json
+msgctxt "Name"
+msgid "Drop Into New Folder"
+msgstr ""
 
 #: src/kioworkers/remote/kdedmodule/remotedirnotify.json
 msgctxt "Name"
