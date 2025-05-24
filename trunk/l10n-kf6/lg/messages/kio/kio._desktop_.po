@@ -1,17 +1,18 @@
+# SPDX-FileCopyrightText: 2025 Kizito Birabwa <kbirabwa@yahoo.co.uk>
 msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2025-05-13 00:48+0000\n"
-"PO-Revision-Date: 2024-12-13 16:51+0000\n"
+"PO-Revision-Date: 2025-05-21 01:28+0100\n"
 "Last-Translator: Kizito Birabwa <kbirabwa@yahoo.co.uk>\n"
-"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language-Team: Luganda\n"
 "Language: lg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.2\n"
+"X-Generator: Lokalize 24.05.2\n"
 
 #: src/kiod/org.kde.kiod6.desktop:5
 msgctxt "Name"
@@ -44,12 +45,11 @@ msgid "Empty File..."
 msgstr "Fayiro Njereere..."
 
 #: src/new_file_templates/EmptyFile.desktop:59
-#, fuzzy
 #| msgctxt "Comment"
 #| msgid "Enter text filename:"
 msgctxt "Comment"
 msgid "Enter name for empty file:"
-msgstr "Wandika linnya lya fayiro ey'ebigambo:"
+msgstr "Wandika linnya lya fayiro enjereere:"
 
 #: src/new_file_templates/HTMLFile.desktop:2
 msgctxt "Name"
@@ -269,15 +269,14 @@ msgstr "https://www.qrz.com/db/\\\\{@}"
 #: src/urifilters/ikws/searchproviders/caniuse.desktop:3
 msgctxt "Name"
 msgid "Can I Use…"
-msgstr ""
+msgstr "Nkozese..."
 
 #: src/urifilters/ikws/searchproviders/caniuse.desktop:35
-#, fuzzy
 #| msgctxt "Query"
 #| msgid "https://vimeo.com/search?q=\\\\{@}"
 msgctxt "Query"
 msgid "https://caniuse.com/?search=\\\\{@}"
-msgstr "https://vimeo.com/search?q=\\\\{@}"
+msgstr "https://caniuse.com/?search=\\\\{@}"
 
 #: src/urifilters/ikws/searchproviders/cia.desktop:4
 msgctxt "Name"
@@ -453,15 +452,14 @@ msgstr "https://www.docbook.org/tdg/en/html/\\\\{1}.html"
 #: src/urifilters/ikws/searchproviders/dockerhub.desktop:3
 msgctxt "Name"
 msgid "Docker Hub"
-msgstr ""
+msgstr "Docker Hub"
 
 #: src/urifilters/ikws/searchproviders/dockerhub.desktop:35
-#, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.flickr.com/search/?q=\\\\{@}"
 msgctxt "Query"
 msgid "https://hub.docker.com/search?q=\\\\{@}"
-msgstr "https://www.flickr.com/search/?q=\\\\{@}"
+msgstr "https://hub.docker.com/search?q=\\\\{@}"
 
 #: src/urifilters/ikws/searchproviders/doi.desktop:5
 msgctxt "Name"
@@ -474,12 +472,11 @@ msgid "https://dx.doi.org/\\\\{@}"
 msgstr "https://dx.doi.org/\\\\{@}"
 
 #: src/urifilters/ikws/searchproviders/duckduckgo.desktop:5
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Duck Duck Go"
 msgctxt "Name"
 msgid "DuckDuckGo"
-msgstr "Duck Duck Go"
+msgstr "DuckDuckGo"
 
 #: src/urifilters/ikws/searchproviders/duckduckgo.desktop:36
 msgctxt "Query"
@@ -539,12 +536,11 @@ msgstr ""
 "WordReference.com: Ekifo ekikyusa okuva mu Lungereza okudda mu Lufalansa"
 
 #: src/urifilters/ikws/searchproviders/en2fr.desktop:99
-#, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.wordreference.com/fr/Translation.asp?enfr=\\\\{@}"
 msgctxt "Query"
 msgid "https://www.wordreference.com/enfr/\\\\{@}"
-msgstr "https://www.wordreference.com/fr/Translation.asp?enfr=\\\\{@}"
+msgstr "https://www.wordreference.com/enfr/\\\\{@}"
 
 #: src/urifilters/ikws/searchproviders/en2it.desktop:5
 msgctxt "Name"
@@ -554,12 +550,11 @@ msgstr ""
 
 #: src/urifilters/ikws/searchproviders/en2it.desktop:99
 #: src/urifilters/ikws/searchproviders/it2en.desktop:99
-#, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.wordreference.com/it/translation.asp?enit=\\\\{@}"
 msgctxt "Query"
 msgid "https://www.wordreference.com/iten/\\\\{@}"
-msgstr "https://www.wordreference.com/it/translation.asp?enit=\\\\{@}"
+msgstr "https://www.wordreference.com/iten/\\\\{@}"
 
 #: src/urifilters/ikws/searchproviders/es2en.desktop:5
 msgctxt "Name"
@@ -585,15 +580,14 @@ msgstr "https://www.facebook.com/search/?q=\\\\{@}&init=quick"
 #: src/urifilters/ikws/searchproviders/fedora.desktop:2
 msgctxt "Name"
 msgid "Fedora Packages"
-msgstr ""
+msgstr "Emiganda gya mu Fedora"
 
 #: src/urifilters/ikws/searchproviders/fedora.desktop:34
-#, fuzzy
 #| msgctxt "Query"
 #| msgid "https://directory.fsf.org/search/?query=\\\\{@}"
 msgctxt "Query"
 msgid "https://packages.fedoraproject.org/search?query=\\\\{@}"
-msgstr "https://directory.fsf.org/search/?query=\\\\{@}"
+msgstr "https://packages.fedoraproject.org/search?query=\\\\{@}"
 
 #: src/urifilters/ikws/searchproviders/feedster.desktop:3
 msgctxt "Name"
@@ -663,12 +657,11 @@ msgstr ""
 "WordReference.com: Ekifo ekikyusa okuva mu Lufalansa okudda mu Lungereza"
 
 #: src/urifilters/ikws/searchproviders/fr2en.desktop:99
-#, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.wordreference.com/fr/Translation.asp?enfr=\\\\{@}"
 msgctxt "Query"
 msgid "https://www.wordreference.com/fren/\\\\{@}"
-msgstr "https://www.wordreference.com/fr/Translation.asp?enfr=\\\\{@}"
+msgstr "https://www.wordreference.com/fren/\\\\{@}"
 
 #: src/urifilters/ikws/searchproviders/freecode.desktop:3
 msgctxt "Name"
@@ -975,15 +968,14 @@ msgstr "https://www.ask.com/web?q=\\\\{@}"
 #: src/urifilters/ikws/searchproviders/kde_apps.desktop:3
 msgctxt "Name"
 msgid "Plasma Add-Ons and Extensions"
-msgstr ""
+msgstr "Ebyongerwako n'Ebyongezabusobozi ebya Plasma"
 
 #: src/urifilters/ikws/searchproviders/kde_apps.desktop:34
-#, fuzzy
 #| msgctxt "Query"
 #| msgid "https://invent.kde.org/search?search=\\\\{@}"
 msgctxt "Query"
 msgid "https://store.kde.org/browse?tag=\\\\{@}"
-msgstr "https://invent.kde.org/search?search=\\\\{@}"
+msgstr "https://store.kde.org/browse?tag=\\\\{@}"
 
 #: src/urifilters/ikws/searchproviders/kde.desktop:6
 msgctxt "Name"
@@ -1004,10 +996,12 @@ msgstr "Ebimeeza Ebyogera ku KDE"
 msgctxt "Query"
 msgid ""
 "https://forum.kde.org/search.php?keywords=\\\\{@}"
-"&terms=all&author=&tags=&sv=0&sc=1&sf=all&sr=posts&sk=t&sd=d&st=0&ch=300&countlimit=100&t=0&submit=Search"
+"&terms=all&author=&tags=&sv=0&sc=1&sf=all&sr=posts&sk=t&sd=d&st=0&ch=300&count"
+"limit=100&t=0&submit=Search"
 msgstr ""
 "https://forum.kde.org/search.php?keywords=\\\\{@}"
-"&terms=all&author=&tags=&sv=0&sc=1&sf=all&sr=posts&sk=t&sd=d&st=0&ch=300&countlimit=100&t=0&submit=Search"
+"&terms=all&author=&tags=&sv=0&sc=1&sf=all&sr=posts&sk=t&sd=d&st=0&ch=300&count"
+"limit=100&t=0&submit=Search"
 
 #: src/urifilters/ikws/searchproviders/kde_store.desktop:5
 msgctxt "Name"
@@ -1100,20 +1094,18 @@ msgid "https://my.magnatune.com/search?w=\\\\{@}&t=m&x=0&y=0"
 msgstr "https://my.magnatune.com/search?w=\\\\{@}&t=m&x=0&y=0"
 
 #: src/urifilters/ikws/searchproviders/mdn.desktop:3
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Microsoft Developer Network Search"
 msgctxt "Name"
 msgid "Mozilla Developer Network (MDN)"
-msgstr "Noonyeza mu Kifo Ky'abawandisi ba Puloguramu Ekya Microsoft"
+msgstr "Kifo Ky'abawandisi ba Puloguramu Ekya Mozilla (MDN)"
 
 #: src/urifilters/ikws/searchproviders/mdn.desktop:35
-#, fuzzy
 #| msgctxt "Query"
 #| msgid "https://docs.krita.org/en/search.html?q=\\\\{@}"
 msgctxt "Query"
 msgid "https://developer.mozilla.org/en-US/search?q=\\\\{@}"
-msgstr "https://docs.krita.org/en/search.html?q=\\\\{@}"
+msgstr "https://developer.mozilla.org/en-US/search?q=\\\\{@}"
 
 #: src/urifilters/ikws/searchproviders/metacrawler.desktop:3
 msgctxt "Name"
@@ -1219,13 +1211,14 @@ msgstr "https://uptime.netcraft.com/up/graph?site=\\\\{@}"
 #: src/urifilters/ikws/searchproviders/nixpkgs.desktop:3
 msgctxt "Name"
 msgid "Nix Packages"
-msgstr ""
+msgstr "Emiganda gya mu Nix"
 
 #: src/urifilters/ikws/searchproviders/nixpkgs.desktop:35
 msgctxt "Query"
 msgid ""
 "https://search.nixos.org/packages?sort=relevance&type=packages&query=\\\\{@}"
 msgstr ""
+"https://search.nixos.org/packages?sort=relevance&type=packages&query=\\\\{@}"
 
 #: src/urifilters/ikws/searchproviders/nl-telephone.desktop:2
 msgctxt "Name"
@@ -1254,15 +1247,14 @@ msgstr "https://nos.nl/teletekst#\\\\{@}"
 #: src/urifilters/ikws/searchproviders/npm.desktop:3
 msgctxt "Name"
 msgid "npm"
-msgstr ""
+msgstr "npm"
 
 #: src/urifilters/ikws/searchproviders/npm.desktop:35
-#, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.bing.com/search?q=\\\\{@}"
 msgctxt "Query"
 msgid "https://www.npmjs.com/search?q=\\\\{@}"
-msgstr "https://www.bing.com/search?q=\\\\{@}"
+msgstr "https://www.npmjs.com/search?q=\\\\{@}"
 
 #: src/urifilters/ikws/searchproviders/opendesktop.desktop:5
 msgctxt "Name"
@@ -1633,12 +1625,11 @@ msgstr ""
 "&wikia_search_submit=Search"
 
 #: src/urifilters/ikws/searchproviders/wikipedia.desktop:4
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Wikia"
 msgctxt "Name"
 msgid "Wikipedia"
-msgstr "Wikia"
+msgstr "Wikipedia"
 
 #: src/urifilters/ikws/searchproviders/wikipedia.desktop:36
 msgctxt "Query"
@@ -1811,3 +1802,5 @@ msgstr "Lutiba Lw'ekyongerwako kya KIO"
 #~ "https://www.kde-apps.org/content/search.php?search=Search&name=\\\\{@}"
 #~ msgstr ""
 #~ "https://www.kde-apps.org/content/search.php?search=Search&name=\\\\{@}"
+
+
