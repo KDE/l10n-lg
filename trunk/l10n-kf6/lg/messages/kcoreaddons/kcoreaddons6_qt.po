@@ -244,8 +244,6 @@ msgid "MPL 2.0"
 msgstr "MPL 2.0"
 
 #: lib/kaboutdata.cpp:404
-#| msgctxt "KAboutLicense|@item license"
-#| msgid "Apache License 2.0"
 msgctxt "KAboutLicense|@item license"
 msgid "Mozilla Public License 2.0"
 msgstr "Layisinsi eya Mozilla eya Bonna Luwandika 2.0"
@@ -688,9 +686,6 @@ msgstr "YiB %1"
 #. @item:intext abbreviated amount of days
 #: lib/util/kformatprivate.cpp:330
 #, qt-format
-#| msgctxt "KFormat|"
-#| msgid "%n day(s)"
-#| msgid_plural "%n day(s)"
 msgctxt "KFormat|"
 msgid "%n d"
 msgid_plural "%n d"
@@ -700,9 +695,6 @@ msgstr[1] "Nnaku %n"
 #. @item:intext abbreviated amount of hours
 #: lib/util/kformatprivate.cpp:335
 #, qt-format
-#| msgctxt "KFormat|"
-#| msgid "%n hour(s)"
-#| msgid_plural "%n hour(s)"
 msgctxt "KFormat|"
 msgid "%n hr"
 msgid_plural "%n hr"
@@ -712,9 +704,6 @@ msgstr[1] "Saawa %n"
 #. @item:intext abbreviated amount of minutes
 #: lib/util/kformatprivate.cpp:340
 #, qt-format
-#| msgctxt "KFormat|"
-#| msgid "%n minute(s)"
-#| msgid_plural "%n minute(s)"
 msgctxt "KFormat|"
 msgid "%n min"
 msgid_plural "%n min"
@@ -724,9 +713,6 @@ msgstr[1] "Dakiika %n"
 #. @item:intext abbreviated amount of seconds
 #: lib/util/kformatprivate.cpp:345
 #, qt-format
-#| msgctxt "KFormat|"
-#| msgid "%n second(s)"
-#| msgid_plural "%n second(s)"
 msgctxt "KFormat|"
 msgid "%n sec"
 msgid_plural "%n sec"
@@ -773,8 +759,6 @@ msgstr "%1h%2m%3s"
 #. @item:intext abbreviated amount of hours and abbreviated amount of minutes
 #: lib/util/kformatprivate.cpp:405 lib/util/kformatprivate.cpp:410
 #, qt-format
-#| msgctxt "KFormat|no Prefix"
-#| msgid "%1 %2"
 msgctxt "KFormat|"
 msgid "%1 %2"
 msgstr "%1 %2"
@@ -782,8 +766,6 @@ msgstr "%1 %2"
 #. @item:intext abbreviated amount of hours, abbreviated amount of minutes and abbreviated amount of seconds
 #: lib/util/kformatprivate.cpp:414
 #, qt-format
-#| msgctxt "KFormat|MetricBinaryDialect"
-#| msgid "%1 %2%3"
 msgctxt "KFormat|"
 msgid "%1 %2 %3"
 msgstr "%1 %2 %3"
@@ -943,9 +925,6 @@ msgstr "Kakano"
 #. @item:intext %1 is a whole number, abbreviate minute value
 #: lib/util/kformatprivate.cpp:575
 #, qt-format
-#| msgctxt "KFormat|"
-#| msgid "%n minute(s) ago"
-#| msgid_plural "%n minute(s) ago"
 msgctxt "KFormat|"
 msgid "%n min(s) ago"
 msgid_plural "%n min(s) ago"
@@ -969,9 +948,6 @@ msgstr "Kakati"
 #. @item:intext %1 is a whole number, abbreviate minute value
 #: lib/util/kformatprivate.cpp:590
 #, qt-format
-#| msgctxt "KFormat|"
-#| msgid "%n minute(s)"
-#| msgid_plural "%n minute(s)"
 msgctxt "KFormat|"
 msgid "%n min(s)"
 msgid_plural "%n min(s)"
@@ -981,9 +957,6 @@ msgstr[1] "Dakiika %n"
 #. @item:intext %1 is a whole number
 #: lib/util/kformatprivate.cpp:595
 #, qt-format
-#| msgctxt "KFormat|"
-#| msgid "%n minute(s)"
-#| msgid_plural "%n minute(s)"
 msgctxt "KFormat|"
 msgid "In %n minute(s)"
 msgid_plural "In %n minute(s)"
@@ -1005,8 +978,6 @@ msgstr "ft %1"
 
 #: lib/util/kformatprivate.cpp:632 lib/util/kformatprivate.cpp:634
 #, qt-format
-#| msgctxt "KFormat|"
-#| msgid "%1 minutes"
 msgctxt "KFormat|distance in miles"
 msgid "%1 mi"
 msgstr "mayilo %1"
@@ -1019,8 +990,6 @@ msgstr "m %1"
 
 #: lib/util/kformatprivate.cpp:643 lib/util/kformatprivate.cpp:645
 #, qt-format
-#| msgctxt "KFormat|MetricBinaryDialect"
-#| msgid "%1 kB"
 msgctxt "KFormat|distance in kilometer"
 msgid "%1 km"
 msgstr "km %1"
@@ -1046,5 +1015,3 @@ msgstr "Nnemedwa okutandika `lsof'. Namba ya kiremya eri %1"
 msgctxt "QObject|"
 msgid "KListOpenFilesJob is not supported on Windows"
 msgstr "Windows tetegeera KListOpenFilesJob"
-
-

@@ -33,5 +33,3 @@ msgstr "Kikumanyisa nga wazzewo enkyuuka ku kisangibwa ku kayungirizi"
 msgctxt "trash ExtraNames"
 msgid "Original Path;Deletion Date"
 msgstr "Obwali obusangiro;Amagyawo"
-
-
