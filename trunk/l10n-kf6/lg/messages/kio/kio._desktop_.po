@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-05-13 00:48+0000\n"
+"POT-Creation-Date: 2025-05-26 00:48+0000\n"
 "PO-Revision-Date: 2025-05-21 01:28+0100\n"
 "Last-Translator: Kizito Birabwa <kbirabwa@yahoo.co.uk>\n"
 "Language-Team: Luganda\n"
@@ -269,7 +269,7 @@ msgctxt "Name"
 msgid "Can I Use…"
 msgstr "Nkozese..."
 
-#: src/urifilters/ikws/searchproviders/caniuse.desktop:35
+#: src/urifilters/ikws/searchproviders/caniuse.desktop:36
 msgctxt "Query"
 msgid "https://caniuse.com/?search=\\\\{@}"
 msgstr "https://caniuse.com/?search=\\\\{@}"
@@ -450,7 +450,7 @@ msgctxt "Name"
 msgid "Docker Hub"
 msgstr "Docker Hub"
 
-#: src/urifilters/ikws/searchproviders/dockerhub.desktop:35
+#: src/urifilters/ikws/searchproviders/dockerhub.desktop:36
 msgctxt "Query"
 msgid "https://hub.docker.com/search?q=\\\\{@}"
 msgstr "https://hub.docker.com/search?q=\\\\{@}"
@@ -470,7 +470,7 @@ msgctxt "Name"
 msgid "DuckDuckGo"
 msgstr "DuckDuckGo"
 
-#: src/urifilters/ikws/searchproviders/duckduckgo.desktop:36
+#: src/urifilters/ikws/searchproviders/duckduckgo.desktop:37
 msgctxt "Query"
 msgid "https://duckduckgo.com/?q=\\\\{@}&t=kde"
 msgstr "https://duckduckgo.com/?q=\\\\{@}&t=kde"
@@ -570,7 +570,7 @@ msgctxt "Name"
 msgid "Fedora Packages"
 msgstr "Emiganda gya mu Fedora"
 
-#: src/urifilters/ikws/searchproviders/fedora.desktop:34
+#: src/urifilters/ikws/searchproviders/fedora.desktop:35
 msgctxt "Query"
 msgid "https://packages.fedoraproject.org/search?query=\\\\{@}"
 msgstr "https://packages.fedoraproject.org/search?query=\\\\{@}"
@@ -954,7 +954,7 @@ msgctxt "Name"
 msgid "Plasma Add-Ons and Extensions"
 msgstr "Ebyongerwako n'Ebyongezabusobozi ebya Plasma"
 
-#: src/urifilters/ikws/searchproviders/kde_apps.desktop:34
+#: src/urifilters/ikws/searchproviders/kde_apps.desktop:35
 msgctxt "Query"
 msgid "https://store.kde.org/browse?tag=\\\\{@}"
 msgstr "https://store.kde.org/browse?tag=\\\\{@}"
@@ -1078,7 +1078,7 @@ msgctxt "Name"
 msgid "Mozilla Developer Network (MDN)"
 msgstr "Kifo Ky'abawandisi ba Puloguramu Ekya Mozilla (MDN)"
 
-#: src/urifilters/ikws/searchproviders/mdn.desktop:35
+#: src/urifilters/ikws/searchproviders/mdn.desktop:36
 msgctxt "Query"
 msgid "https://developer.mozilla.org/en-US/search?q=\\\\{@}"
 msgstr "https://developer.mozilla.org/en-US/search?q=\\\\{@}"
@@ -1189,7 +1189,7 @@ msgctxt "Name"
 msgid "Nix Packages"
 msgstr "Emiganda gya mu Nix"
 
-#: src/urifilters/ikws/searchproviders/nixpkgs.desktop:35
+#: src/urifilters/ikws/searchproviders/nixpkgs.desktop:36
 msgctxt "Query"
 msgid ""
 "https://search.nixos.org/packages?sort=relevance&type=packages&query=\\\\{@}"
@@ -1225,7 +1225,7 @@ msgctxt "Name"
 msgid "npm"
 msgstr "npm"
 
-#: src/urifilters/ikws/searchproviders/npm.desktop:35
+#: src/urifilters/ikws/searchproviders/npm.desktop:36
 msgctxt "Query"
 msgid "https://www.npmjs.com/search?q=\\\\{@}"
 msgstr "https://www.npmjs.com/search?q=\\\\{@}"
@@ -1603,7 +1603,7 @@ msgctxt "Name"
 msgid "Wikipedia"
 msgstr "Wikipedia"
 
-#: src/urifilters/ikws/searchproviders/wikipedia.desktop:36
+#: src/urifilters/ikws/searchproviders/wikipedia.desktop:37
 msgctxt "Query"
 msgid "https://en.wikipedia.org/wiki/Special:Search?search=\\\\{@}&go=Go"
 msgstr "https://en.wikipedia.org/wiki/Special:Search?search=\\\\{@}&go=Go"
