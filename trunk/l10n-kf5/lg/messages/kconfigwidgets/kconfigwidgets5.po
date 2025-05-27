@@ -133,8 +133,8 @@ msgstr "&Nyamba"
 #, kde-format
 msgid "Show Menubar<p>Shows the menubar again after it has been hidden</p>"
 msgstr ""
-"Olubaawo lwa &Menyu Lulabike</p>Kino kikomyawo olubaawo lwa menyu nga lubadde"
-" lukisidwa</p>"
+"Olubaawo lwa &Menyu Lulabike</p>Kino kikomyawo olubaawo lwa menyu nga "
+"lubadde lukisidwa</p>"
 
 #: kstandardaction.cpp:253
 #, kde-format
@@ -142,8 +142,8 @@ msgid ""
 "Show Statusbar<p>Shows the statusbar, which is the bar at the bottom of the "
 "window used for status information.</p>"
 msgstr ""
-"Olubaawo Olulaga Mbeera y'Egibumbujja Lulabike<p>Kino kireeta olubaawo"
-" olulaga mbeera y'egibumbujja, olusangibwa ku mwango gw'eddirisa wansi.</p>"
+"Olubaawo Olulaga Mbeera y'Egibumbujja Lulabike<p>Kino kireeta olubaawo "
+"olulaga mbeera y'egibumbujja, olusangibwa ku mwango gw'eddirisa wansi.</p>"
 
 #: kstandardaction_p.h:30
 msgid "&New"
@@ -325,8 +325,8 @@ msgstr "Bijje mu Bugazi b&w'Olupapula"
 #: kstandardaction_p.h:60
 msgid "Zoom to fit page width in window"
 msgstr ""
-"Kyusa obunene bw'ekyolesebwa kiggweere mu bugazi bw'olupapula olulabikira mu"
-" ddirisa"
+"Kyusa obunene bw'ekyolesebwa kiggweere mu bugazi bw'olupapula olulabikira mu "
+"ddirisa"
 
 #: kstandardaction_p.h:61
 msgid "Fit to Page &Height"
@@ -335,8 +335,8 @@ msgstr "Bijje mu Buwan&vu bw'Olupapula"
 #: kstandardaction_p.h:61
 msgid "Zoom to fit page height in window"
 msgstr ""
-"Kyusa obunene bw'ekyolesebwa kiggweere mu buwanvu bw'olupapula olulabikira mu"
-" ddirisa"
+"Kyusa obunene bw'ekyolesebwa kiggweere mu buwanvu bw'olupapula olulabikira "
+"mu ddirisa"
 
 #: kstandardaction_p.h:62
 msgid "Zoom &In"
@@ -574,4 +574,3 @@ msgstr "&Agaakulembera"
 msgctxt "@action:button Goes to next tip, opposite to previous"
 msgid "&Next"
 msgstr "Aga&ddako"
-
