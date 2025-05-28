@@ -1,0 +1,542 @@
+# SPDX-FileCopyrightText: 2025 Kizito Birabwa <kbirabwa@yahoo.co.uk>
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-09-27 01:45+0000\n"
+"PO-Revision-Date: 2025-05-28 21:01+0100\n"
+"Last-Translator: Kizito Birabwa <kbirabwa@yahoo.co.uk>\n"
+"Language-Team: Luganda\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: lg_UG\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 24.05.2\n"
+
+#: af/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Afrikaans"
+msgstr "Lubbuwa"
+
+#: ar/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Arabic"
+msgstr "Luwarabu"
+
+#: as/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Assamese"
+msgstr "Luwassamu"
+
+#: ast/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Asturian"
+msgstr "Lu-Asituriyanu"
+
+#: az/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Azerbaijani"
+msgstr "Luwazerebayijani"
+
+#: be@latin/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Belarusian Latin"
+msgstr "Lubelarusi lwa kilattini"
+
+#: be/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Belarusian"
+msgstr "Lubelarusi"
+
+#: bg/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Bulgarian"
+msgstr "Lubulugariya"
+
+#: bn_IN/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Bengali (India)"
+msgstr "Lubengali (olwa mu Buyindi)"
+
+#: bn/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Bengali"
+msgstr "Lubengali"
+
+#: br/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Breton"
+msgstr "Luburetoni"
+
+#: bs/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Bosnian"
+msgstr "Lubosniya"
+
+#: ca/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Catalan"
+msgstr "Lukatalani"
+
+#: ca@valencia/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Catalan (Valencian)"
+msgstr "Lukatalani (olwa mu Valenciya)"
+
+#: crh/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Crimean Tatar"
+msgstr "Lutatar olw'omu Kirimea"
+
+#: csb/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Kashubian"
+msgstr "Lukasubiya"
+
+#: cs/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Czech"
+msgstr "Luceeki"
+
+#: cy/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Welsh"
+msgstr "Luwelesi"
+
+#: da/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Danish"
+msgstr "Ludenimaaki"
+
+#: de/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "German"
+msgstr "Ludaaki"
+
+#: el/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Greek"
+msgstr "Lugereeki/ Luyonaani"
+
+#: en_GB/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "British English"
+msgstr "Lungereza olwa mu Bungereza"
+
+#: eo/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Esperanto"
+msgstr "Esperanto"
+
+#: es/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Spanish"
+msgstr "Lusipanya"
+
+#: et/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Estonian"
+msgstr "Lu-Estoniya"
+
+#: eu/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Basque"
+msgstr "Lubasiki"
+
+#: fa/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Farsi"
+msgstr "Luperusi"
+
+#: fi/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Finnish"
+msgstr "Lufinilandi"
+
+#: fr/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "French"
+msgstr "Lufalansa"
+
+#: fy/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Frisian"
+msgstr "Lufurisiya"
+
+#: ga/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Irish"
+msgstr "Lugeyiliki olw'omu Ayalandi"
+
+#: gd/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Scottish Gaelic"
+msgstr "Lugeyiliki olw'omu Sikotilandi"
+
+#: gl/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Galician"
+msgstr "Lugaliciya"
+
+#: gu/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Gujarati"
+msgstr "Lugujarati"
+
+#: ha/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Hausa"
+msgstr "Luhawuza"
+
+#: he/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Hebrew"
+msgstr "Lu-heburu/Luyudaaya"
+
+#: hi/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Hindi"
+msgstr "Luhindu"
+
+#: hne/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Chhattisgarhi"
+msgstr "Lucatisigari"
+
+#: hr/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Croatian"
+msgstr "Lukurowatiya"
+
+#: hsb/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Upper Sorbian"
+msgstr "Luworonyoserebicina"
+
+#: hu/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Hungarian"
+msgstr "Luhungariya"
+
+#: hy/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Armenian"
+msgstr "Lu-Arameniya"
+
+#: ia/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Interlingua"
+msgstr "Intalingwa"
+
+#: id/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Indonesian"
+msgstr "Luyindonesiya"
+
+#: ie/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Interlingue"
+msgstr "Intalingwe"
+
+#: is/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Icelandic"
+msgstr "Lu-Ayisilandi"
+
+#: it/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Italian"
+msgstr "Luyitale"
+
+#: ja/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Japanese"
+msgstr "Lujapani"
+
+#: ka/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Georgian"
+msgstr "Lugiyogiya"
+
+#: kk/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Kazakh"
+msgstr "Lukazaka"
+
+#: km/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Khmer"
+msgstr "Lukimeri"
+
+#: kn/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Kannada"
+msgstr "Lukannadda"
+
+#: ko/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Korean"
+msgstr "Lukoreya"
+
+#: ku/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Kurdish"
+msgstr "Lukurudi"
+
+#: lb/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Luxembourgish"
+msgstr "Lulukizemburugi"
+
+#: lt/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Lithuanian"
+msgstr "Lulisuwaniya"
+
+#: lv/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Latvian"
+msgstr "Lulatviya"
+
+#: mai/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Maithili"
+msgstr "Lumayitili"
+
+#: mk/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Macedonian"
+msgstr "Lumasedoniya"
+
+#: ml/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Malayalam"
+msgstr "Lumalaya"
+
+#: mr/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Marathi"
+msgstr "Lumarasi"
+
+#: ms/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Malay"
+msgstr "Lumalayi"
+
+#: my/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Burmese"
+msgstr "Lubbama"
+
+#: nb/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Norwegian Bokmål"
+msgstr "Lubokimalo olwa mu Nowe"
+
+#: nds/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Low Saxon"
+msgstr "Oludaaki olw'okumbalama"
+
+#: ne/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Nepali"
+msgstr "Lunepali"
+
+#: nl/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Dutch"
+msgstr "Luholandi"
+
+#: nn/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Norwegian Nynorsk"
+msgstr "Luninoosiki olwa mu Nowe"
+
+#: oc/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Occitan"
+msgstr "Lu-Oki"
+
+#: or/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Oriya"
+msgstr "Lu-Oriya"
+
+#: pa/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Punjabi"
+msgstr "Lupunjabi"
+
+#: pl/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Polish"
+msgstr "Lupolandi"
+
+#: ps/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Pashto"
+msgstr "Lupasito"
+
+#: pt_BR/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Brazil portuguese"
+msgstr "Lupotugesi olwa mu Buraziri"
+
+#: pt/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Portuguese"
+msgstr "Lupotugesi"
+
+#: ro/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Romanian"
+msgstr "Luromaniya"
+
+#: ru/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Russian"
+msgstr "Lulasa"
+
+#: se/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Northern Sami"
+msgstr "Olusaami olw'omumambuka"
+
+#: si/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Sinhala"
+msgstr "Lusinala"
+
+#: sk/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Slovak"
+msgstr "Lusilovaki"
+
+#: sl/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Slovenian"
+msgstr "Lusiloveni"
+
+#: sq/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Albanian"
+msgstr "Lu-Alibaniya"
+
+#: sr@ijekavianlatin/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Serbian Ijekavian Latin"
+msgstr "Luserebiya oluyekavi olwa walifu ya kilattini"
+
+#: sr@ijekavian/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Serbian Ijekavian"
+msgstr "Luserebiya oluyekavi"
+
+#: sr@latin/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Serbian Latin"
+msgstr "Luserebiya olwa walifu ya kilattini"
+
+#: sr/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Serbian"
+msgstr "Luserebiya"
+
+#: sv/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Swedish"
+msgstr "Luswedeni"
+
+#: ta/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Tamil"
+msgstr "Lutamilu"
+
+#: te/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Telugu"
+msgstr "Lutelugu"
+
+#: tg/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Tajik"
+msgstr "Lutajiki"
+
+#: th/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Thai"
+msgstr "Lutayilandi"
+
+#: tok/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Toki Pona"
+msgstr "Toki Pona"
+
+#: tr/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Turkish"
+msgstr "Luturuki"
+
+#: tt/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Tatar"
+msgstr "Lutatari"
+
+#: ug/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Uyghur"
+msgstr "Lu-uyiguru"
+
+#: uk/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Ukrainian"
+msgstr "Lu-ukurayine"
+
+#: uz@cyrillic/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Uzbek (Cyrillic)"
+msgstr "Lu-uzibeki (walifu ya kisiriiri)"
+
+#: uz/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Uzbek"
+msgstr "Lu-uzibeki"
+
+#: vi/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Vietnamese"
+msgstr "Luviyetinamu"
+
+#: wa/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Walloon"
+msgstr "Luwaloni"
+
+#: xh/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Xhosa"
+msgstr "Lukoosa"
+
+#: x-test/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "KDE Test Language"
+msgstr "Ekigezesebwa kya KDE"
+
+#: zh_CN/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Simplified Chinese"
+msgstr "Lucayina Olugonze"
+
+#: zh_HK/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Chinese (Hong Kong)"
+msgstr "Lucayina (olwa mu Hongo Kongo)"
+
+#: zh_TW/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Traditional Chinese"
+msgstr "Olucayina olw'edda"
+
+
