@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-05-11 02:03+0000\n"
+"POT-Creation-Date: 2025-06-20 02:02+0000\n"
 "PO-Revision-Date: 2024-11-13 21:43+0000\n"
 "Last-Translator: Kizito Birabwa <kbirabwa@yahoo.co.uk>\n"
 "Language-Team: Luganda <kde-i18n-doc@kde.org>\n"
@@ -114,12 +114,12 @@ msgctxt "Name"
 msgid "Web Search Keywords"
 msgstr "Ebigamo Ebyawulemu mu Kunoonyeza ku Mutimbagano"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:68
+#: src/kcms/webshortcuts/webshortcuts.desktop:69
 msgctxt "Comment"
 msgid "Configure web search keywords"
 msgstr "Tegeka ebigambo ebyawulemu mu kunoonyeza ku mutimbagano"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:125
+#: src/kcms/webshortcuts/webshortcuts.desktop:126
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Web Search Keywords,Web Search,Search,Keyword,Web Shortcuts,Browsing,WWW,"
@@ -326,7 +326,7 @@ msgctxt "Name"
 msgid "ArchWiki"
 msgstr "ArchWiki"
 
-#: src/urifilters/ikws/searchproviders/archwiki.desktop:58
+#: src/urifilters/ikws/searchproviders/archwiki.desktop:59
 msgctxt "Query"
 msgid "https://wiki.archlinux.org/index.php?search=\\\\{@}"
 msgstr "https://wiki.archlinux.org/index.php?search=\\\\{@}"
@@ -386,7 +386,7 @@ msgctxt "Name"
 msgid "KDE Bugs"
 msgstr "Mpulunguse ezizuulidwa mu KDE"
 
-#: src/urifilters/ikws/searchproviders/bug.desktop:58
+#: src/urifilters/ikws/searchproviders/bug.desktop:59
 msgctxt "Query"
 msgid "https://bugs.kde.org/buglist.cgi?quicksearch=\\\\{@}"
 msgstr "https://bugs.kde.org/buglist.cgi?quicksearch=\\\\{@}"
@@ -456,7 +456,7 @@ msgctxt "Name"
 msgid "CPP Reference"
 msgstr "CPP Reference"
 
-#: src/urifilters/ikws/searchproviders/cppreference.desktop:53
+#: src/urifilters/ikws/searchproviders/cppreference.desktop:54
 msgctxt "Query"
 msgid "https://cppreference.com/w/?search=\\\\{@}"
 msgstr "https://cppreference.com/w/?search=\\\\{@}"
@@ -1580,7 +1580,7 @@ msgctxt "Name"
 msgid "Ubuntu Package Search"
 msgstr "Aw'okunoonyeza Emiganda gya mu Ubuntu"
 
-#: src/urifilters/ikws/searchproviders/ubuntu.desktop:54
+#: src/urifilters/ikws/searchproviders/ubuntu.desktop:55
 msgctxt "Query"
 msgid "https://packages.ubuntu.com/\\\\{@}"
 msgstr "https://packages.ubuntu.com/\\\\{@}"
@@ -1678,7 +1678,7 @@ msgctxt "Name"
 msgid "WineHQ Database"
 msgstr "Ggwanika lya Puloguramu n'ebizifaako erya WineHQ"
 
-#: src/urifilters/ikws/searchproviders/wine.desktop:54
+#: src/urifilters/ikws/searchproviders/wine.desktop:55
 msgctxt "Query"
 msgid "https://www.winehq.org/search?q=\\\\{@}"
 msgstr "https://www.winehq.org/search?q=\\\\{@}"
