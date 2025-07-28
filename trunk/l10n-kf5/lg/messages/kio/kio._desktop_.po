@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-07-19 06:39+0000\n"
+"POT-Creation-Date: 2025-07-28 02:01+0000\n"
 "PO-Revision-Date: 2024-11-13 21:43+0000\n"
 "Last-Translator: Kizito Birabwa <kbirabwa@yahoo.co.uk>\n"
 "Language-Team: Luganda <kde-i18n-doc@kde.org>\n"
@@ -684,7 +684,7 @@ msgctxt "Name"
 msgid "Flatpak Documentation"
 msgstr "Ebiwandiko Ebikwata ku Flatpak"
 
-#: src/urifilters/ikws/searchproviders/flatpak.desktop:54
+#: src/urifilters/ikws/searchproviders/flatpak.desktop:55
 msgctxt "Query"
 msgid ""
 "https://docs.flatpak.org/en/latest/search.html?q=\\\\{@}"
@@ -744,7 +744,7 @@ msgctxt "Name"
 msgid "Freecode"
 msgstr "Freecode"
 
-#: src/urifilters/ikws/searchproviders/freecode.desktop:70
+#: src/urifilters/ikws/searchproviders/freecode.desktop:71
 msgctxt "Query"
 msgid "http://freecode.com/search?q=\\\\{@}"
 msgstr "http://freecode.com/search?q=\\\\{@}"
