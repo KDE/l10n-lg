@@ -1,15 +1,15 @@
 # SPDX-FileCopyrightText: 2025 Kizito Birabwa <kbirabwa@yahoo.co.uk>
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"PO-Revision-Date: 2025-08-09 18:57+0100\n"
+"Last-Translator: Kizito Birabwa <kbirabwa@yahoo.co.uk>\n"
+"Language-Team: Luganda\n"
+"Language: lg_UG\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Qt-Contexts: true\n"
-"Last-Translator: Kizito Birabwa <kbirabwa@yahoo.co.uk>\n"
-"PO-Revision-Date: 2025-08-09 18:57+0100\n"
-"Project-Id-Version: \n"
-"Language-Team: Luganda\n"
-"Language: lg_UG\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Lokalize 24.05.2\n"
 "X-Language: lg_UG\n"
@@ -346,12 +346,7 @@ msgctxt "BrowserWindow|"
 msgid "There are still open tabs"
 msgstr "Okyalinawo obutimbe"
 
-#: lib/tabwidget/tabbar.cpp:111
-msgctxt "BrowserWindow|"
-msgid "Close Tab"
-msgstr "Gyawo Katimbe"
-
-#: lib/app/mainapplication.cpp:1148
+#: lib/app/mainapplication.cpp:1149
 msgctxt "MainApplication|"
 msgid ""
 "Falkon is not currently your default browser. Would you like to make it your "
@@ -632,11 +627,6 @@ msgctxt "AutoFillWidget|"
 msgid "Choose username to login"
 msgstr "Londa akawunti ey'okuyingira"
 
-#: lib/autofill/autofillwidget.ui:11
-msgctxt "AutoFillWidget|"
-msgid "Login as:"
-msgstr "Yingirira ku akawunti eya:"
-
 #: lib/autofill/autofillnotification.cpp:39
 #, qt-format
 msgctxt "AutoFillNotification|"
@@ -681,10 +671,33 @@ msgctxt "AutoFillNotification|"
 msgid "Not Now"
 msgstr "Ssi Kakati"
 
+#: lib/autofill/autofillwidget.ui:11
+msgctxt "AutoFillWidget|"
+msgid "Login as:"
+msgstr "Yingirira ku akawunti eya:"
+
 #: lib/autofill/passwordbackends/databaseencryptedpasswordbackend.cpp:258
 msgctxt "AutoFill|"
 msgid "Database (encrypted)"
 msgstr "Ggwanika lya data (erikisawaze)"
+
+#: lib/autofill/passwordbackends/databaseencryptedpasswordbackend.cpp:547
+#: lib/autofill/passwordbackends/databaseencryptedpasswordbackend.cpp:552
+#: lib/autofill/passwordbackends/databaseencryptedpasswordbackend.cpp:601
+#: lib/autofill/passwordbackends/databaseencryptedpasswordbackend.cpp:644
+msgctxt "MasterPasswordDialog|"
+msgid "Warning!"
+msgstr "Kulabula!"
+
+#: lib/autofill/passwordbackends/databaseencryptedpasswordbackend.cpp:547
+msgctxt "MasterPasswordDialog|"
+msgid "You entered a wrong password!"
+msgstr "Oyingizza kisobi!"
+
+#: lib/autofill/passwordbackends/databaseencryptedpasswordbackend.cpp:552
+msgctxt "MasterPasswordDialog|"
+msgid "New/Confirm password fields do not match!"
+msgstr "Ky'owandise okukakasa ekyama kyawufu ku ky'osoose okuwandika!"
 
 #: lib/autofill/passwordbackends/databaseencryptedpasswordbackend.cpp:579
 msgctxt "AutoFill|"
@@ -700,6 +713,16 @@ msgstr ""
 "Puloguramu ey'oku musingi  eno ekwetaagisa kusooka kutegeka ekyama "
 "kisibabyonna! Bwe kibulawo Falkon ekozesa puloguramu ey'oku musingi eya "
 "bulijjo"
+
+#: lib/autofill/passwordbackends/databaseencryptedpasswordbackend.cpp:601
+msgctxt "MasterPasswordDialog|"
+msgid "Are you sure you want to clear master password and decrypt data?"
+msgstr "Okakasa oyagala okugyawo ekyama kisibabyonna n'okukisulula data?"
+
+#: lib/autofill/passwordbackends/databaseencryptedpasswordbackend.cpp:644
+msgctxt "MasterPasswordDialog|"
+msgid "Some data has not been decrypted. The master password was not cleared!"
+msgstr "Waliwo ku data etakisuludwa. Ekyama kisibabyonna tekigyidwawo!"
 
 #: lib/autofill/passwordbackends/databaseencryptedpasswordbackend.cpp:670
 msgctxt "AutoFill|"
@@ -720,34 +743,6 @@ msgstr "Ekiwandikidwa kyawukana ku kyama!"
 msgctxt "AutoFill|"
 msgid "Database (plaintext)"
 msgstr "Ggwanika lya data (eritali likisawaze)"
-
-#: lib/autofill/passwordbackends/databaseencryptedpasswordbackend.cpp:547
-#: lib/autofill/passwordbackends/databaseencryptedpasswordbackend.cpp:552
-#: lib/autofill/passwordbackends/databaseencryptedpasswordbackend.cpp:601
-#: lib/autofill/passwordbackends/databaseencryptedpasswordbackend.cpp:644
-msgctxt "MasterPasswordDialog|"
-msgid "Warning!"
-msgstr "Kulabula!"
-
-#: lib/autofill/passwordbackends/databaseencryptedpasswordbackend.cpp:547
-msgctxt "MasterPasswordDialog|"
-msgid "You entered a wrong password!"
-msgstr "Oyingizza kisobi!"
-
-#: lib/autofill/passwordbackends/databaseencryptedpasswordbackend.cpp:552
-msgctxt "MasterPasswordDialog|"
-msgid "New/Confirm password fields do not match!"
-msgstr "Ky'owandise okukakasa ekyama kyawufu ku ky'osoose okuwandika!"
-
-#: lib/autofill/passwordbackends/databaseencryptedpasswordbackend.cpp:601
-msgctxt "MasterPasswordDialog|"
-msgid "Are you sure you want to clear master password and decrypt data?"
-msgstr "Okakasa oyagala okugyawo ekyama kisibabyonna n'okukisulula data?"
-
-#: lib/autofill/passwordbackends/databaseencryptedpasswordbackend.cpp:644
-msgctxt "MasterPasswordDialog|"
-msgid "Some data has not been decrypted. The master password was not cleared!"
-msgstr "Waliwo ku data etakisuludwa. Ekyama kisibabyonna tekigyidwawo!"
 
 #: lib/autofill/passwordbackends/masterpassworddialog.ui:20
 msgctxt "MasterPasswordDialog|"
@@ -839,69 +834,6 @@ msgstr "Obukwatakifo obutali busengeke"
 msgctxt "Bookmarks|"
 msgid "All other bookmarks"
 msgstr "Obukwatakifo obusigadde"
-
-#: lib/bookmarks/bookmarkstools.cpp:154
-msgctxt "Bookmarks|"
-msgid "Choose name and location of this bookmark."
-msgstr "Akakwatakifo kano kutuume olonde ne gyekaba katerekebwa."
-
-#: lib/bookmarks/bookmarkstools.cpp:158
-msgctxt "Bookmarks|"
-msgid "Add New Bookmark"
-msgstr "Kolawo kakwatakifo"
-
-#: lib/bookmarks/bookmarkstools.cpp:198
-msgctxt "Bookmarks|"
-msgid "Choose folder for bookmarks:"
-msgstr "Londa etterekero omunaaterekebwanga obukwatakifo:"
-
-#: lib/bookmarks/bookmarkstools.cpp:199
-msgctxt "Bookmarks|"
-msgid "Bookmark All Tabs"
-msgstr "Kwata Ebifo Ebiri mu Butimbe Bwonna Obuliwo Kakano"
-
-#: lib/bookmarks/bookmarkstools.cpp:240
-msgctxt "Bookmarks|"
-msgid "Title:"
-msgstr "Linnya:"
-
-#: lib/bookmarks/bookmarkstools.cpp:243
-msgctxt "Bookmarks|"
-msgid "Address:"
-msgstr "Ndagiriro:"
-
-#: lib/bookmarks/bookmarkstools.cpp:245
-msgctxt "Bookmarks|"
-msgid "Keyword:"
-msgstr "Erinnya ffunze:"
-
-#: lib/bookmarks/bookmarkstools.cpp:248
-msgctxt "Bookmarks|"
-msgid "Description:"
-msgstr "Ebirufaako:"
-
-#: lib/bookmarks/bookmarkstools.cpp:253
-msgctxt "Bookmarks|"
-msgid "Edit Bookmark"
-msgstr "Akakwatakifo kakyusemu"
-
-#: lib/bookmarks/bookmarkstools.cpp:345
-msgctxt "Bookmarks|"
-msgid "Confirmation"
-msgstr "Kukakasa"
-
-#: lib/bookmarks/bookmarkstools.cpp:346
-#, qt-format
-msgctxt "Bookmarks|"
-msgid "Are you sure you want to open all bookmarks from '%1' folder in tabs?"
-msgstr ""
-"Okakasa oyagala obukwatakifo bwonna obuli mu tterekero '%1' okubikkulira mu "
-"butimbe?"
-
-#: lib/bookmarks/bookmarkstools.cpp:456
-msgctxt "Bookmarks|"
-msgid "Empty"
-msgstr "Wereere"
 
 #: lib/bookmarks/bookmarksexport/bookmarksexportdialog.cpp:64
 msgctxt "BookmarksExportDialog|"
@@ -1031,16 +963,6 @@ msgctxt "BookmarksImportDialog|"
 msgid "< Back"
 msgstr "< Ddayo"
 
-#: lib/bookmarks/bookmarksimport/firefoximporter.cpp:70
-msgctxt "BookmarksImportDialog|"
-msgid "File does not exist."
-msgstr "Fayiro teriyo."
-
-#: lib/bookmarks/bookmarksimport/firefoximporter.cpp:77
-msgctxt "BookmarksImportDialog|"
-msgid "Unable to open database. Is Firefox running?"
-msgstr "Nnemedwa okubikkula ggwanika lya data. Firefox yatandikidwa?"
-
 #: lib/bookmarks/bookmarksimport/chromeimporter.cpp:33
 msgctxt "BookmarksImporter|"
 msgid ""
@@ -1080,6 +1002,16 @@ msgstr ""
 "Mozilla Firefox obukwatakifo ebuterekera mu ggwanika lya data ery'ekika kya "
 "SQLite eyitibwa <b>places.sqlite</b>. Fayiro eyo etera okusangibwa mu"
 
+#: lib/bookmarks/bookmarksimport/firefoximporter.cpp:70
+msgctxt "BookmarksImportDialog|"
+msgid "File does not exist."
+msgstr "Fayiro teriyo."
+
+#: lib/bookmarks/bookmarksimport/firefoximporter.cpp:77
+msgctxt "BookmarksImportDialog|"
+msgid "Unable to open database. Is Firefox running?"
+msgstr "Nnemedwa okubikkula ggwanika lya data. Firefox yatandikidwa?"
+
 #: lib/bookmarks/bookmarksimport/htmlimporter.cpp:32
 msgctxt "BookmarksImporter|"
 msgid ""
@@ -1115,8 +1047,8 @@ msgid ""
 "Opera stores its bookmarks in <b>bookmarks.adr</b> text file. This file is "
 "usually located in"
 msgstr ""
-"Opera obukwatakifo ebuterekera mu fayiro ey'ebigambo eyitibwa "
-"<b>bookmarks.adr</b>. Fayiro eyo etera okusangibwa mu"
+"Opera obukwatakifo ebuterekera mu fayiro ey'ebigambo eyitibwa <b>bookmarks."
+"adr</b>. Fayiro eyo etera okusangibwa mu"
 
 #: lib/bookmarks/bookmarksimport/operaimporter.cpp:64
 msgctxt "BookmarksImporter|"
@@ -1271,6 +1203,69 @@ msgstr "Wandika Linnya lya Tterekero:"
 msgctxt "BookmarksFoldersMenu|"
 msgid "Choose %1"
 msgstr "Londa %1"
+
+#: lib/bookmarks/bookmarkstools.cpp:154
+msgctxt "Bookmarks|"
+msgid "Choose name and location of this bookmark."
+msgstr "Akakwatakifo kano kutuume olonde ne gyekaba katerekebwa."
+
+#: lib/bookmarks/bookmarkstools.cpp:158
+msgctxt "Bookmarks|"
+msgid "Add New Bookmark"
+msgstr "Kolawo kakwatakifo"
+
+#: lib/bookmarks/bookmarkstools.cpp:198
+msgctxt "Bookmarks|"
+msgid "Choose folder for bookmarks:"
+msgstr "Londa etterekero omunaaterekebwanga obukwatakifo:"
+
+#: lib/bookmarks/bookmarkstools.cpp:199
+msgctxt "Bookmarks|"
+msgid "Bookmark All Tabs"
+msgstr "Kwata Ebifo Ebiri mu Butimbe Bwonna Obuliwo Kakano"
+
+#: lib/bookmarks/bookmarkstools.cpp:240
+msgctxt "Bookmarks|"
+msgid "Title:"
+msgstr "Linnya:"
+
+#: lib/bookmarks/bookmarkstools.cpp:243
+msgctxt "Bookmarks|"
+msgid "Address:"
+msgstr "Ndagiriro:"
+
+#: lib/bookmarks/bookmarkstools.cpp:245
+msgctxt "Bookmarks|"
+msgid "Keyword:"
+msgstr "Erinnya ffunze:"
+
+#: lib/bookmarks/bookmarkstools.cpp:248
+msgctxt "Bookmarks|"
+msgid "Description:"
+msgstr "Ebirufaako:"
+
+#: lib/bookmarks/bookmarkstools.cpp:253
+msgctxt "Bookmarks|"
+msgid "Edit Bookmark"
+msgstr "Akakwatakifo kakyusemu"
+
+#: lib/bookmarks/bookmarkstools.cpp:345
+msgctxt "Bookmarks|"
+msgid "Confirmation"
+msgstr "Kukakasa"
+
+#: lib/bookmarks/bookmarkstools.cpp:346
+#, qt-format
+msgctxt "Bookmarks|"
+msgid "Are you sure you want to open all bookmarks from '%1' folder in tabs?"
+msgstr ""
+"Okakasa oyagala obukwatakifo bwonna obuli mu tterekero '%1' okubikkulira mu "
+"butimbe?"
+
+#: lib/bookmarks/bookmarkstools.cpp:456
+msgctxt "Bookmarks|"
+msgid "Empty"
+msgstr "Wereere"
 
 #: lib/bookmarks/bookmarkswidget.cpp:98
 msgctxt "BookmarksWidget|"
@@ -2069,11 +2064,6 @@ msgctxt "LocationBar|"
 msgid "Enter address"
 msgstr "Wandika ndagiriro"
 
-#: lib/navigation/siteicon.cpp:40
-msgctxt "LocationBar|"
-msgid "Show information about this page"
-msgstr "Ndaga ebifa ku lupapula luno"
-
 #: lib/navigation/navigationbar.cpp:50
 msgctxt "NavigationBar|"
 msgid "Empty Page"
@@ -2198,6 +2188,11 @@ msgstr "Koma"
 msgctxt "ReloadStopButton|"
 msgid "Reload"
 msgstr "Ddamu kulubikkula"
+
+#: lib/navigation/siteicon.cpp:40
+msgctxt "LocationBar|"
+msgid "Show information about this page"
+msgstr "Ndaga ebifa ku lupapula luno"
 
 #: lib/navigation/websearchbar.cpp:97
 msgctxt "WebSearchBar|"
@@ -2813,60 +2808,6 @@ msgctxt "QObject|"
 msgid "Native System Notification"
 msgstr "Endaga ya Bubaka Obutangaaza eyajjira ku Sisitemu"
 
-#: lib/opensearch/opensearchreader.cpp:105
-msgctxt "QObject|"
-msgid "The file is not an OpenSearch 1.1 file."
-msgstr "Fayiro si ya kika kya OpenSearch 1.1."
-
-#: lib/tools/certificateinfowidget.cpp:300
-msgctxt "QObject|"
-msgid "<not set in certificate>"
-msgstr "<mu mmatizo ssi kitegeke>"
-
-#: lib/tools/qztools.cpp:379
-msgctxt "QObject|"
-msgid "Unknown size"
-msgstr "Obunene tebutegeerese"
-
-#: lib/tools/qztools.cpp:386
-#, qt-format
-msgctxt "QObject|"
-msgid "%1 kB"
-msgstr "kB %1"
-
-#: lib/tools/qztools.cpp:391
-#, qt-format
-msgctxt "QObject|"
-msgid "%1 MB"
-msgstr "MB %1"
-
-#: lib/tools/qztools.cpp:395
-#, qt-format
-msgctxt "QObject|"
-msgid "%1 GB"
-msgstr "GB %1"
-
-#: lib/tools/qztools.cpp:854
-msgctxt "QObject|"
-msgid "Executable: "
-msgstr "Puloguramu: "
-
-#: lib/tools/qztools.cpp:855
-msgctxt "QObject|"
-msgid "Arguments: "
-msgstr "Agumenti: "
-
-#: lib/tools/qztools.cpp:857
-msgctxt "QObject|"
-msgid "Cannot start external program"
-msgstr "Tekisobose okutandika puloguramu endala"
-
-#: lib/tools/qztools.cpp:858
-#, qt-format
-msgctxt "QObject|"
-msgid "Cannot start external program! %1"
-msgstr "Tekisobose okutandika puloguramu endala! %1"
-
 #: lib/opensearch/editsearchengine.ui:20
 msgctxt "EditSearchEngine|"
 msgid "Name:"
@@ -2903,6 +2844,11 @@ msgstr ""
 msgctxt "EditSearchEngine|"
 msgid "Post Data:"
 msgstr "Data egenda okusindikibwa:"
+
+#: lib/opensearch/opensearchreader.cpp:105
+msgctxt "QObject|"
+msgid "The file is not an OpenSearch 1.1 file."
+msgstr "Fayiro si ya kika kya OpenSearch 1.1."
 
 #: lib/opensearch/searchenginesdialog.cpp:52
 #: lib/opensearch/searchenginesmanager.cpp:314
@@ -3075,11 +3021,11 @@ msgstr "Gwanika lya data lituukanisidwa"
 #, qt-format
 msgctxt "ClearPrivateData|"
 msgid ""
-"Database successfully optimized.<br/><br/><b>Database Size Before: "
-"</b>%1<br/><b>Database Size After: </b>%2"
+"Database successfully optimized.<br/><br/><b>Database Size Before: </b>%1<br/"
+"><b>Database Size After: </b>%2"
 msgstr ""
-"Gwanika lya data lituukanisidwa.<br/><br/><b>Obunene bwa lyo luli: "
-"</b>%1<br/><b>Obunene bwa lyo kakati: </b>%2"
+"Gwanika lya data lituukanisidwa.<br/><br/><b>Obunene bwa lyo luli: </b>%1<br/"
+"><b>Obunene bwa lyo kakati: </b>%2"
 
 #: lib/other/clearprivatedata.ui:14
 msgctxt "ClearPrivateData|"
@@ -3947,8 +3893,8 @@ msgstr ""
 #: lib/preferences/autoopenprotocolsdialog.ui:20
 msgctxt "AutoOpenProtocolsDialog|"
 msgid ""
-"<html><head/><body><p><span style=\" font-weight:700;\">Auto "
-"Open</span></p></body></html>"
+"<html><head/><body><p><span style=\" font-weight:700;\">Auto Open</span></"
+"p></body></html>"
 msgstr ""
 
 #: lib/preferences/autoopenprotocolsdialog.ui:34
@@ -3966,8 +3912,8 @@ msgstr "Gyawo"
 #: lib/preferences/autoopenprotocolsdialog.ui:65
 msgctxt "AutoOpenProtocolsDialog|"
 msgid ""
-"<html><head/><body><p><span style=\" "
-"font-weight:700;\">Blocked</span></p></body></html>"
+"<html><head/><body><p><span style=\" font-weight:700;\">Blocked</span></p></"
+"body></html>"
 msgstr ""
 "<html><head/><body><p><span style=\" font-weight:700;\">Enteekateeka "
 "Ezigaanidwa</span></p></body></html>"
@@ -4943,8 +4889,8 @@ msgstr ""
 #: lib/preferences/preferences.ui:1873
 msgctxt "Preferences|"
 msgid ""
-"Existing shortcuts:<br/><b>1</b> - previous tab<br/><b>2</b> - next "
-"tab<br/><b>/</b> - search on page"
+"Existing shortcuts:<br/><b>1</b> - previous tab<br/><b>2</b> - next tab<br/"
+"><b>/</b> - search on page"
 msgstr ""
 "Ebyanguya ebiriwo:<br/><b>1</b> - katimbe akalembera<br/><b>2</b> - katimbe "
 "akaddako<br/><b>/</b> - noonyeza ku lupapula luno"
@@ -5138,11 +5084,11 @@ msgstr "Laba Bwe Binaafaanana"
 #: lib/preferences/preferences.ui:2495
 msgctxt "Preferences|"
 msgid ""
-"For more information about Spell Check, please see <a "
-"href=\"https://userbase.kde.org/Falkon#Spell_Check\">wiki</a>."
+"For more information about Spell Check, please see <a href=\"https://"
+"userbase.kde.org/Falkon#Spell_Check\">wiki</a>."
 msgstr ""
-"Okumanya ebisingawo ku Spell Check, kebera <a "
-"href=\"https://userbase.kde.org/Falkon#Spell_Check\">wiki</a>."
+"Okumanya ebisingawo ku Spell Check, kebera <a href=\"https://userbase.kde."
+"org/Falkon#Spell_Check\">wiki</a>."
 
 #: lib/preferences/preferences.ui:2537
 msgctxt "Preferences|"
@@ -5206,7 +5152,7 @@ msgctxt "Preferences|"
 msgid "<b>Manage protocol handlers</b>"
 msgstr "<b>Teekateeka ebikola ku bika bya mpulizagana</b>"
 
-#: lib/preferences/preferences.ui:2728
+#: lib/preferences/preferences.ui:2755
 msgctxt "Preferences|"
 msgid "Certificate Exception Manager"
 msgstr "Ekiteekateeka Eby'okubuusa Emmatizo Amaaso"
@@ -5712,6 +5658,11 @@ msgctxt "SideBar|"
 msgid "History"
 msgstr "Kabaawo ka birabidwa"
 
+#: lib/tabwidget/tabbar.cpp:111
+msgctxt "BrowserWindow|"
+msgid "Close Tab"
+msgstr "Gyawo Katimbe"
+
 #: lib/tabwidget/tabcontextmenu.cpp:63
 msgctxt "TabBar|"
 msgid "Don't ask again"
@@ -5907,6 +5858,11 @@ msgstr ""
 "Data eno yakisawazibwa mu Falkon ey'oluwandika olupya okusinga eyiyo.\n"
 "Okugisobola teekako Falkon ey'oluwandika olusingayo obupya."
 
+#: lib/tools/certificateinfowidget.cpp:300
+msgctxt "QObject|"
+msgid "<not set in certificate>"
+msgstr "<mu mmatizo ssi kitegeke>"
+
 #: lib/tools/certificateinfowidget.ui:17
 msgctxt "CertificateInfoWidget|"
 msgid "<b>Issued To</b>"
@@ -6025,6 +5981,50 @@ msgctxt "MacToolButton|"
 msgid "Select Color"
 msgstr "Londa Langi"
 
+#: lib/tools/qztools.cpp:379
+msgctxt "QObject|"
+msgid "Unknown size"
+msgstr "Obunene tebutegeerese"
+
+#: lib/tools/qztools.cpp:386
+#, qt-format
+msgctxt "QObject|"
+msgid "%1 kB"
+msgstr "kB %1"
+
+#: lib/tools/qztools.cpp:391
+#, qt-format
+msgctxt "QObject|"
+msgid "%1 MB"
+msgstr "MB %1"
+
+#: lib/tools/qztools.cpp:395
+#, qt-format
+msgctxt "QObject|"
+msgid "%1 GB"
+msgstr "GB %1"
+
+#: lib/tools/qztools.cpp:854
+msgctxt "QObject|"
+msgid "Executable: "
+msgstr "Puloguramu: "
+
+#: lib/tools/qztools.cpp:855
+msgctxt "QObject|"
+msgid "Arguments: "
+msgstr "Agumenti: "
+
+#: lib/tools/qztools.cpp:857
+msgctxt "QObject|"
+msgid "Cannot start external program"
+msgstr "Tekisobose okutandika puloguramu endala"
+
+#: lib/tools/qztools.cpp:858
+#, qt-format
+msgctxt "QObject|"
+msgid "Cannot start external program! %1"
+msgstr "Tekisobose okutandika puloguramu endala! %1"
+
 #: lib/webengine/jsalert.ui:125
 msgctxt "jsAlert|"
 msgid "Prevent this page from creating additional dialogs"
@@ -6034,13 +6034,12 @@ msgstr "Olupapula luno luleme okwongerawo obuboozi"
 #, qt-format
 msgctxt "WebPage|"
 msgid ""
-"Falkon cannot handle <b>%1:</b> links. The requested link is "
-"<ul><li>%2</li></ul>Do you want Falkon to try open this link in system "
-"application?"
+"Falkon cannot handle <b>%1:</b> links. The requested link is <ul><li>%2</"
+"li></ul>Do you want Falkon to try open this link in system application?"
 msgstr ""
-"Falkon tesobola nyunzi ez'ekika kya <b>%1:</b> . Egeza okugguka ku "
-"<ul><li>%2</li></ul>Oyagala Falkon egeze okubikkuzayo puloguramu endala eya "
-"ku sisitemu yo?"
+"Falkon tesobola nyunzi ez'ekika kya <b>%1:</b> . Egeza okugguka ku <ul><li>"
+"%2</li></ul>Oyagala Falkon egeze okubikkuzayo puloguramu endala eya ku "
+"sisitemu yo?"
 
 #: lib/webengine/webpage.cpp:337
 msgctxt "WebPage|"

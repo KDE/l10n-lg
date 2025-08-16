@@ -40,4 +40,3 @@ msgstr "Enteekateeka ez'Okutandika Ebikolwa"
 #: settingsdialog.py:39
 msgid "Available actions"
 msgstr "Ebikolwa ebirondeka"
-
