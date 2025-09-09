@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-08-17 00:49+0000\n"
+"POT-Creation-Date: 2025-09-09 01:13+0000\n"
 "PO-Revision-Date: 2025-07-20 13:11+0100\n"
 "Last-Translator: Kizito Birabwa <kbirabwa@yahoo.co.uk>\n"
 "Language-Team: Luganda\n"
@@ -19,27 +19,27 @@ msgctxt "Name"
 msgid "Falkon"
 msgstr "Falkon"
 
-#: linux/applications/org.kde.falkon.desktop:52
+#: linux/applications/org.kde.falkon.desktop:51
 msgctxt "Comment"
 msgid "A fast and secure web browser"
 msgstr "Bulawuza eyanguya era nga mmizi"
 
-#: linux/applications/org.kde.falkon.desktop:98
+#: linux/applications/org.kde.falkon.desktop:96
 msgctxt "GenericName"
 msgid "Web Browser"
 msgstr "Bulawuza ya ku Mutimbagano"
 
-#: linux/applications/org.kde.falkon.desktop:151
+#: linux/applications/org.kde.falkon.desktop:148
 msgctxt "Name"
 msgid "Open new tab"
 msgstr "Leeta katimbe kapya"
 
-#: linux/applications/org.kde.falkon.desktop:201
+#: linux/applications/org.kde.falkon.desktop:197
 msgctxt "Name"
 msgid "Open new window"
 msgstr "Leeta ddirisa ppya"
 
-#: linux/applications/org.kde.falkon.desktop:251
+#: linux/applications/org.kde.falkon.desktop:246
 msgctxt "Name"
 msgid "Start private browsing"
 msgstr "Tandika enkebera emmizi"
@@ -49,7 +49,7 @@ msgctxt "Name"
 msgid "AdBlock"
 msgstr "AdBlock"
 
-#: src/lib/adblock/metadata.desktop:48
+#: src/lib/adblock/metadata.desktop:47
 msgctxt "Comment"
 msgid "Blocks unwanted web content"
 msgstr "Ebuutikira ebirango by'otowetaaga ku mpapula za ku mutimbagano"
@@ -59,7 +59,7 @@ msgctxt "Name"
 msgid "Breeze"
 msgstr "Breeze"
 
-#: src/lib/data/breeze-fallback/index.theme:48
+#: src/lib/data/breeze-fallback/index.theme:47
 msgctxt "Comment"
 msgid "Breeze Team"
 msgstr "Abakola ku Breeze"
@@ -69,7 +69,7 @@ msgctxt "Name"
 msgid "AutoScroll"
 msgstr "Kweseesa"
 
-#: src/plugins/AutoScroll/metadata.desktop:47
+#: src/plugins/AutoScroll/metadata.desktop:46
 msgctxt "Comment"
 msgid "Provides support for autoscroll with middle mouse button"
 msgstr ""
@@ -81,7 +81,7 @@ msgctxt "Name"
 msgid "Hello Python"
 msgstr "Hallo-Python"
 
-#: src/scripts/hellopython/metadata.desktop:47
+#: src/scripts/hellopython/metadata.desktop:46
 msgctxt "Comment"
 msgid "Example Python extension"
 msgstr "Ekyongezabusobozi kya mu Python eky'okulabirako"
@@ -91,7 +91,7 @@ msgctxt "Name"
 msgid "Hello Qml"
 msgstr "Hello-Qml"
 
-#: src/scripts/helloqml/metadata.desktop:47
+#: src/scripts/helloqml/metadata.desktop:46
 msgctxt "Comment"
 msgid "Sample Qml Plugin"
 msgstr "Ekyongerwako kya mu Qml eky'okulabirako"
@@ -101,7 +101,7 @@ msgctxt "Name"
 msgid "MiddleClickLoader"
 msgstr "MiddleClickLoader"
 
-#: src/scripts/middleclickloader/metadata.desktop:47
+#: src/scripts/middleclickloader/metadata.desktop:46
 msgctxt "Comment"
 msgid "Load text in selection clipboard as URL"
 msgstr ""
@@ -118,9 +118,9 @@ msgctxt "Name"
 msgid "Google"
 msgstr "Google"
 
-#: src/scripts/runaction/actions/googleimagesearch.desktop:49
-#: src/scripts/runaction/actions/tineyeimagesearch.desktop:47
-#: src/scripts/runaction/actions/yandeximagesearch.desktop:47
+#: src/scripts/runaction/actions/googleimagesearch.desktop:48
+#: src/scripts/runaction/actions/tineyeimagesearch.desktop:46
+#: src/scripts/runaction/actions/yandeximagesearch.desktop:46
 msgctxt "Comment"
 msgid "Search with..."
 msgstr "Noonyeza ku..."
@@ -155,7 +155,7 @@ msgctxt "Name"
 msgid "Run Action"
 msgstr "Tandika Ekikolwa"
 
-#: src/scripts/runaction/metadata.desktop:47
+#: src/scripts/runaction/metadata.desktop:46
 msgctxt "Comment"
 msgid "Run various actions on sites"
 msgstr "Tandika ebikolwa ebitalibimu ku bifo"
@@ -165,7 +165,7 @@ msgctxt "Name"
 msgid "Chrome"
 msgstr "Chrome"
 
-#: themes/chrome/metadata.desktop:48
+#: themes/chrome/metadata.desktop:47
 msgctxt "Comment"
 msgid "Chrome like theme for Falkon based on Firefox Chromifox theme"
 msgstr ""
@@ -177,7 +177,7 @@ msgctxt "Name"
 msgid "Linux"
 msgstr "Linux"
 
-#: themes/linux/metadata.desktop:49
+#: themes/linux/metadata.desktop:48
 msgctxt "Comment"
 msgid ""
 "Default simple theme for Linux using native widget style and some basic "
@@ -191,7 +191,7 @@ msgctxt "Name"
 msgid "Mac"
 msgstr "Mac"
 
-#: themes/mac/metadata.desktop:48
+#: themes/mac/metadata.desktop:47
 msgctxt "Comment"
 msgid "Mac like theme for Falkon based on Firefox Mac OS X theme"
 msgstr ""
@@ -203,7 +203,7 @@ msgctxt "Name"
 msgid "Windows"
 msgstr "Windows"
 
-#: themes/windows/metadata.desktop:48
+#: themes/windows/metadata.desktop:47
 msgctxt "Comment"
 msgid "Windows like theme based on Material design"
 msgstr ""
