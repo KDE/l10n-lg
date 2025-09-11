@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-09-09 01:13+0000\n"
+"POT-Creation-Date: 2025-09-11 00:49+0000\n"
 "PO-Revision-Date: 2025-05-21 01:28+0100\n"
 "Last-Translator: Kizito Birabwa <kbirabwa@yahoo.co.uk>\n"
 "Language-Team: Luganda\n"
@@ -18,16 +18,6 @@ msgstr ""
 msgctxt "Name"
 msgid "KIO"
 msgstr "KIO"
-
-#: src/kioworkers/file/kauth/file.actions:2
-msgctxt "Name"
-msgid "Execute action as root."
-msgstr "Omulimu gutandise obuyinza bwa muteesiteesi (root)."
-
-#: src/kioworkers/file/kauth/file.actions:62
-msgctxt "Description"
-msgid "Root privileges are required to complete the action."
-msgstr "Omulimu guno gwetaagisa buyinza bwa muteesiteesi (root)."
 
 #: src/new_file_templates/Directory.desktop:2
 msgctxt "Name"
@@ -1755,6 +1745,14 @@ msgstr "Lutiba Lw'ekyongerwako kya KIO"
 msgctxt "Comment"
 msgid "KIO Worker Template"
 msgstr "Lutiba Lw'ekyongerwako kya KIO"
+
+#~ msgctxt "Name"
+#~ msgid "Execute action as root."
+#~ msgstr "Omulimu gutandise obuyinza bwa muteesiteesi (root)."
+
+#~ msgctxt "Description"
+#~ msgid "Root privileges are required to complete the action."
+#~ msgstr "Omulimu guno gwetaagisa buyinza bwa muteesiteesi (root)."
 
 #~ msgctxt "Query"
 #~ msgid "https://cppreference.com/w/?search=\\\\{@}"
