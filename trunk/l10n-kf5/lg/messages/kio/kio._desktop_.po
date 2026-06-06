@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-03-02 02:15+0000\n"
+"POT-Creation-Date: 2026-06-06 02:45+0000\n"
 "PO-Revision-Date: 2024-11-13 21:43+0000\n"
 "Last-Translator: Kizito Birabwa <kbirabwa@yahoo.co.uk>\n"
 "Language-Team: Luganda <kde-i18n-doc@kde.org>\n"
@@ -1436,7 +1436,7 @@ msgctxt "Name"
 msgid "Qwant Videos"
 msgstr "Noonya Vidiyo ku Qwant"
 
-#: src/urifilters/ikws/searchproviders/qwant_videos.desktop:66
+#: src/urifilters/ikws/searchproviders/qwant_videos.desktop:67
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&t=videos"
 msgstr "https://www.qwant.com/?q=\\\\{@}&client=kde&t=videos"
