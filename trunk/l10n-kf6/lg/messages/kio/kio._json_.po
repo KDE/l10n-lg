@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-11-17 12:00+0000\n"
+"POT-Creation-Date: 2026-09-05 00:54+0000\n"
 "PO-Revision-Date: 2025-05-21 01:29+0100\n"
 "Last-Translator: Kizito Birabwa <kbirabwa@yahoo.co.uk>\n"
 "Language-Team: Luganda\n"
@@ -24,9 +24,25 @@ msgctxt "Name"
 msgid "Remote URL Change Notifier"
 msgstr "Kitemya ku nkyuuka mu ndagiriro ey'ebunaayira"
 
+#: src/kioworkers/trash/kdedmodule/trashdirnotify.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Remote URL Change Notifier"
+msgctxt "Name"
+msgid "Trash Change Notifier"
+msgstr "Kitemya ku nkyuuka mu ndagiriro ey'ebunaayira"
+
 #: src/kioworkers/remote/kdedmodule/remotedirnotify.json
 msgctxt "Description"
 msgid "Provides change notification for network folders"
+msgstr "Kikumanyisa nga wazzewo enkyuuka ku kisangibwa ku kayungirizi"
+
+#: src/kioworkers/trash/kdedmodule/trashdirnotify.json
+#, fuzzy
+#| msgctxt "Description"
+#| msgid "Provides change notification for network folders"
+msgctxt "Description"
+msgid "Provides change notification for the trash"
 msgstr "Kikumanyisa nga wazzewo enkyuuka ku kisangibwa ku kayungirizi"
 
 #: src/kioworkers/trash/trash.json
